@@ -82,7 +82,7 @@ Learn more {#resources}
     -   [Success Criteria relating to
         "text"](https://www.w3.org/WAI/WCAG20/quickref/?tags=text)
 -   **User Agent Accessibility Guidelines ([UAAG
-    Overview](https://www.w3.org/WAI/intro/uaag)):**
+    Overview]({{ "/standards-guidelines/uaag/" | relative_url }})):**
     -   [Provide text
         configuration](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/#gl-text-config)
     -   [Multi-Column Text
