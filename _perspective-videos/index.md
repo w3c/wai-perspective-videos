@@ -34,7 +34,7 @@ to get you started:
 -   [Introduction to Web
     Accessibility](https://www.w3.org/WAI/intro/accessibility.php)
 -   [How People with Disabilities Use the
-    Web](https://www.w3.org/WAI/intro/people-use-web/) - outlines users
+    Web]({{ "/people-use-web/" | relative_url }}) - outlines users
     stories, assistive technologies, and accessibility principles
 -   [Getting Started
     Tips](https://www.w3.org/WAI/gettingstarted/tips/) - basic first

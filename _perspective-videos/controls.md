@@ -60,21 +60,21 @@ Learn more {#resources}
 -   **Accessibility Principle:**
     -   [Users can easily navigate, find content, and determine where
         they
-        are](https://www.w3.org/WAI/intro/people-use-web/principles#navigable)
+        are]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
 -   **Getting Started:**
     -   [Create designs for different viewport
-        sizes](https://www.w3.org/WAI/gettingstarted/tips/designing.html#create-designs-for-different-viewport-sizes)
+        sizes]({{ "/tips/designing/" | relative_url }}#create-designs-for-different-viewport-sizes)
     -   [Ensure that form elements include clearly associated
-        labels](https://www.w3.org/WAI/gettingstarted/tips/designing.html#ensure-that-form-elements-include-clearly-associated-labels)
+        labels]({{ "/tips/designing/" | relative_url }}#ensure-that-form-elements-include-clearly-associated-labels)
 -   **Easy Check:**
     -   [Forms, labels, and
-        errors](https://www.w3.org/WAI/eval/preliminary#forms)
+        errors]({{ "/test-evaluation/preliminary/" | relative_url }}#forms)
 -   **User Story:**
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss](https://www.w3.org/WAI/intro/people-use-web/stories.html#retiree)
+        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
         "labels"](https://www.w3.org/WAI/WCAG20/quickref/?tags=labels)
 

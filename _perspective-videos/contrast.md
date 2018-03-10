@@ -56,27 +56,27 @@ sensitive to brightness and need to [change the colors]({{ site.github.url }}{% 
 
 -   **Accessibility Principle:**
     -   [Content is easier to see and
-        hear](https://www.w3.org/WAI/intro/people-use-web/principles#distinguishable)
+        hear]({{ "/fundamentals/accessibility-principles/" | relative_url }}#distinguishable)
 -   **Getting Started:**
     -   [Provide sufficient contrast between foreground and
-        background](https://www.w3.org/WAI/gettingstarted/tips/designing.html#provide-sufficient-contrast-between-foreground-and-background)
+        background]({{ "/tips/designing/" | relative_url }}#provide-sufficient-contrast-between-foreground-and-background)
 -   **Easy Check:**
     -   [Contrast ratio ("color
-        contrast")](https://www.w3.org/WAI/eval/preliminary#contrast)
+        contrast")]({{ "/test-evaluation/preliminary/" | relative_url }}#contrast)
 -   **User Story:**
     -   [Mr. Lee, Online shopper with color
-        blindness](https://www.w3.org/WAI/intro/people-use-web/stories.html#shopper)
+        blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss](https://www.w3.org/WAI/intro/people-use-web/stories.html#retiree)
+        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
 -   **User Needs:**
     -   [Accessibility Requirements for People with Low
         Vision](http://www.w3.org/TR/low-vision-needs/)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
         "contrast"](https://www.w3.org/WAI/WCAG20/quickref/?tags=contrast)
 -   **Mobile Applicability:**
     -   [Information conveyed solely with
-        color](https://www.w3.org/WAI/mobile/experiences.html#color)
+        color]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#color)
 

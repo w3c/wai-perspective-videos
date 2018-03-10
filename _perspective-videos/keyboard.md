@@ -48,27 +48,27 @@ Native HTML controls, like links, buttons, and form elements, work with the keyb
 
 -   **Accessibility Principle:**
     -   [Functionality is available from a
-        keyboard](https://www.w3.org/WAI/intro/people-use-web/principles#keyboard)
+        keyboard]({{ "/fundamentals/accessibility-principles/" | relative_url }}#keyboard)
 -   **Getting Started:**
     -   [Ensure that all interactive elements are keyboard
-        accessible](https://www.w3.org/WAI/gettingstarted/tips/developing.html#ensure-that-all-interactive-elements-are-keyboard-accessible)
+        accessible]({{ "/tips/developing/" | relative_url }}#ensure-that-all-interactive-elements-are-keyboard-accessible)
 -   **Easy Check:**
     -   [Keyboard access and visual
-        focus](https://www.w3.org/WAI/eval/preliminary#interaction)
+        focus]({{ "/test-evaluation/preliminary/" | relative_url }}#interaction)
 -   **User Story:**
     -   [Mr. Jones, Reporter with repetitive stress
-        injury](https://www.w3.org/WAI/intro/people-use-web/stories.html#reporter)
+        injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
     -   [Ms. Laitinen, Accountant with
-        blindness](https://www.w3.org/WAI/intro/people-use-web/stories.html#accountant)
+        blindness]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
     -   [Ms. Kaseem, Teenager with
-        deaf-blindness](https://www.w3.org/WAI/intro/people-use-web/stories.html#teenager)
+        deaf-blindness]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
         "keyboard"](https://www.w3.org/WAI/WCAG20/quickref/?tags=keyboard)
 -   **Mobile Applicability:**
     -   [Mouse required for interaction and
-        navigation](https://www.w3.org/WAI/mobile/experiences.html#mouse)
+        navigation]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#mouse)
 -   **Tutorial:**
     -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
         (several related topics)

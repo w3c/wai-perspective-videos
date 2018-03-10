@@ -60,30 +60,30 @@ across a website.
 -   **Accessibility Principle:**
     -   [Users can easily navigate, find content, and determine where
         they
-        are](https://www.w3.org/WAI/intro/people-use-web/principles#navigable)
+        are]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
     -   [Content appears and operates in predictable
-        ways](https://www.w3.org/WAI/intro/people-use-web/principles#predictable)
+        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
 -   **Getting Started:**
     -   [Provide clear and consistent navigation
-        options](https://www.w3.org/WAI/gettingstarted/tips/designing.html#provide-clear-and-consistent-navigation-options)
+        options]({{ "/tips/designing/" | relative_url }}#provide-clear-and-consistent-navigation-options)
     -   [Ensure that interactive elements are easy to
-        identify](https://www.w3.org/WAI/gettingstarted/tips/designing.html#ensure-that-interactive-elements-are-easy-to-identify)
+        identify]({{ "/tips/designing/" | relative_url }}#ensure-that-interactive-elements-are-easy-to-identify)
     -   [Ensure that form elements include clearly associated
-        labels](https://www.w3.org/WAI/gettingstarted/tips/designing.html#ensure-that-form-elements-include-clearly-associated-labels)
+        labels]({{ "/tips/designing/" | relative_url }}#ensure-that-form-elements-include-clearly-associated-labels)
 -   **Easy Check:**
     -   [Forms, labels, and
-        errors](https://www.w3.org/WAI/eval/preliminary#forms)
+        errors]({{ "/test-evaluation/preliminary/" | relative_url }}#forms)
 -   **User Story:**
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia](https://www.w3.org/WAI/intro/people-use-web/stories.html#classroomstudent)
+        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss](https://www.w3.org/WAI/intro/people-use-web/stories.html#retiree)
+        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
     -   [Mr. Sands, Supermarket assistant with Down
-        syndrome](https://www.w3.org/WAI/intro/people-use-web/stories.html#supermarketassistant)
+        syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
         "layout"](https://www.w3.org/WAI/WCAG20/quickref/?tags=layout)
 -   **Tutorial:**

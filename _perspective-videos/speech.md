@@ -65,40 +65,40 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Text alternatives for non-text
-        content](https://www.w3.org/WAI/intro/people-use-web/principles#alternatives)
+        content]({{ "/fundamentals/accessibility-principles/" | relative_url }}#alternatives)
     -   [Content can be presented in different
-        ways](https://www.w3.org/WAI/intro/people-use-web/principles#adaptable)
+        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   **Getting Started:**
     -   [Write meaningful text alternatives for
-        images](https://www.w3.org/WAI/gettingstarted/tips/writing.html#write-meaningful-text-alternatives-for-images)
+        images]({{ "/tips/writing/" | relative_url }}#write-meaningful-text-alternatives-for-images)
     -   [Use headings to convey meaning and
-        structure](https://www.w3.org/WAI/gettingstarted/tips/writing.html#use-headings-to-convey-meaning-and-structure)
+        structure]({{ "/tips/writing/" | relative_url }}#use-headings-to-convey-meaning-and-structure)
     -   [Identify page language and language
-        changes](https://www.w3.org/WAI/gettingstarted/tips/developing.html#identify-page-language-and-language-changes)
+        changes]({{ "/tips/developing/" | relative_url }}#identify-page-language-and-language-changes)
 -   **Easy Check:**
     -   [Image text alternatives ("alt
-        text")](https://www.w3.org/WAI/eval/preliminary#images)
+        text")]({{ "/test-evaluation/preliminary/" | relative_url }}#images)
     -   [Basic Structure
-        Check](https://www.w3.org/WAI/eval/preliminary#structure)
+        Check]({{ "/test-evaluation/preliminary/" | relative_url }}#structure)
 -   **User Story:**
     -   [Ms. Laitinen, Accountant with
-        blindness](https://www.w3.org/WAI/intro/people-use-web/stories.html#accountant)
+        blindness]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
     -   [Ms. Kaseem, Teenager with
-        deaf-blindness](https://www.w3.org/WAI/intro/people-use-web/stories.html#teenager)
+        deaf-blindness]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia](https://www.w3.org/WAI/intro/people-use-web/stories.html#classroomstudent)
+        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to "images" and
         "structure"](https://www.w3.org/WAI/WCAG20/quickref/?tags=images%2Cstructure)
 -   **Mobile Applicability:**
     -   [Non-text objects (images, sound, video) with no text
-        alternative](https://www.w3.org/WAI/mobile/experiences.html#non-text)
+        alternative]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#non-text)
     -   [Information conveyed only using CSS (visual
-        formatting)](https://www.w3.org/WAI/mobile/experiences.html#visual-formatting)
+        formatting)]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#visual-formatting)
     -   [Non-descriptive link
-        label](https://www.w3.org/WAI/mobile/experiences.html#link-label)
+        label]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#link-label)
 -   **Tutorial:**
     -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
         (several related topics)

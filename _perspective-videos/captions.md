@@ -69,21 +69,21 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Captions and other alternatives for
-        multimedia](https://www.w3.org/WAI/intro/people-use-web/principles#captions)
+        multimedia]({{ "/fundamentals/accessibility-principles/" | relative_url }}#captions)
 -   **Getting Started:**
     -   [Create transcripts and captions for
-        multimedia](https://www.w3.org/WAI/gettingstarted/tips/writing.html#create-transcripts-and-captions-for-multimedia)
+        multimedia]({{ "/tips/writing/" | relative_url }}#create-transcripts-and-captions-for-multimedia)
 -   **Easy Check:**
     -   [Multimedia (video, audio)
-        alternatives](https://www.w3.org/WAI/eval/preliminary#media)
+        alternatives]({{ "/test-evaluation/preliminary/" | relative_url }}#media)
 -   **User Story:**
     -   [Ms. Martinez, Online student who is hard of
-        hearing](https://www.w3.org/WAI/intro/people-use-web/stories.html#onlinestudent)
+        hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
         "captions"](https://www.w3.org/WAI/WCAG20/quickref/?tags=captions)
 -   **Mobile Applicability:**
     -   [Multimedia with no
-        captions](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
+        captions]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#multimedia)
 

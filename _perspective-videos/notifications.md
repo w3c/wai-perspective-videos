@@ -61,28 +61,28 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Content appears and operates in predictable
-        ways](https://www.w3.org/WAI/intro/people-use-web/principles#predictable)
+        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
     -   [Users are helped to avoid and correct
-        mistakes](https://www.w3.org/WAI/intro/people-use-web/principles#tolerant)
+        mistakes]({{ "/fundamentals/accessibility-principles/" | relative_url }}#tolerant)
 -   **Getting Started:**
     -   [Provide clear
-        instructions](https://www.w3.org/WAI/gettingstarted/tips/writing.html#provide-clear-instructions)
+        instructions]({{ "/tips/writing/" | relative_url }}#provide-clear-instructions)
     -   [Help users avoid and correct
-        mistakes](https://www.w3.org/WAI/gettingstarted/tips/developing.html#help-users-avoid-and-correct-mistakes)
+        mistakes]({{ "/tips/developing/" | relative_url }}#help-users-avoid-and-correct-mistakes)
 -   **Easy Check:**
     -   [Forms, labels, and errors (including Search
-        fields)](https://www.w3.org/WAI/eval/preliminary#forms)
+        fields)]({{ "/test-evaluation/preliminary/" | relative_url }}#forms)
 -   **User Story:**
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia](https://www.w3.org/WAI/intro/people-use-web/stories.html#classroomstudent)
+        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss](https://www.w3.org/WAI/intro/people-use-web/stories.html#retiree)
+        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
     -   [Mr. Sands, Supermarket assistant with Down
-        syndrome](https://www.w3.org/WAI/intro/people-use-web/stories.html#supermarketassistant)
+        syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
         "errors"](https://www.w3.org/WAI/WCAG20/quickref/?tags=errors)
 -   **Tutorial:**

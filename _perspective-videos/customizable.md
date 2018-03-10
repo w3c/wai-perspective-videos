@@ -64,21 +64,21 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Content can be presented in different
-        ways](https://www.w3.org/WAI/intro/people-use-web/principles#adaptable)
+        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
 -   **Getting Started:**
     -   [Write code that adapts to the user's
-        technology](https://www.w3.org/WAI/gettingstarted/tips/developing.html#write-code-that-adapts-to-the-users-technology)
+        technology]({{ "/tips/developing/" | relative_url }}#write-code-that-adapts-to-the-users-technology)
 -   **Easy Check:**
-    -   [Resize text](https://www.w3.org/WAI/eval/preliminary#resize)
+    -   [Resize text]({{ "/test-evaluation/preliminary/" | relative_url }}#resize)
 -   **User Story:**
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss](https://www.w3.org/WAI/intro/people-use-web/stories.html#retiree)
+        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia](https://www.w3.org/WAI/intro/people-use-web/stories.html#classroomstudent)
+        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
         "text"](https://www.w3.org/WAI/WCAG20/quickref/?tags=text)
 -   **User Agent Accessibility Guidelines ([UAAG

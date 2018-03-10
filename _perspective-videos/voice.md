@@ -59,33 +59,33 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Functionality is available from a
-        keyboard](https://www.w3.org/WAI/intro/people-use-web/principles#keyboard)
+        keyboard]({{ "/fundamentals/accessibility-principles/" | relative_url }}#keyboard)
     -   [Content appears and operates in predictable
-        ways](https://www.w3.org/WAI/intro/people-use-web/principles#predictable)
+        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
 -   **Getting Started:**
     -   [Ensure that all interactive elements are keyboard
-        accessible](https://www.w3.org/WAI/gettingstarted/tips/developing.html#ensure-that-all-interactive-elements-are-keyboard-accessible)
+        accessible]({{ "/tips/developing/" | relative_url }}#ensure-that-all-interactive-elements-are-keyboard-accessible)
     -   [Provide meaning for non-standard interactive
-        elements](https://www.w3.org/WAI/gettingstarted/tips/developing.html#provide-meaning-for-non-standard-interactive-elements)
+        elements]({{ "/tips/developing/" | relative_url }}#provide-meaning-for-non-standard-interactive-elements)
     -   [Provide alternative text for
-        images](https://www.w3.org/WAI/gettingstarted/tips/designing.html#provide-alternative-text-for-images)
+        images]({{ "/tips/designing/" | relative_url }}#provide-alternative-text-for-images)
 -   **Easy Check:**
     -   [Keyboard access and visual
-        focus](https://www.w3.org/WAI/eval/preliminary#interaction)
+        focus]({{ "/test-evaluation/preliminary/" | relative_url }}#interaction)
     -   [Forms, labels, and
-        errors](https://www.w3.org/WAI/eval/preliminary#forms)
+        errors]({{ "/test-evaluation/preliminary/" | relative_url }}#forms)
 -   **User Story:**
     -   [Mr. Jones, Reporter with repetitive stress
-        injury](https://www.w3.org/WAI/intro/people-use-web/stories.html#reporter)
+        injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to "keyboard" and
         "controls"](https://www.w3.org/WAI/WCAG20/quickref/?tags=keyboard%2Ccontrols)
 -   **Mobile Applicability:**
     -   [Mouse required for interaction and
-        navigation](https://www.w3.org/WAI/mobile/experiences.html#mouse)
+        navigation]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#mouse)
     -   [Non descriptive link
-        label](https://www.w3.org/WAI/mobile/experiences.html#link-label)
+        label]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#link-label)
 -   **Tutorial:**
     -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
         (several related topics)

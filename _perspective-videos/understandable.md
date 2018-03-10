@@ -62,34 +62,34 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Understandable information and user
-        interface](https://www.w3.org/WAI/intro/people-use-web/principles#understandable)
+        interface]({{ "/fundamentals/accessibility-principles/" | relative_url }}#understandable)
 -   **Getting Started:**
     -   [Keep content clear and
-        concise](https://www.w3.org/WAI/gettingstarted/tips/writing.html#keep-content-clear-and-concise)
+        concise]({{ "/tips/writing/" | relative_url }}#keep-content-clear-and-concise)
     -   [Provide clear
-        instructions](https://www.w3.org/WAI/gettingstarted/tips/writing.html#provide-clear-instructions)
+        instructions]({{ "/tips/writing/" | relative_url }}#provide-clear-instructions)
     -   [Use headings to convey meaning and
-        structure](https://www.w3.org/WAI/gettingstarted/tips/writing.html#use-headings-to-convey-meaning-and-structure)
+        structure]({{ "/tips/writing/" | relative_url }}#use-headings-to-convey-meaning-and-structure)
 -   **Easy Check:**
-    -   [Headings](https://www.w3.org/WAI/eval/preliminary#headings)
+    -   [Headings]({{ "/test-evaluation/preliminary/" | relative_url }}#headings)
 -   **User Story:**
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia](https://www.w3.org/WAI/intro/people-use-web/stories.html#classroomstudent)
+        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss](https://www.w3.org/WAI/intro/people-use-web/stories.html#retiree)
+        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
     -   [Mr. Sands, Supermarket assistant with Down
-        syndrome](https://www.w3.org/WAI/intro/people-use-web/stories.html#supermarketassistant)
+        syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
         "text"](https://www.w3.org/WAI/WCAG20/quickref/?tags=text)
 -   **Mobile Applicability:**
     -   [Long words, long and complex sentences,
-        jargon](https://www.w3.org/WAI/mobile/experiences.html#complex)
+        jargon]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#complex)
     -   [Content spawning new windows without warning
-        user](https://www.w3.org/WAI/mobile/experiences.html#popups)
+        user]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#popups)
     -   [Blinking, moving, scrolling or auto-updating
-        content](https://www.w3.org/WAI/mobile/experiences.html#dynamic)
+        content]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#dynamic)
 
