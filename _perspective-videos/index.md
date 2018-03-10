@@ -37,7 +37,7 @@ to get you started:
     Web]({{ "/people-use-web/" | relative_url }}) - outlines users
     stories, assistive technologies, and accessibility principles
 -   [Getting Started
-    Tips](https://www.w3.org/WAI/gettingstarted/tips/) - basic first
+    Tips]({{ "/tips/" | relative_url }}) - basic first
     steps for web designers, writers, and developers
 -   [Business Case](https://www.w3.org/WAI/bcase/) - highlights
     arguments including social, technical, financial, and legal factors
