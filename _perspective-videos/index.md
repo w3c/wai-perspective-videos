@@ -11,16 +11,16 @@ Web accessibility is essential for people with disabilities and useful for all. 
 
 ## Perspectives Videos
 
--   [![](img/thumbnails/keyboard.jpg)<br>Keyboard Compatibility]({{ site.github.url }}{% link _perspective-videos/keyboard.md %})
--   [![](img/thumbnails/contrast.jpg)<br>Colors with Good Contrast]({{ site.github.url }}{% link _perspective-videos/contrast.md %})
--   [![](img/thumbnails/layout.jpg)<br>Clear Layout and Design]({{ site.github.url }}{% link _perspective-videos/layout.md %})
--   [![](img/thumbnails/speech.jpg)<br>Text to Speech]({{ site.github.url }}{% link _perspective-videos/speech.md %})
--   [![](img/thumbnails/controls.jpg)<br>Large Links, Buttons, and Controls]({{ site.github.url }}{% link _perspective-videos/controls.md %})
--   [![](img/thumbnails/captions.jpg)<br>Video Captions]({{ site.github.url }}{% link _perspective-videos/captions.md %})
--   [![](img/thumbnails/customizable.jpg)<br>Customizable Text]({{ site.github.url }}{% link _perspective-videos/customizable.md %})
--   [![](img/thumbnails/voice.jpg)<br>Voice Recognition]({{ site.github.url }}{% link _perspective-videos/voice.md %})
--   [![](img/thumbnails/understandable.jpg)<br>Understandable Content]({{ site.github.url }}{% link _perspective-videos/understandable.md %})
--   [![](img/thumbnails/notifications.jpg)<br>Notifications and Feedback]({{ site.github.url }}{% link _perspective-videos/notifications.md %})
+-   [![](img/thumbnails/keyboard.jpg)<br>Keyboard Compatibility]({{ "/perspective-videos/keyboard/" | relative_url })
+-   [![](img/thumbnails/contrast.jpg)<br>Colors with Good Contrast]({{ "/perspective-videos/contrast/" | relative_url })
+-   [![](img/thumbnails/layout.jpg)<br>Clear Layout and Design]({{ "/perspective-videos/layout/" | relative_url })
+-   [![](img/thumbnails/speech.jpg)<br>Text to Speech]({{ "/perspective-videos/speech/" | relative_url })
+-   [![](img/thumbnails/controls.jpg)<br>Large Links, Buttons, and Controls]({{ "/perspective-videos/controls/" | relative_url })
+-   [![](img/thumbnails/captions.jpg)<br>Video Captions]({{ "/perspective-videos/captions/" | relative_url })
+-   [![](img/thumbnails/customizable.jpg)<br>Customizable Text]({{ "/perspective-videos/customizable/" | relative_url })
+-   [![](img/thumbnails/voice.jpg)<br>Voice Recognition]({{ "/perspective-videos/voice/" | relative_url })
+-   [![](img/thumbnails/understandable.jpg)<br>Understandable Content]({{ "/perspective-videos/understandable/" | relative_url })
+-   [![](img/thumbnails/notifications.jpg)<br>Notifications and Feedback]({{ "/perspective-videos/notifications/" | relative_url })
 {:.two.columns.linklist}
 
 **For presentations:** [compilation of all 10 videos (7:36
