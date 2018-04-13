@@ -24,7 +24,7 @@ Web accessibility is essential for people with disabilities and useful for all. 
 {:.two.columns.linklist}
 
 **For presentations:** [compilation of all 10 videos (7:36
-minutes)](https://www.youtube.com/watch?v=3f31oufqFSM).
+minutes) {% include icon.html name="external-link" label="External Link" %}](https://www.youtube.com/watch?v=3f31oufqFSM).
 
 ## Learn More about Web Accessibility
 
