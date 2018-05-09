@@ -2,7 +2,7 @@
 title: Voice Recognition
 order: 8
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -52,7 +52,7 @@ What are the additional benefits? {#others}
 What needs to happen for this to work? {#action}
 --------------------------------------
 
-Content must be properly designed and coded so that it can be controlled by voice. [keyboard compatibility]({{ site.github.url }}{% link _perspective-videos/keyboard.md %}) is the basis for such coding. In addition, labels and identifiers for controls in the source code need to match their visual presentation, so that it is clear which voice command will activate a control.
+Content must be properly designed and coded so that it can be controlled by voice. [keyboard compatibility]({{ "/perspective-videos/keyboard/" | relative_url }}) is the basis for such coding. In addition, labels and identifiers for controls in the source code need to match their visual presentation, so that it is clear which voice command will activate a control.
 
 Learn more {#resources}
 ----------
@@ -71,9 +71,9 @@ Learn more {#resources}
         images]({{ "/tips/designing/" | relative_url }}#provide-alternative-text-for-images)
 -   **Easy Check:**
     -   [Keyboard access and visual
-        focus]({{ "/test-evaluation/preliminary/" | relative_url }}#interaction)
+        focus]({{ "/test-evaluate/preliminary/" | relative_url }}#interaction)
     -   [Forms, labels, and
-        errors]({{ "/test-evaluation/preliminary/" | relative_url }}#forms)
+        errors]({{ "/test-evaluate/preliminary/" | relative_url }}#forms)
 -   **User Story:**
     -   [Mr. Jones, Reporter with repetitive stress
         injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)

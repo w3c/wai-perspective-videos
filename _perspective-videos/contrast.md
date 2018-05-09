@@ -2,7 +2,7 @@
 title: Colors with Good Contrast
 order: 2
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -49,7 +49,7 @@ Select text and background colors that provide sufficient contrast.
 There are tools to help check and select appropriate color combinations.
 This is ideally done during the early design stage and the selection of
 color palettes. While some people need high contrast, some people are
-sensitive to brightness and need to [change the colors]({{ site.github.url }}{% link _perspective-videos/customizable.md %}).
+sensitive to brightness and need to [change the colors]({{ "perspective-videos/customizable/" | relative_url }}).
 
 ## Learn more
 {:#resources}
@@ -62,7 +62,7 @@ sensitive to brightness and need to [change the colors]({{ site.github.url }}{% 
         background]({{ "/tips/designing/" | relative_url }}#provide-sufficient-contrast-between-foreground-and-background)
 -   **Easy Check:**
     -   [Contrast ratio ("color
-        contrast")]({{ "/test-evaluation/preliminary/" | relative_url }}#contrast)
+        contrast")]({{ "/test-evaluate/preliminary/" | relative_url }}#contrast)
 -   **User Story:**
     -   [Mr. Lee, Online shopper with color
         blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)

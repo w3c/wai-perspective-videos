@@ -2,7 +2,7 @@
 title: Text to Speech
 order: 4
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -57,7 +57,7 @@ What needs to happen for this to work? {#action}
 Use semantic HTML markup for structures such as headings, paragraphs,
 lists, forms, and tables. Provide text alternatives for images, icons,
 and other non-text content. Ensure [keyboard
-compatibility](keyboard.html), and ensure that text information is
+compatibility]({{ "/perspective-videos/keyboard/" | relative_url }}), and ensure that text information is
 understandable without the visual context.
 
 Learn more {#resources}
@@ -77,9 +77,9 @@ Learn more {#resources}
         changes]({{ "/tips/developing/" | relative_url }}#identify-page-language-and-language-changes)
 -   **Easy Check:**
     -   [Image text alternatives ("alt
-        text")]({{ "/test-evaluation/preliminary/" | relative_url }}#images)
+        text")]({{ "/test-evaluate/preliminary/" | relative_url }}#images)
     -   [Basic Structure
-        Check]({{ "/test-evaluation/preliminary/" | relative_url }}#structure)
+        Check]({{ "/test-evaluate/preliminary/" | relative_url }}#structure)
 -   **User Story:**
     -   [Ms. Laitinen, Accountant with
         blindness]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)

@@ -2,7 +2,7 @@
 title: Video Captions
 order: 6
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -75,7 +75,7 @@ Learn more {#resources}
         multimedia]({{ "/tips/writing/" | relative_url }}#create-transcripts-and-captions-for-multimedia)
 -   **Easy Check:**
     -   [Multimedia (video, audio)
-        alternatives]({{ "/test-evaluation/preliminary/" | relative_url }}#media)
+        alternatives]({{ "/test-evaluate/preliminary/" | relative_url }}#media)
 -   **User Story:**
     -   [Ms. Martinez, Online student who is hard of
         hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)

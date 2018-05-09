@@ -4,7 +4,7 @@ nav_title: "Perspective Videos Overview"
 permalink: /perspective-videos/
 order: 0
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements.html">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations.
@@ -31,16 +31,9 @@ minutes) {% include icon.html name="external-link" label="External Link" %}](htt
 This website provides a variety of standards, guidelines, and resources
 to get you started:
 
--   [Introduction to Web
-    Accessibility](https://www.w3.org/WAI/intro/accessibility.php)
--   [How People with Disabilities Use the
-    Web]({{ "/people-use-web/" | relative_url }}}) - outlines users
-    stories, assistive technologies, and accessibility principles
--   [Getting Started
-    Tips]({{ "/tips/" | relative_url }}}) - basic first
-    steps for web designers, writers, and developers
--   [Business Case](https://www.w3.org/WAI/bcase/) - highlights
-    arguments including social, technical, financial, and legal factors
--   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) -
-    more in-depth guidance for developing accessible web content
+-   [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
+-   [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }}) - outlines users stories, assistive technologies, and accessibility principles
+-   [Getting StartedTips]({{ "/tips/" | relative_url }}) - basic first steps for web designers, writers, and developers
+-   [Business Case](https://www.w3.org/WAI/bcase/) - highlights arguments including social, technical, financial, and legal factors
+-   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) - more in-depth guidance for developing accessible web content
 

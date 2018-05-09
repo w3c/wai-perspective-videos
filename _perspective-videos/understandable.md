@@ -2,7 +2,7 @@
 title: Understandable Content
 order: 9
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -54,7 +54,7 @@ What needs to happen for this to work? {#action}
 Avoid overly complex words, jargon, and acronyms, or provide
 explanations when they need to be used. Provide structure using
 headings, lists, and spacing. Provide illustrations that clarify the
-content, when helpful. Provide [clear layout and design]({{ site.github.url }}{% link _perspective-videos/layout.md %})
+content, when helpful. Provide [clear layout and design]({{ "/perspective-videos/layout/" | relative_url }})
 with consistent orientation and navigation cues.
 
 Learn more {#resources}
@@ -71,7 +71,7 @@ Learn more {#resources}
     -   [Use headings to convey meaning and
         structure]({{ "/tips/writing/" | relative_url }}#use-headings-to-convey-meaning-and-structure)
 -   **Easy Check:**
-    -   [Headings]({{ "/test-evaluation/preliminary/" | relative_url }}#headings)
+    -   [Headings]({{ "/test-evaluate/preliminary/" | relative_url }}#headings)
 -   **User Story:**
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and

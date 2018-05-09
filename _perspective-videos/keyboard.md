@@ -2,7 +2,7 @@
 title: Keyboard Compatibility
 order: 1
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -53,8 +53,7 @@ Native HTML controls, like links, buttons, and form elements, work with the keyb
     -   [Ensure that all interactive elements are keyboard
         accessible]({{ "/tips/developing/" | relative_url }}#ensure-that-all-interactive-elements-are-keyboard-accessible)
 -   **Easy Check:**
-    -   [Keyboard access and visual
-        focus]({{ "/test-evaluation/preliminary/" | relative_url }}#interaction)
+    -   [Keyboard access and visual focus]({{ "/test-evaluate/preliminary/" | relative_url }}#interaction)
 -   **User Story:**
     -   [Mr. Jones, Reporter with repetitive stress
         injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)

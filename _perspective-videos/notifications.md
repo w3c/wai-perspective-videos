@@ -2,7 +2,7 @@
 title: Notifications and Feedback
 order: 10
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -71,7 +71,7 @@ Learn more {#resources}
         mistakes]({{ "/tips/developing/" | relative_url }}#help-users-avoid-and-correct-mistakes)
 -   **Easy Check:**
     -   [Forms, labels, and errors (including Search
-        fields)]({{ "/test-evaluation/preliminary/" | relative_url }}#forms)
+        fields)]({{ "/test-evaluate/preliminary/" | relative_url }}#forms)
 -   **User Story:**
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
