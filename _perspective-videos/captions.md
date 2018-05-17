@@ -2,7 +2,7 @@
 title: Video Captions
 order: 6
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="acknowledgements">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -13,8 +13,8 @@ everyone in a variety of situations.
 {:#film.no-display}
 
 {% include video-player.html
-    yt-id="tfkzj5VC9P8"
-    yt-id-ad="w-2nFEUBELo"
+    yt-id="iWO5N3n1DXU"
+    yt-id-ad="4qIordU8vT8"
     captions="captions-en.vtt|en|Captions"
     captions-ad="captions_ad-en.vtt|en|Captions"
     descriptions=""
@@ -69,21 +69,21 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Captions and other alternatives for
-        multimedia]({{ "/fundamentals/accessibility-principles/" | relative_url }}#captions)
+        multimedia](https://www.w3.org/WAI/intro/people-use-web/principles#captions)
 -   **Getting Started:**
     -   [Create transcripts and captions for
-        multimedia]({{ "/tips/writing/" | relative_url }}#create-transcripts-and-captions-for-multimedia)
+        multimedia](https://www.w3.org/WAI/gettingstarted/tips/writing.html#create-transcripts-and-captions-for-multimedia)
 -   **Easy Check:**
     -   [Multimedia (video, audio)
-        alternatives]({{ "/test-evaluate/preliminary/" | relative_url }}#media)
+        alternatives](https://www.w3.org/WAI/eval/preliminary#media)
 -   **User Story:**
     -   [Ms. Martinez, Online student who is hard of
-        hearing]({{ "/people-use-web/user-stories/" | relative_url }}#onlinestudent)
+        hearing](https://www.w3.org/WAI/intro/people-use-web/stories.html#onlinestudent)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](https://www.w3.org/WAI/intro/wcag)):**
     -   [Success Criteria relating to
         "captions"](https://www.w3.org/WAI/WCAG20/quickref/?tags=captions)
 -   **Mobile Applicability:**
     -   [Multimedia with no
-        captions]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#multimedia)
+        captions](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
 
