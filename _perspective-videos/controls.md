@@ -1,6 +1,8 @@
 ---
 title: Large Links, Buttons, and Controls
 order: 5
+description: Short video about large links, buttons, and controls for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
+image: /perspective-videos/img/controls.jpg
 footer: >
   <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
