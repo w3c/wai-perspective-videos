@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="rbiI65Jcz5s"
     yt-id-ad="L4WLeVc5l5k"
-    captions="customizable-en.vtt|en|Captions"
-    captions-ad="customizable_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="customizable_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/customizable-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/customizable_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/customizable_ad_desc-en.vtt|en|Descriptions"
 %}
 
 What is "Customizable Text"? {#what}

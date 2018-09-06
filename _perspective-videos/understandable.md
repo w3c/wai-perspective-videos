@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="BYRxF2yInfA"
     yt-id-ad="MNlT1Qy3pvQ"
-    captions="understandable-en.vtt|en|Captions"
-    captions-ad="understandable_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="understandable_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/understandable-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/understandable_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/understandable_ad_desc-en.vtt|en|Descriptions"
 %}
 
 What is "Understandable Content"? {#what}

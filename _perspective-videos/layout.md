@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="tfkzj5VC9P8"
     yt-id-ad="w-2nFEUBELo"
-    captions="layout-en.vtt|en|Captions"
-    captions-ad="layout_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="layout_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/layout-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/layout_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/layout_ad_desc-en.vtt|en|Descriptions"
 %}
 
 ## What is "Clear Layout and Design"? {#what}

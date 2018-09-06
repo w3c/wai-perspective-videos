@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="Hui87z2Vx8o"
     yt-id-ad="a9kNUv6N8Rk"
-    captions="contrast-en.vtt|en|Captions"
-    captions-ad="contrast_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="contrast_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/contrast-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/contrast_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/contrast_ad_desc-en.vtt|en|Descriptions"
 %}
 
 ## What is "Colors with Good Contrast"?

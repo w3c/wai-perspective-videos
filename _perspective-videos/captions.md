@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="iWO5N3n1DXU"
     yt-id-ad="4qIordU8vT8"
-    captions="captions-en.vtt|en|Captions"
-    captions-ad="captions_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="captions_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/captions-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/captions_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/captions_ad_desc-en.vtt|en|Descriptions"
 %}
 
 What is "Video Captions"? {#what}

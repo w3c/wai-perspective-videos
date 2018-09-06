@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="E1fEv4Vpexg"
     yt-id-ad="jtteu0ilDXk"
-    captions="notifications-en.vtt|en|Captions"
-    captions-ad="notifications_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="notifications_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/notifications-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/notifications_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/notifications_ad_desc-en.vtt|en|Descriptions"
 %}
 
 What is "Notifications and Feedback"? {#what}

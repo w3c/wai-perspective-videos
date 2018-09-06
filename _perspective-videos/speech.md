@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="8Rn5pXCdZWU"
     yt-id-ad="F3A1VffiOH4"
-    captions="speech-en.vtt|en|Captions"
-    captions-ad="speech_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="speech_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/speech-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/speech_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/speech_ad_desc-en.vtt|en|Descriptions"
 %}
 
 What is "Text to Speech"? {#what}

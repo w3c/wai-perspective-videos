@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="CzfKB3PuuIY"
     yt-id-ad="65G_twR47OQ"
-    captions="controls-en.vtt|en|Captions"
-    captions-ad="controls_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="controls_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/controls-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/controls_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/controls_ad_desc-en.vtt|en|Descriptions"
 %}
 
 What is "Large Links, Buttons, and Controls"? {#what}

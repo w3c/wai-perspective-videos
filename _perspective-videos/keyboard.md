@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="93UgG72os8M"
     yt-id-ad="1rBwxGMT9ZM"
-    captions="keyboard-en.vtt|en|Captions"
-    captions-ad="keyboard_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="keyboard_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/keyboard-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/keyboard_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/keyboard_ad_desc-en.vtt|en|Descriptions"
 %}
 
 ## What is "Keyboard Compatibility"?

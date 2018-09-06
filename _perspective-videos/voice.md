@@ -17,10 +17,10 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="7RHG_XiQ0ck"
     yt-id-ad="21yWr7evHTs"
-    captions="voice-en.vtt|en|Captions"
-    captions-ad="voice_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="voice_ad_desc-en.vtt|en|Descriptions"
+    captions="/perspective-videos/cc/voice-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/voice_ad-en.vtt|en|Captions"
+    descriptions="/perspective-videos/cc/"
+    descriptions-ad="/perspective-videos/cc/voice_ad_desc-en.vtt|en|Descriptions"
 %}
 
 What is "Voice Recognition"? {#what}
