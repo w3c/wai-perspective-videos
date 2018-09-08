@@ -19,7 +19,7 @@ everyone in a variety of situations.
     yt-id-ad="4qIordU8vT8"
     captions="/perspective-videos/cc/captions-en.vtt|en|Captions"
     captions-ad="/perspective-videos/cc/captions_ad-en.vtt|en|Captions"
-    descriptions="/perspective-videos/cc/"
+    descriptions=""
     descriptions-ad="/perspective-videos/cc/captions_ad_desc-en.vtt|en|Descriptions"
 %}
 
