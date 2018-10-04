@@ -1,5 +1,5 @@
 ---
-title: Acknowledgements
+title: Acknowledgements - Web Accessibility Perspectives
 nosidenav: true
 image: /perspective-videos/img/overview.jpg
 footer: >
