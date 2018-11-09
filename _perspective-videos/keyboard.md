@@ -60,7 +60,7 @@ Native HTML controls, like links, buttons, and form elements, work with the keyb
     -   [Mr. Jones, Reporter with repetitive stress
         injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
     -   [Ms. Laitinen, Accountant with
-        blindness]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
+        blindness]({{ "/people-use-web/user-stories/" | relative_url }}#ilya-senior-staff-member-who-is-blind)
     -   [Ms. Kaseem, Teenager with
         deaf-blindness]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
 -   **Web Content Accessibility Guidelines ([WCAG
