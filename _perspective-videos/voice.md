@@ -70,7 +70,7 @@ Learn more {#resources}
     -   [Provide meaning for non-standard interactive
         elements]({{ "/tips/developing/" | relative_url }}#provide-meaning-for-non-standard-interactive-elements)
     -   [Provide alternative text for
-        images]({{ "/tips/designing/" | relative_url }}#provide-alternative-text-for-images)
+        images]({{ "/tips/designing/" | relative_url }}#include-image-and-media-alternatives-in-your-design)
 -   **Easy Check:**
     -   [Keyboard access and visual
         focus]({{ "/test-evaluate/preliminary/" | relative_url }}#interaction)
