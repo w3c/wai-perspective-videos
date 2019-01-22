@@ -6,7 +6,7 @@ footer: >
   <p><strong>Status:</strong> Updated 22 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation.</p>
 ---
 
-This [Web Accessibility Perspectives]({% link _perspective-videos/index.md %}) resource was developed by the [Education Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/) with support from the [WAI-DEV project](https://www.w3.org/WAI/DEV/), co-funded by the European Commission.
+This [Web Accessibility Perspectives]({% link _perspective-videos/index.md %}) resource was developed by the [Education Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/) with support from the [WAI-DEV project](https://www.w3.org/WAI/DEV/), co-funded by the European Commission. Updated with support from the Ford Foundation.
 
 Project Leadership
 ------------------
