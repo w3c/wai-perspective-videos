@@ -4,7 +4,7 @@ order: 2
 description: Short video about colors with good contrast for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/contrast.jpg
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -22,6 +22,8 @@ everyone in a variety of situations.
     descriptions=""
     descriptions-ad="/perspective-videos/cc/contrast_ad_desc-en.vtt|en|Descriptions"
 %}
+
+This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
 
 ## What is "Colors with Good Contrast"?
 {:#what}
@@ -77,8 +79,63 @@ sensitive to brightness and need to [change the colors]({{ "perspective-videos/c
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
-        "contrast"](https://www.w3.org/WAI/WCAG20/quickref/?tags=contrast)
+        "contrast"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast)
 -   **Mobile Applicability:**
     -   [Information conveyed solely with
         color]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#color)
 
+## Text Transcript with Description of Visuals {#transcript}
+
+<table>
+  <thead>
+    <tr>
+      <th width="65%">Audio</th>
+      <th>Visual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Accessibility Perspectives: Colors with Good Contrast</td>
+      <td>Web Accessibility Perspectives:<br>
+        Colors with Good Contrast</td>
+    </tr>
+    <tr>
+      <td>There's something about great design that allows it to go practically unnoticed.</td>
+      <td>Signs with directions are shown. A woman is walking happily down the street.</td>
+    </tr>
+    <tr>
+      <td>But it doesn't take much to make things confusing and frustrating.</td>
+      <td>The signs change to have poor contrast. The woman now looks confused.</td>
+    </tr>
+    <tr>
+      <td>Choosing colors with poor contrast makes navigating, reading and interacting a real pain</td>
+      <td>She looks at a navigation app on her phone.</td>
+    </tr>
+    <tr>
+      <td>Good design means sufficient contrast between foreground background and colors. That's not just text and images but links, icons, and buttons.</td>
+      <td>The app has a button with low contrast that changes to become clear.</td>
+    </tr>
+    <tr>
+      <td>If it's important enough to be seen, then it needs to be clear.<br>
+        And this is essential for people with low contrast sensitivity.<br>
+        Which becomes more common as we age.</td>
+      <td>An older man on a sofa is looking at a tablet. He goes to read a message on his mobile phone.</td>
+    </tr>
+    <tr>
+      <td>With good colors, websites and applications can be easier to use in more situations can be easier to use in more situations. Like in different lighting conditions.</td>
+      <td>Sun glares on the phone but the text is still readable.</td>
+    </tr>
+    <tr>
+      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Visit w3.org/WAI/perspectives for more information on Colors with Good Contrast</td>
+      <td>Visit<br>
+        w3.org/WAI/perspectives<br>
+        for more information on<br>
+        Colors with Good Contrast. <br>
+        W3C Web Accessibility Initiative logo</td>
+    </tr>
+  </tbody>
+</table>
