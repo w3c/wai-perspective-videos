@@ -121,11 +121,11 @@ Native HTML controls, like links, buttons, and form elements, work with the keyb
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Visit w3.org/WAI/perspectives for more information on Customizable Text</td>
+      <td>Visit w3.org/WAI/perspectives for more information on Keyboard Compatibility</td>
       <td>Visit<br>
         w3.org/WAI/perspectives<br>
         for more information on<br>
-        Customizable Text.<br>
+        Keyboard Compatibility.<br>
         W3C Web Accessibility Initiative logo</td>
     </tr>
   </tbody>
