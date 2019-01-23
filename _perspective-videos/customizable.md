@@ -84,7 +84,7 @@ Learn more {#resources}
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
-        "text"](https://www.w3.org/WAI/WCAG20/quickref/?tags=text)
+        "text"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
 -   **User Agent Accessibility Guidelines ([UAAG
     Overview]({{ "/standards-guidelines/uaag/" | relative_url }})):**
     -   [Provide text
@@ -107,7 +107,7 @@ Learn more {#resources}
   <tbody>
     <tr>
       <td>Web Accessibility Perspectives: Customizable Text</td>
-      <td>Web Accessibility Perspectives: Customizable Text</td>
+      <td>Web Accessibility Perspectives:<br>Customizable Text</td>
     </tr>
     <tr>
       <td>What's right for you doesn't necessarily work for the next person.</td>
@@ -137,7 +137,7 @@ Learn more {#resources}
       <td>Visit<br>
         w3.org/WAI/perspectives<br>
         for more information on<br>
-        Customizable Text <br>
+        Customizable Text.<br>
         W3C Web Accessibility Initiative logo</td>
     </tr>
   </tbody>
