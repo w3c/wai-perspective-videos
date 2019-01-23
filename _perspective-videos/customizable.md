@@ -4,7 +4,7 @@ order: 7
 description: Short video about customizable text for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/customizable.jpg
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -22,6 +22,8 @@ everyone in a variety of situations.
     descriptions=""
     descriptions-ad="/perspective-videos/cc/customizable_ad_desc-en.vtt|en|Descriptions"
 %}
+
+This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
 
 What is "Customizable Text"? {#what}
 ----------------------------
@@ -93,4 +95,52 @@ Learn more {#resources}
 -   **User Needs:**
     -   [Accessibility Requirements for People with Low
         Vision](http://www.w3.org/TR/low-vision-needs/)
+        
+## Text Transcript with Description of Visuals {#transcript}
+<table>
+  <thead>
+    <tr>
+      <th width="65%">Audio</th>
+      <th>Visual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Accessibility Perspectives: Customizable Text</td>
+      <td>Web Accessibility Perspectives: Customizable Text</td>
+    </tr>
+    <tr>
+      <td>What's right for you doesn't necessarily work for the next person.</td>
+      <td>Toast with different levels of darkness.</td>
+    </tr>
+    <tr>
+      <td>Customization isn't always just the question of preference though. Sometimes it's a necessity.</td>
+      <td>Two men are sitting with a toaster between them. One of the men turns the toaster dial.</td>
+    </tr>
+    <tr>
+      <td>Being able to adjust the text is crucial for people with low vision and dyslexia.</td>
+      <td>A woman puts on glasses to read a website on her laptop. The woman is squinting at the website with small text and an unusual font.</td>
+    </tr>
+    <tr>
+      <td>Properly coded websites and applications allow the text to be customized. For example, to change its size, spacing, font, and colors without loss of functions or clarity.</td>
+      <td>The woman uses the web browsers settings to adjust the
+        text size and style. It appears more legible and the woman is relieved.</td>
+    </tr>
+    <tr>
+      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td>Cutback to the two men: One of the men takes a piece of
+        toast out of the toaster.</td>
+    </tr>
+    <tr>
+      <td>Visit w3.org/WAI/perspectives for more information on Customizable
+        Text </td>
+      <td>Visit<br>
+        w3.org/WAI/perspectives<br>
+        for more information on<br>
+        Customizable Text <br>
+        W3C Web Accessibility Initiative logo</td>
+    </tr>
+  </tbody>
+</table>
+        
 
