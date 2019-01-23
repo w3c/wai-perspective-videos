@@ -4,7 +4,7 @@ order: 4
 description: Short video about text to speech for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/speech.jpg
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -22,6 +22,8 @@ everyone in a variety of situations.
     descriptions=""
     descriptions-ad="/perspective-videos/cc/speech_ad_desc-en.vtt|en|Descriptions"
 %}
+
+This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
 
 What is "Text to Speech"? {#what}
 -------------------------
@@ -93,7 +95,7 @@ Learn more {#resources}
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to "images" and
-        "structure"](https://www.w3.org/WAI/WCAG20/quickref/?tags=images%2Cstructure)
+        "structure"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
 -   **Mobile Applicability:**
     -   [Non-text objects (images, sound, video) with no text
         alternative]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#non-text)
@@ -105,3 +107,61 @@ Learn more {#resources}
     -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
         (several related topics)
 
+## Text Transcript with Description of Visuals {#transcript}
+
+<table>
+  <thead>
+    <tr>
+      <th width="65%">Audio</th>
+      <th>Visual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Accessibility Perspectives: Text to Speech</td>
+      <td>Web Accessibility Perspectives:<br>
+        Text to Speech</td>
+    </tr>
+    <tr>
+      <td>(Computer) &quot;Some people can't see the text on this screen.&quot;<br>
+(Computer)                     &quot;Fortunately, computers can convert text to speech.&quot;</td>
+      <td>A man is using a laptop with the text on the screen being highlighted as it is spoken.</td>
+    </tr>
+    <tr>
+      <td>It's technology that many people who are blind have been relying on for years.</td>
+      <td>A service dog is next to the man. He may be blind.</td>
+    </tr>
+    <tr>
+      <td>But it's also important for many people with dyslexia.</td>
+      <td>A woman is reading on a tablet and listen with headphones.</td>
+    </tr>
+    <tr>
+      <td>And very useful for people with difficulty reading text.</td>
+      <td>A man removes his glasses and listens to a news article on his tablet.</td>
+    </tr>
+    <tr>
+      <td>As well as some people who just like to multi-task.</td>
+      <td>A man listens to a magazine article as they do the washing.</td>
+    </tr>
+    <tr>
+      <td>But for this to work, websites and apps need to be properly coded.</td>
+      <td>The website is not properly working for the woman with headphones. She is frustrated.</td>
+    </tr>
+    <tr>
+      <td>Which has the added benefit of helping search engines index websites' contents better.</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td>The man with the service dog is using his mobile device outside with bone conducting headphones. Different people from earlier are seen using text-to-speech.</td>
+    </tr>
+    <tr>
+      <td>Visit w3.org/WAI/perspectives for more information on Text to Speech</td>
+      <td>Visit<br>
+        w3.org/WAI/perspectives<br>
+        for more information on<br>
+        Text to Speech. <br>
+        W3C Web Accessibility Initiative logo</td>
+    </tr>
+  </tbody>
+</table>
