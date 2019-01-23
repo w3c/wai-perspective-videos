@@ -4,7 +4,7 @@ order: 1
 description: Short video about keyboard compatibility for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/keyboard.jpg
 footer: >
-  <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -22,6 +22,8 @@ everyone in a variety of situations.
     descriptions=""
     descriptions-ad="/perspective-videos/cc/keyboard_ad_desc-en.vtt|en|Descriptions"
 %}
+
+This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
 
 ## What is "Keyboard Compatibility"?
 {:#what}
@@ -66,10 +68,65 @@ Native HTML controls, like links, buttons, and form elements, work with the keyb
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
     -   [Success Criteria relating to
-        "keyboard"](https://www.w3.org/WAI/WCAG20/quickref/?tags=keyboard)
+        "keyboard"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard)
 -   **Mobile Applicability:**
     -   [Mouse required for interaction and
         navigation]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#mouse)
 -   **Tutorial:**
     -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
         (several related topics)
+
+## Text Transcript with Description of Visuals {#transcript}
+
+<table>
+  <thead>
+    <tr>
+      <th width="65%">Audio</th>
+      <th>Visual</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Web Accessibility Perspectives: Keyboard Compatibility</td>
+      <td>Web Accessibility Perspectives:<br>
+        Keyboard Compatibility</td>
+    </tr>
+    <tr>
+      <td>Not being able to use your computer because your mouse doesn't work, is frustrating.</td>
+      <td>A man drops his computer mouse off the desk. The computer mouse no longer works.</td>
+    </tr>
+    <tr>
+      <td>Many people use only the keyboard to navigate websites &mdash; either through preference or circumstance.<br></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Whether it's temporarily limited mobility,</td>
+      <td>A woman with her arm in a sling is typing on a keyboard &mdash; but the website requires the use of a mouse to select the date.</td>
+    </tr>
+    <tr>
+      <td>a permanent physical disability,</td>
+      <td>A man with a wheelchair is using a mouth-stick to type.</td>
+    </tr>
+    <tr>
+      <td>or simply a broken mouse,<br>
+        the result is the same:</td>
+      <td>The man with the wheelchair also cannot use the site.</td>
+    </tr>
+    <tr>
+      <td>Websites and apps need to be operable by keyboard.</td>
+      <td>He switches to a different website that allows typing the date.</td>
+    </tr>
+    <tr>
+      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Visit w3.org/WAI/perspectives for more information on Customizable Text</td>
+      <td>Visit<br>
+        w3.org/WAI/perspectives<br>
+        for more information on<br>
+        Customizable Text.<br>
+        W3C Web Accessibility Initiative logo</td>
+    </tr>
+  </tbody>
+</table>
