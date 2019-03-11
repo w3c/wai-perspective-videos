@@ -73,7 +73,7 @@ All functionality must be usable with the keyboard. That is, users can access an
 ## What needs to happen for this to work?
 {:#action}
 
-Native HTML controls, like links, buttons, and form elements, work with the keyboard by default and should be used where possible. Custom-made controls, CSS styles, and scripts that control interaction may need additional coding for keyboard compatibility. Ensure that the tab order is logical, to allow keyboard navigation around the content and controls. Provide a way for users to jump between blocks of content and controls. Keyboard issues occur particularly in forms, menus, and applications with many controls.
+Native HTML controls, like links, buttons, and form elements, work with the keyboard by default and should be used where possible. Custom-made controls, CSS styles, and scripts that control interaction may need additional coding for keyboard compatibility. Ensure that the tab order is logical, to allow keyboard navigation around the content and controls. Provide a way for users to jump between blocks of content and controls, and to close pop-up boxes and menus using the keyboard. Keyboard issues occur particularly in forms, menus, and applications with many controls.
 
 ## Learn more
 {:#resources}
