@@ -13,15 +13,13 @@ everyone in a variety of situations.
 
 ## Video on Keyboard Compatibility
 {:#film.no-display}
-
-{% include video-player.html
+   m% include video-player.html
     yt-id="93UgG72os8M"
     yt-id-ad="1rBwxGMT9ZM"
     captions="/perspective-videos/cc/keyboard-en.vtt|en|Captions"
     captions-ad="/perspective-videos/cc/keyboard_ad-en.vtt|en|Captions"
     descriptions=""
     descriptions-ad="/perspective-videos/cc/keyboard_ad_desc-en.vtt|en|Descriptions"
-%}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
 
@@ -54,7 +52,7 @@ Native HTML controls, like links, buttons, and form elements, work with the keyb
     -   [Functionality is available from a
         keyboard]({{ "/fundamentals/accessibility-principles/" | relative_url }}#keyboard)
 -   **Getting Started:**
-    -   [Ensure that all interactive elements are keyboard
+    -   [Ensure that all interactive elements are keyboard-focus
         accessible]({{ "/tips/developing/" | relative_url }}#ensure-that-all-interactive-elements-are-keyboard-accessible)
 -   **Easy Check:**
     -   [Keyboard access and visual focus]({{ "/test-evaluate/preliminary/" | relative_url }}#interaction)
