@@ -51,7 +51,7 @@ What are the additional benefits? {#others}
 -   Content can be better understood by people hearing and seeing the
     information, for example people who are less fluent in the language
     spoken.
--   Content can be read rather than watched, which is easier and quick
+-   Content can be read rather than watched, which is easier and quicker
     for some people for some types of videos.
 -   Content in text form, such as caption files and transcripts, can be
     better indexed by search engines.
