@@ -49,14 +49,14 @@ What are the additional benefits? {#others}
 -   Content can be used in silent environments where you cannot turn on
     sound.
 -   Content can be better understood by people hearing and seeing the
-    information, for example people who are less fluent in the language
+    information, for example, people who are less fluent in the language
     spoken.
 -   Content can be read rather than watched, which is easier and quicker
-    for some people for some types of videos.
+    for some people.
 -   Content in text form, such as caption files and transcripts, can be
     better indexed by search engines.
 -   Content can be used without needing to download video files, for
-    example to save data on mobile.
+    example, to save data on mobile.
 
 What needs to happen for this to work? {#action}
 --------------------------------------
