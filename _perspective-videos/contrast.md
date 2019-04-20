@@ -28,7 +28,7 @@ This video information is available as a [Text Transcript with Description of Vi
 ## What is "Colors with Good Contrast"?
 {:#what}
 
-Colors must have sufficient contrast between text color and its background (technically called <em>luminosity contrast ratio</em>). This includes text on images, icons, and buttons. Also colors used to convey information on diagrams, maps, and other types of images must be distinguishable.
+Colors must have sufficient contrast between text color and its background (technically called <em>luminosity contrast ratio</em>). This includes text on images, icons, and buttons. Also colors used to convey information on interactive elements, diagrams, maps, and other types of content must be distinguishable.
 
 ## Who depends on this feature?
 {:#who}
@@ -49,11 +49,7 @@ Colors must have sufficient contrast between text color and its background (tech
 ## What needs to happen for this to work?
 {:#action}
 
-Select text and background colors that provide sufficient contrast.
-There are tools to help check and select appropriate color combinations.
-This is ideally done during the early design stage and the selection of
-color palettes. While some people need high contrast, some people are
-sensitive to brightness and need to [change the colors]({{ "perspective-videos/customizable/" | relative_url }}).
+Select colors that provide sufficient contrast. There are tools to help check and select appropriate color combinations. This is ideally done during the early design stage and the selection of color palettes. While some people need high contrast, some people are sensitive to brightness and need to [change the colors]({{ "perspective-videos/customizable/" | relative_url }}).
 
 ## Learn more
 {:#resources}
