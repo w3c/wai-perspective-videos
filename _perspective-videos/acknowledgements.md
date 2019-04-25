@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/acknowledgements/
+ref: /perspective-videos/acknowledgements/
 title: Acknowledgements - Web Accessibility Perspectives
 nosidenav: true
 image: /perspective-videos/img/overview.jpg

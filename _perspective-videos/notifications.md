@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/notifications/
+ref: /perspective-videos/notifications/
 title: Notifications and Feedback
 order: 10
 description: Short video about notifications and feedback for web accessibility - what are they, who depends on them, and what needs to happen to make them work.
@@ -65,28 +68,28 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Content appears and operates in predictable
-        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
+        ways](/fundamentals/accessibility-principles/#predictable)
     -   [Users are helped to avoid and correct
-        mistakes]({{ "/fundamentals/accessibility-principles/" | relative_url }}#tolerant)
+        mistakes](/fundamentals/accessibility-principles/#tolerant)
 -   **Getting Started:**
     -   [Provide clear
-        instructions]({{ "/tips/writing/" | relative_url }}#provide-clear-instructions)
+        instructions](/tips/writing/#provide-clear-instructions)
     -   [Help users avoid and correct
-        mistakes]({{ "/tips/developing/" | relative_url }}#help-users-avoid-and-correct-mistakes)
+        mistakes](/tips/developing/#help-users-avoid-and-correct-mistakes)
 -   **Easy Check:**
     -   [Forms, labels, and errors (including Search
-        fields)]({{ "/test-evaluate/preliminary/" | relative_url }}#forms)
+        fields)](/test-evaluate/preliminary/#forms)
 -   **User Story:**
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+        dyslexia](/people-use-web/user-stories/#classroomstudent)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+        loss](/people-use-web/user-stories/#retiree)
     -   [Mr. Sands, Supermarket assistant with Down
-        syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+        syndrome](/people-use-web/user-stories/#supermarketassistant)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "errors"](https://www.w3.org/WAI/WCAG21/quickref/?tags=errors)
 -   **Tutorial:**

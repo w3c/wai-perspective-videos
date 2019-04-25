@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/controls/
+ref: /perspective-videos/controls/
 title: Large Links, Buttons, and Controls
 order: 5
 description: Short video about large links, buttons, and controls for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -64,21 +67,21 @@ Learn more {#resources}
 -   **Accessibility Principle:**
     -   [Users can easily navigate, find content, and determine where
         they
-        are]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
+        are](/fundamentals/accessibility-principles/#navigable)
 -   **Getting Started:**
     -   [Create designs for different viewport
-        sizes]({{ "/tips/designing/" | relative_url }}#create-designs-for-different-viewport-sizes)
+        sizes](/tips/designing/#create-designs-for-different-viewport-sizes)
     -   [Ensure that form elements include clearly associated
-        labels]({{ "/tips/designing/" | relative_url }}#ensure-that-form-elements-include-clearly-associated-labels)
+        labels](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
 -   **Easy Check:**
     -   [Forms, labels, and
-        errors]({{ "/test-evaluate/preliminary/" | relative_url }}#forms)
+        errors](/test-evaluate/preliminary/#forms)
 -   **User Story:**
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+        loss](/people-use-web/user-stories/#retiree)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "labels"](https://www.w3.org/WAI/WCAG21/quickref/?tags=labels)
 

@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/captions/
+ref: /perspective-videos/captions/
 title: Video Captions
 order: 6
 description: Short video about video captions for web accessibility - what are they, who depends on them, and what needs to happen to make them work.

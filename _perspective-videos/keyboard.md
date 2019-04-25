@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/keyboard/
+ref: /perspective-videos/keyboard/
 title: Keyboard Compatibility
 order: 1
 description: Short video about keyboard compatibility for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -51,27 +54,22 @@ Native HTML controls, like links, buttons, and form elements, work with the keyb
 {:#resources}
 
 -   **Accessibility Principle:**
-    -   [Functionality is available from a
-        keyboard]({{ "/fundamentals/accessibility-principles/" | relative_url }}#keyboard)
+    -   [Functionality is available from a keyboard](/fundamentals/accessibility-principles/#keyboard)
 -   **Getting Started:**
-    -   [Ensure that all interactive elements are keyboard
-        accessible]({{ "/tips/developing/" | relative_url }}#ensure-that-all-interactive-elements-are-keyboard-accessible)
+    -   [Ensure that all interactive elements are keyboard accessible](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
 -   **Easy Check:**
-    -   [Keyboard access and visual focus]({{ "/test-evaluate/preliminary/" | relative_url }}#interaction)
+    -   [Keyboard access and visual focus](/test-evaluate/preliminary/#interaction)
 -   **User Story:**
-    -   [Mr. Jones, Reporter with repetitive stress
-        injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
-    -   [Ms. Laitinen, Accountant with
-        blindness]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
-    -   [Ms. Kaseem, Teenager with
-        deaf-blindness]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+    -   [Mr. Jones, Reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
+    -   [Ms. Laitinen, Accountant with blindness](/people-use-web/user-stories/#accountant)
+    -   [Ms. Kaseem, Teenager with deaf-blindness](/people-use-web/user-stories/#teenager)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "keyboard"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard)
 -   **Mobile Applicability:**
     -   [Mouse required for interaction and
-        navigation]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#mouse)
+        navigation](/standards-guidelines/shared-experiences/#mouse)
 -   **Tutorial:**
     -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
         (several related topics)

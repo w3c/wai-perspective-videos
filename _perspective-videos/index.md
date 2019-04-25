@@ -1,7 +1,9 @@
 ---
+lang: en
 title: "Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone"
 nav_title: "Perspective Videos Overview"
 permalink: /perspective-videos/
+ref: /perspective-videos/
 order: 0
 description: Short videos on the impact of web accessibility for people with disabilities, and the benefits for everyone in a variety of situations.
 image: /perspective-videos/img/overview.jpg

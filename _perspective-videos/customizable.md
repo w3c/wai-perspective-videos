@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/customizable/
+ref: /perspective-videos/customizable/
 title: Customizable Text
 order: 7
 description: Short video about customizable text for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -68,25 +71,25 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Content can be presented in different
-        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
+        ways](/fundamentals/accessibility-principles/#adaptable)
 -   **Getting Started:**
     -   [Write code that adapts to the user's
-        technology]({{ "/tips/developing/" | relative_url }}#write-code-that-adapts-to-the-users-technology)
+        technology](/tips/developing/#write-code-that-adapts-to-the-users-technology)
 -   **Easy Check:**
-    -   [Resize text]({{ "/test-evaluate/preliminary/" | relative_url }}#resize)
+    -   [Resize text](/test-evaluate/preliminary/#resize)
 -   **User Story:**
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+        loss](/people-use-web/user-stories/#retiree)
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+        dyslexia](/people-use-web/user-stories/#classroomstudent)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "text"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
 -   **User Agent Accessibility Guidelines ([UAAG
-    Overview]({{ "/standards-guidelines/uaag/" | relative_url }})):**
+    Overview](/standards-guidelines/uaag/)):**
     -   [Provide text
         configuration](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/#gl-text-config)
     -   [Multi-Column Text

@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/layout/
+ref: /perspective-videos/layout/
 title: Clear Layout and Design
 order: 3
 description: Short video about clear layout and design for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -64,30 +67,30 @@ across a website.
 -   **Accessibility Principle:**
     -   [Users can easily navigate, find content, and determine where
         they
-        are]({{ "/fundamentals/accessibility-principles/" | relative_url }}#navigable)
+        are](/fundamentals/accessibility-principles/#navigable)
     -   [Content appears and operates in predictable
-        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
+        ways](/fundamentals/accessibility-principles/#predictable)
 -   **Getting Started:**
     -   [Provide clear and consistent navigation
-        options]({{ "/tips/designing/" | relative_url }}#provide-clear-and-consistent-navigation-options)
+        options](/tips/designing/#provide-clear-and-consistent-navigation-options)
     -   [Ensure that interactive elements are easy to
-        identify]({{ "/tips/designing/" | relative_url }}#ensure-that-interactive-elements-are-easy-to-identify)
+        identify](/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
     -   [Ensure that form elements include clearly associated
-        labels]({{ "/tips/designing/" | relative_url }}#ensure-that-form-elements-include-clearly-associated-labels)
+        labels](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
 -   **Easy Check:**
     -   [Forms, labels, and
-        errors]({{ "/test-evaluate/preliminary/" | relative_url }}#forms)
+        errors](/test-evaluate/preliminary/#forms)
 -   **User Story:**
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+        dyslexia](/people-use-web/user-stories/#classroomstudent)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+        loss](/people-use-web/user-stories/#retiree)
     -   [Mr. Sands, Supermarket assistant with Down
-        syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+        syndrome](/people-use-web/user-stories/#supermarketassistant)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "layout"](https://www.w3.org/WAI/WCAG21/quickref/?tags=layout)
 -   **Tutorial:**

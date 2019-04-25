@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/speech/
+ref: /perspective-videos/speech/
 title: Text to Speech
 order: 4
 description: Short video about text to speech for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -61,7 +64,7 @@ What needs to happen for this to work? {#action}
 Use semantic HTML markup for structures such as headings, paragraphs,
 lists, forms, and tables. Provide text alternatives for images, icons,
 and other non-text content. Ensure [keyboard
-compatibility]({{ "/perspective-videos/keyboard/" | relative_url }}), and ensure that text information is
+compatibility](/perspective-videos/keyboard/), and ensure that text information is
 understandable without the visual context.
 
 Learn more {#resources}
@@ -69,40 +72,40 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Text alternatives for non-text
-        content]({{ "/fundamentals/accessibility-principles/" | relative_url }}#alternatives)
+        content](/fundamentals/accessibility-principles/#alternatives)
     -   [Content can be presented in different
-        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#adaptable)
+        ways](/fundamentals/accessibility-principles/#adaptable)
 -   **Getting Started:**
     -   [Write meaningful text alternatives for
-        images]({{ "/tips/writing/" | relative_url }}#write-meaningful-text-alternatives-for-images)
+        images](/tips/writing/#write-meaningful-text-alternatives-for-images)
     -   [Use headings to convey meaning and
-        structure]({{ "/tips/writing/" | relative_url }}#use-headings-to-convey-meaning-and-structure)
+        structure](/tips/writing/#use-headings-to-convey-meaning-and-structure)
     -   [Identify page language and language
-        changes]({{ "/tips/developing/" | relative_url }}#identify-page-language-and-language-changes)
+        changes](/tips/developing/#identify-page-language-and-language-changes)
 -   **Easy Check:**
     -   [Image text alternatives ("alt
-        text")]({{ "/test-evaluate/preliminary/" | relative_url }}#images)
+        text")](/test-evaluate/preliminary/#images)
     -   [Basic Structure
-        Check]({{ "/test-evaluate/preliminary/" | relative_url }}#structure)
+        Check](/test-evaluate/preliminary/#structure)
 -   **User Story:**
     -   [Ms. Laitinen, Accountant with
-        blindness]({{ "/people-use-web/user-stories/" | relative_url }}#accountant)
+        blindness](/people-use-web/user-stories/#accountant)
     -   [Ms. Kaseem, Teenager with
-        deaf-blindness]({{ "/people-use-web/user-stories/" | relative_url }}#teenager)
+        deaf-blindness](/people-use-web/user-stories/#teenager)
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+        dyslexia](/people-use-web/user-stories/#classroomstudent)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to "images" and
         "structure"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
 -   **Mobile Applicability:**
     -   [Non-text objects (images, sound, video) with no text
-        alternative]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#non-text)
+        alternative](/standards-guidelines/shared-experiences/#non-text)
     -   [Information conveyed only using CSS (visual
-        formatting)]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#visual-formatting)
+        formatting)](/standards-guidelines/shared-experiences/#visual-formatting)
     -   [Non-descriptive link
-        label]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#link-label)
+        label](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutorial:**
     -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
         (several related topics)

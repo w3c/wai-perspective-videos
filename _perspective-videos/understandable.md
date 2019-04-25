@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/understandable/
+ref: /perspective-videos/understandable/
 title: Understandable Content
 order: 9
 description: Short video about understandable content for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -58,7 +61,7 @@ What needs to happen for this to work? {#action}
 Avoid overly complex words, jargon, and acronyms, or provide
 explanations when they need to be used. Provide structure using
 headings, lists, and spacing. Provide illustrations that clarify the
-content, when helpful. Provide [clear layout and design]({{ "/perspective-videos/layout/" | relative_url }})
+content, when helpful. Provide [clear layout and design](/perspective-videos/layout/)
 with consistent orientation and navigation cues.
 
 Learn more {#resources}
@@ -66,36 +69,36 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Understandable information and user
-        interface]({{ "/fundamentals/accessibility-principles/" | relative_url }}#understandable)
+        interface](/fundamentals/accessibility-principles/#understandable)
 -   **Getting Started:**
     -   [Keep content clear and
-        concise]({{ "/tips/writing/" | relative_url }}#keep-content-clear-and-concise)
+        concise](/tips/writing/#keep-content-clear-and-concise)
     -   [Provide clear
-        instructions]({{ "/tips/writing/" | relative_url }}#provide-clear-instructions)
+        instructions](/tips/writing/#provide-clear-instructions)
     -   [Use headings to convey meaning and
-        structure]({{ "/tips/writing/" | relative_url }}#use-headings-to-convey-meaning-and-structure)
+        structure](/tips/writing/#use-headings-to-convey-meaning-and-structure)
 -   **Easy Check:**
-    -   [Headings]({{ "/test-evaluate/preliminary/" | relative_url }}#headings)
+    -   [Headings](/test-evaluate/preliminary/#headings)
 -   **User Story:**
     -   [Ms. Olsen, Classroom student with attention deficit
         hyperactivity disorder (ADHD) and
-        dyslexia]({{ "/people-use-web/user-stories/" | relative_url }}#classroomstudent)
+        dyslexia](/people-use-web/user-stories/#classroomstudent)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+        loss](/people-use-web/user-stories/#retiree)
     -   [Mr. Sands, Supermarket assistant with Down
-        syndrome]({{ "/people-use-web/user-stories/" | relative_url }}#supermarketassistant)
+        syndrome](/people-use-web/user-stories/#supermarketassistant)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "text"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
 -   **Mobile Applicability:**
     -   [Long words, long and complex sentences,
-        jargon]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#complex)
+        jargon](/standards-guidelines/shared-experiences/#complex)
     -   [Content spawning new windows without warning
-        user]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#popups)
+        user](/standards-guidelines/shared-experiences/#popups)
     -   [Blinking, moving, scrolling or auto-updating
-        content]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#dynamic)
+        content](/standards-guidelines/shared-experiences/#dynamic)
 
 ## Text Transcript with Description of Visuals {#transcript}
 

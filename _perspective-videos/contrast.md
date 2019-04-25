@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/contrast/
+ref: /perspective-videos/contrast/
 title: Colors with Good Contrast
 order: 2
 description: Short video about colors with good contrast for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -53,36 +56,36 @@ Select text and background colors that provide sufficient contrast.
 There are tools to help check and select appropriate color combinations.
 This is ideally done during the early design stage and the selection of
 color palettes. While some people need high contrast, some people are
-sensitive to brightness and need to [change the colors]({{ "perspective-videos/customizable/" | relative_url }}).
+sensitive to brightness and need to [change the colors](perspective-videos/customizable/).
 
 ## Learn more
 {:#resources}
 
 -   **Accessibility Principle:**
     -   [Content is easier to see and
-        hear]({{ "/fundamentals/accessibility-principles/" | relative_url }}#distinguishable)
+        hear](/fundamentals/accessibility-principles/#distinguishable)
 -   **Getting Started:**
     -   [Provide sufficient contrast between foreground and
-        background]({{ "/tips/designing/" | relative_url }}#provide-sufficient-contrast-between-foreground-and-background)
+        background](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
 -   **Easy Check:**
     -   [Contrast ratio ("color
-        contrast")]({{ "/test-evaluate/preliminary/" | relative_url }}#contrast)
+        contrast")](/test-evaluate/preliminary/#contrast)
 -   **User Story:**
     -   [Mr. Lee, Online shopper with color
-        blindness]({{ "/people-use-web/user-stories/" | relative_url }}#shopper)
+        blindness](/people-use-web/user-stories/#shopper)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
-        loss]({{ "/people-use-web/user-stories/" | relative_url }}#retiree)
+        loss](/people-use-web/user-stories/#retiree)
 -   **User Needs:**
     -   [Accessibility Requirements for People with Low
         Vision](http://www.w3.org/TR/low-vision-needs/)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "contrast"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast)
 -   **Mobile Applicability:**
     -   [Information conveyed solely with
-        color]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#color)
+        color](/standards-guidelines/shared-experiences/#color)
 
 ## Text Transcript with Description of Visuals {#transcript}
 

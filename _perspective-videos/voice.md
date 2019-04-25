@@ -1,4 +1,7 @@
 ---
+lang: en
+permalink: /perspective-videos/voice/
+ref: /perspective-videos/voice/
 title: Voice Recognition
 order: 8
 description: Short video about voice recognition for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -56,40 +59,40 @@ What are the additional benefits? {#others}
 What needs to happen for this to work? {#action}
 --------------------------------------
 
-Content must be properly designed and coded so that it can be controlled by voice. [keyboard compatibility]({{ "/perspective-videos/keyboard/" | relative_url }}) is the basis for such coding. In addition, labels and identifiers for controls in the source code need to match their visual presentation, so that it is clear which voice command will activate a control.
+Content must be properly designed and coded so that it can be controlled by voice. [keyboard compatibility](/perspective-videos/keyboard/) is the basis for such coding. In addition, labels and identifiers for controls in the source code need to match their visual presentation, so that it is clear which voice command will activate a control.
 
 Learn more {#resources}
 ----------
 
 -   **Accessibility Principle:**
     -   [Functionality is available from a
-        keyboard]({{ "/fundamentals/accessibility-principles/" | relative_url }}#keyboard)
+        keyboard](/fundamentals/accessibility-principles/#keyboard)
     -   [Content appears and operates in predictable
-        ways]({{ "/fundamentals/accessibility-principles/" | relative_url }}#predictable)
+        ways](/fundamentals/accessibility-principles/#predictable)
 -   **Getting Started:**
     -   [Ensure that all interactive elements are keyboard
-        accessible]({{ "/tips/developing/" | relative_url }}#ensure-that-all-interactive-elements-are-keyboard-accessible)
+        accessible](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
     -   [Provide meaning for non-standard interactive
-        elements]({{ "/tips/developing/" | relative_url }}#provide-meaning-for-non-standard-interactive-elements)
+        elements](/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
     -   [Provide alternative text for
-        images]({{ "/tips/designing/" | relative_url }}#include-image-and-media-alternatives-in-your-design)
+        images](/tips/designing/#include-image-and-media-alternatives-in-your-design)
 -   **Easy Check:**
     -   [Keyboard access and visual
-        focus]({{ "/test-evaluate/preliminary/" | relative_url }}#interaction)
+        focus](/test-evaluate/preliminary/#interaction)
     -   [Forms, labels, and
-        errors]({{ "/test-evaluate/preliminary/" | relative_url }}#forms)
+        errors](/test-evaluate/preliminary/#forms)
 -   **User Story:**
     -   [Mr. Jones, Reporter with repetitive stress
-        injury]({{ "/people-use-web/user-stories/" | relative_url }}#reporter)
+        injury](/people-use-web/user-stories/#reporter)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview]({{ "/standards-guidelines/wcag/" | relative_url }})):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to "keyboard" and
         "controls"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols)
 -   **Mobile Applicability:**
     -   [Mouse required for interaction and
-        navigation]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#mouse)
+        navigation](/standards-guidelines/shared-experiences/#mouse)
     -   [Non descriptive link
-        label]({{ "/standards-guidelines/shared-experiences/" | relative_url }}#link-label)
+        label](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutorial:**
     -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
         (several related topics)
