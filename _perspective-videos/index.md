@@ -37,7 +37,7 @@ to get you started:
 
 -   [Introduction to Web Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url }})
 -   [How People with Disabilities Use the Web]({{ "/people-use-web/" | relative_url }}) - outlines users stories, assistive technologies, and accessibility principles
--   [Getting StartedTips]({{ "/tips/" | relative_url }}) - basic first steps for web designers, writers, and developers
+-   [Getting Started Tips]({{ "/tips/" | relative_url }}) - basic first steps for web designers, writers, and developers
 -   [Business Case](https://www.w3.org/WAI/bcase/) - highlights arguments including social, technical, financial, and legal factors
 -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) - more in-depth guidance for developing accessible web content
 
