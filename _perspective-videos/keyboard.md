@@ -5,6 +5,8 @@ ref: /perspective-videos/keyboard/
 title: Keyboard Compatibility
 order: 1
 description: Short video about keyboard compatibility for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
+
+teaser_text: All functionality must be usable with the keyboard. That is, users can access links, buttons, forms, and other controls using the Tab key and other keystrokes. Websites should not require a mouse. Keyboard accessibility is essential for people with disabilities and benefits everyone in a variety of situations.
 image: /perspective-videos/img/keyboard.jpg
 footer: >
   <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
