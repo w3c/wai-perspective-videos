@@ -57,18 +57,18 @@ Plus d'informations {#resources}
     -   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
     -   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/fundamentals/accessibility-principles/#tolerant)
 -   **Pour démarrer :**
-    -   [Fournir des instructions claires](/tips/writing/#provide-clear-instructions) (en anglais)
+    -   [Fournir des instructions claires](/tips/writing/#provide-clear-instructions) 
     -   [Les utilisateurs sont accompagnés pour éviter et corriger les erreurs](/tips/developing/#help-users-avoid-and-correct-mistakes)
 -   **Vérification facile :**
-    -   [Formulaires, libellés, et erreurs (y compris les champs de recherche)](/test-evaluate/preliminary/#forms) (en anglais)
+    -   [Formulaires, libellés, et erreurs (y compris les champs de recherche)](/test-evaluate/preliminary/#forms) 
 -   **Témoignages d'utilisateurs :**
     -   [Preety, collégienne atteinte d'un trouble du déficit de l'attention avec hyperactivité et dyslexie](/people-use-web/user-stories/#classroomstudent)
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
     -   [Luis, assistant en supermarché, atteint du syndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
-    -   [Critères de réussite liés aux "erreurs"](https://www.w3.org/WAI/WCAG21/quickref/?tags=errors) (en anglais)
+    -   [Critères de réussite liés aux "erreurs"](https://www.w3.org/WAI/WCAG21/quickref/?tags=errors) 
 -   **Tutoriel :**
-    -   [Formulaires - Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/) (en anglais)
+    -   [Formulaires - Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/) 
 
 ## Transcription avec description visuelle {#transcript}
 
