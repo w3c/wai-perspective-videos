@@ -55,21 +55,21 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
 {:#resources}
 
 -   **Principe d'accessibilité :**
-    -   [Des fonctionnalités disponibles au clavier](/fundamentals/accessibility-principles/#keyboard) (en anglais)
+    -   [Des fonctionnalités disponibles au clavier](/fundamentals/accessibility-principles/#keyboard) 
 -   **Pour démarrer :**
-    -   [S'assurer que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible) (en anglais)
+    -   [S'assurer que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible) 
 -   **Vérification simple :**
-    -   [Accès depuis le clavier et attention apportée au visuel](/test-evaluate/preliminary/#interaction) (en anglais)
+    -   [Accès depuis le clavier et attention apportée au visuel](/test-evaluate/preliminary/#interaction) 
 -   **Témoignages d'utilisateurs :**
     -   [Alex, journaliste atteint d'un trouble musculosquelettique](/people-use-web/user-stories/#reporter)
     -   [Ilya, cadre supérieure, aveugle](/people-use-web/user-stories/#accountant)
     -   [Kasseem, adolescente sourde et aveugle](/people-use-web/user-stories/#teenager)
--   **Règles pour l'accessibilité des contenus Web([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** (en anglais)
-    -   [Critères de réussite liés au "clavier"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard) (en anglais)
+-   **Règles pour l'accessibilité des contenus Web([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 
+    -   [Critères de réussite liés au "clavier"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard) 
 -   **Applicabilité au mobile :**
-    -   [Souris requise pour l'interaction et la navigation](/standards-guidelines/shared-experiences/#mouse) (en anglais)
+    -   [Souris requise pour l'interaction et la navigation](/standards-guidelines/shared-experiences/#mouse) 
 -   **Tutoriel :**
-    -   [Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/) (en anglais)
+    -   [Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/)
         (plusieurs sujets relatifs)
 
 ## Transcription avec description visuelle {#transcript}
@@ -117,7 +117,7 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur la compatibilité du clavier (en anglais)</td>
+      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur la compatibilité du clavier</td>
       <td>Visitez<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
