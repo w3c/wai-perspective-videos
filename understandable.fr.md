@@ -1,0 +1,116 @@
+---
+lang: fr
+permalink: /perspective-videos/understandable/fr
+translator: Sofia Ahmed
+ref: /perspective-videos/understandable/
+title: Du contenu compréhensible
+order: 9
+description: Courte vidéo à propos du contenu compréhensible pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
+image: /perspective-videos/img/understandable.jpg
+footer: >
+  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a> fondé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements (anglais)</a>.</p>
+---
+
+L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
+
+## Vidéo sur le contenu compréhensible
+{:#film.no-display}
+
+{% include video-player.html
+    yt-id="BYRxF2yInfA"
+    yt-id-ad="MNlT1Qy3pvQ"
+    captions="/perspective-videos/cc/understandable-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/understandable_ad-en.vtt|en|Captions"
+    descriptions=""
+    descriptions-ad="/perspective-videos/cc/understandable_ad_desc-en.vtt|en|Descriptions"
+%}
+
+Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
+
+Qu'est-ce que du "contenu compréhensible" ? {#what}
+---------------------------------
+
+Le contenu doit être facile à suivre et à comprendre pour de nombreux utilisateurs. Pour la plupart des contenus, cela signifie simplement éviter les phrases trop complexes et le jargon, et fournir une mise en page et un design clairs. Pour des contenus plus complexes tels que de l'information médicale, des informations supplémentaires faciles à lire pourraient s'avérer nécessaires.
+
+Qui en bénéficie ? {#who}
+----------------------------
+
+-   Les personnes atteintes de troubles d'apprentissage qui ne peuvent pas comprendre du vocabulaire et des structures de phrases complexes.
+-   Les personnes atteintes de troubles cognitifs qui ont des difficultés à se concentrer sur de longs passages d'un texte dense.
+
+Quels sont les autres avantages ? {#others}
+---------------------------------
+
+-   Le contenu est plus utilisable pour les personnes ayant de plus faibles compétences linguistiques, tout comme les personnes qui ne connaissent pas couramment la langue du site Web et les personnes peu alphabétisées.
+-   Le contenu est plus facile à comprendre par les utilisateurs qui ne sont pas familiers avec le sujet.
+-   Le contenu est plus facile à écumer, et donne une vue d'ensemble de l'information.
+
+Comment mettre cela en pratique ? {#action}
+--------------------------------------
+
+Evitez les mots trop complexes, le jargon, et les acronymes, ou fournissez des explications lorsque c'est nécessaire. Faites une structure en utilisant des headings, des listes, et des interlignes. Fournissez des illustrations qui clarifient le contenu, lorsque c'est nécessaire. Faites [une mise en page et un design clairs](/perspective-videos/layout/) avec des repères de navigation et d'orientation cohérents.
+
+Plus d'informations {#resources}
+----------
+
+-   **Principe d'accessibilité :**
+    -   [Des informations et une interface utilisateur compréhensibles](/fundamentals/accessibility-principles/#understandable)
+-   **Pour démarrer :**
+    -   [Garder un contenu clair et concis](/tips/writing/#keep-content-clear-and-concise) (en anglais)
+    -   [Fournir des instructions claires](/tips/writing/#provide-clear-instructions) (en anglais)
+    -   [Utiliser des headings pour donner du sens et une structure](/tips/writing/#use-headings-to-convey-meaning-and-structure) (en anglais)
+-   **Vérification simple :**
+    -   [Headings](/test-evaluate/preliminary/#headings) (en anglais)
+-   **Témoignages d'utilisateurs :**
+    -   [Preety, collégienne atteinte d'un trouble du déficit de l'attention avec hyepractivité et dyslexie](/people-use-web/user-stories/#classroomstudent)
+    -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
+    -   [Ilya, cadre supérieure, aveugle](/people-use-web/user-stories/#supermarketassistant)
+-   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
+    -   [Critères de réussite liés au "texte"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text) (en anglais)
+-   **Applicabilité mobile :**
+    -   [Mots long, phrases longues et complexes, jargon](/standards-guidelines/shared-experiences/#complex) (en anglais)
+    -   [Le contenu fait apparaître de nouvelles fenêtres sans avertir l'utilisateur](/standards-guidelines/shared-experiences/#popups) (en anglais)
+    -   [Clignotement, déplacement, défilement ou mise à jour automatique du contenu](/standards-guidelines/shared-experiences/#dynamic) (en anglais)
+
+## Transcription avec description visuelle {#transcript}
+
+ <table>
+  <thead>
+    <tr>
+      <th width="65%">Audio</th>
+      <th>Visuel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>L'accessibilité Web illustrée : du contenu compréhensible</td>
+      <td>L'accessibilité Web illustrée :<br>
+        Du contenu compréhensible</td>
+    </tr>
+    <tr>
+      <td>Au lieu de dire : &quot;postuler un concept plus agaçant que d'être abordé dans une syntaxe polysyllabique est adamantin&quot;,<br>
+        il est préférable de dire : &quot;c'est pénible lorsqu'on nous parle dans un langage inutilement long et compliqué&quot;.</td>
+      <td>Deux personnes essaient de suivre les instructions sur un site Web de cuisine qui utilise beaucoup de texte et pas d'illustration ni de structure.</td>
+    </tr>
+    <tr>
+      <td>Pourtant, de nombreux sites Web n'utilisent pas de headings, de listes et de séparations. Ou bien ils utilisent un langage trop complexe, du jargon, et des acronymes sans explications.</td>
+      <td>Elles cherchent dans un dictionnaire pour comprendre la recette.</td>
+    </tr>
+    <tr>
+      <td>Cela les rend difficiles et désagréables à lire pour beaucoup de personnes, y compris pour les non-natifs, et cela les rend inutilisables pour les personnes atteintes de troubles cognitifs et d'apprentissage.</td>
+      <td>Ils sont perdus et frustrés à cause du site Web.</td>
+    </tr>
+    <tr>
+      <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
+      <td>Ils cherchent et trouvent un site Web de cuisine différent avec un texte plus structuré et des illustrations.</td>
+    </tr>
+    <tr>
+      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur du contenu compréhensible</td>
+      <td>Visitez<br>
+        w3.org/WAI/perspectives<br>
+        pour plus d'informations sur<br>
+        Du contenu compréhensible.<br>
+        Logo du Web Accessibility Initiative du W3C</td>
+    </tr>
+  </tbody>
+</table>
