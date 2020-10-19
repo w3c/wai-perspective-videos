@@ -55,18 +55,18 @@ Choisissez des couleurs de texte et de fond dont le contraste est suffisant. Il 
 -   **Principe d'accessibilité :**
     -   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
 -   **Pour démarrer :**
-    -   [Fournir un contraste suffisant entre le premier plan et le fond](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background) (en anglais)
+    -   [Fournir un contraste suffisant entre le premier plan et le fond](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background) 
 -   **Vérification facile :**
-    -   [Rapport de contraste ("contraste des couleurs")](/test-evaluate/preliminary/#contrast) (en anglais)
+    -   [Rapport de contraste ("contraste des couleurs")](/test-evaluate/preliminary/#contrast) 
 -   **Témoignages d'utilisateurs :**
     -   [Lee, client de site Web marchand, daltonien](/people-use-web/user-stories/#shopper)
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
 -   **Besoins des utilisateurs :**
-    -   [Critères d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) (en anglais)
--   **Régles pour l'acessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** (en anglais)
-    -   [Critères de réussite liés au "contraste"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast) (en anglais)
+    -   [Critères d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) 
+-   **Régles pour l'acessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 
+    -   [Critères de réussite liés au "contraste"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast) 
 -   **Règles pour appareils mobiles :**
-    -   [Les informations communiquées uniquement en couleur](/standards-guidelines/shared-experiences/#color) (en anglais)
+    -   [Les informations communiquées uniquement en couleur](/standards-guidelines/shared-experiences/#color) 
 
 ## Transcription avec description visuelle {#transcript}
 
