@@ -57,14 +57,14 @@ Plus d'informations {#resources}
 -   **Principes d'accessibilité :**
     -   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
 -   **Pour démarrer :**
-    -   [Créer des designs pour différentes tailles de viewports](/tips/designing/#create-designs-for-different-viewport-sizes) (en anglais)
-    -   [S'assurer que les éléments de formulaire comprennent des libellés clairement associées](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels) (en anglais)
+    -   [Créer des designs pour différentes tailles de viewports](/tips/designing/#create-designs-for-different-viewport-sizes) 
+    -   [S'assurer que les éléments de formulaire comprennent des libellés clairement associées](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels) 
 -   **Vérification simple :**
-    -   [Formulaires, libellés, et erreurs](/test-evaluate/preliminary/#forms) (en anglais)
+    -   [Formulaires, libellés, et erreurs](/test-evaluate/preliminary/#forms) 
 -   **Témoignages d'utilisateurs :**
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
-    -   [Critères de réussite liés aux "libellés"](https://www.w3.org/WAI/WCAG21/quickref/?tags=labels) (en anglais)
+    -   [Critères de réussite liés aux "libellés"](https://www.w3.org/WAI/WCAG21/quickref/?tags=labels) 
 
 ## Transcription avec description visuelle {#transcript}
 
