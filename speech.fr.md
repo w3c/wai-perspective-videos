@@ -57,25 +57,25 @@ Plus d'informations {#resources}
     -   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
     -   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#adaptable)
 -   **Pour démarrer :**
-    -   [Ecrire des alternatives textuelles significatives pour les images](/tips/writing/#write-meaningful-text-alternatives-for-images) (en anglais)
-    -   [Utiliser des headings pour donner du sens et structurer](/tips/writing/#use-headings-to-convey-meaning-and-structure) (en anglais)
-    -   [Identifier la langue des pages et les changements de langue](/tips/developing/#identify-page-language-and-language-changes) (en anglais)
+    -   [Ecrire des alternatives textuelles significatives pour les images](/tips/writing/#write-meaningful-text-alternatives-for-images) 
+    -   [Utiliser des headings pour donner du sens et structurer](/tips/writing/#use-headings-to-convey-meaning-and-structure) 
+    -   [Identifier la langue des pages et les changements de langue](/tips/developing/#identify-page-language-and-language-changes) 
 -   **Vérification facile :**
     -   [Alternatives textuelles pour les images ("alt
-        text")](/test-evaluate/preliminary/#images) (en anglais)
-    -   [Vérification de la structure de base](/test-evaluate/preliminary/#structure) (en anglais)
+        text")](/test-evaluate/preliminary/#images) 
+    -   [Vérification de la structure de base](/test-evaluate/preliminary/#structure) 
 -   **Témoignages d'utilisateurs :**
     -   [Ilya, cadre supérieure, aveugle](/people-use-web/user-stories/#accountant)
     -   [Kasseem, adolescente sourde et aveugle](/people-use-web/user-stories/#teenager)
     -   [Preety, collégienne atteinte d'un trouble du déficit de l'attention avec hyepractivité et dyslexie](/people-use-web/user-stories/#classroomstudent)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
-    -   [Critères de réussite liés aux "images" et à la "structure"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)(en anglais)
+    -   [Critères de réussite liés aux "images" et à la "structure"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
 -   **Applicabilité mobile :**
-    -   [Objets non textuels (images, son, vidéo) sans alternatives textuelles](/standards-guidelines/shared-experiences/#non-text) (en anglais)
-    -   [Information transmise en utilisant seulement du CSS (formatage visuel)](/standards-guidelines/shared-experiences/#visual-formatting) (en anglais)
-    -   [Etiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label) (en anglais)
+    -   [Objets non textuels (images, son, vidéo) sans alternatives textuelles](/standards-guidelines/shared-experiences/#non-text) 
+    -   [Information transmise en utilisant seulement du CSS (formatage visuel)](/standards-guidelines/shared-experiences/#visual-formatting) 
+    -   [Etiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label) 
 -   **Tutoriel:**
-    -   [Tutoriels sur l'accessibilité](https://www.w3.org/WAI/tutorials/) (en anglais)
+    -   [Tutoriels sur l'accessibilité](https://www.w3.org/WAI/tutorials/) 
         (plusieurs sujets relatifs)
 
 ## Transcription avec description visuelle {#transcript}
