@@ -58,21 +58,21 @@ Plus d'informations {#resources}
 -   **Principe d'accessibilité :**
     -   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
 -   **Pour démarrer :**
-    -   [Du code qui s'adapte à la technologie des utilisateurs](/tips/developing/#write-code-that-adapts-to-the-users-technology) (en anglais)
+    -   [Du code qui s'adapte à la technologie des utilisateurs](/tips/developing/#write-code-that-adapts-to-the-users-technology) 
 -   **Vérification facile :**
     -   [Modifier la taille du texte](/test-evaluate/preliminary/#resize)
 -   **Témoignages d'utilisateurs :**
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
     -   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique](/people-use-web/user-stories/#classroomstudent)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :**
-    -   [Critères de réussite liés au "texte"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text) (en anglais)
+    -   [Critères de réussite liés au "texte"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text) 
 -   **Règles pour l'accessibilité des agents utilisateurs ([Vue d'ensemble des UAGG](/standards-guidelines/uaag/)) :**
-    -   [Founir la configuration du texte](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/#gl-text-config) (en anglais)
-    -   [Réajustement du texte présenté en plusieurs colonnes](https://www.w3.org/TR/UAAG20/#sc_1813) (en anglais)
-    -   [Linéarisation du contenu](https://www.w3.org/TR/UAAG20/#sc_1815) (en anglais)
+    -   [Founir la configuration du texte](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/#gl-text-config) 
+    -   [Réajustement du texte présenté en plusieurs colonnes](https://www.w3.org/TR/UAAG20/#sc_1813) 
+    -   [Linéarisation du contenu](https://www.w3.org/TR/UAAG20/#sc_1815)
 -   **Besoins utilisateurs :**
-    -   [Critères d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) (en anglais)
-
+    -   [Critères d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) 
+    
 ## Transcription avec description visuelle {#transcript}
 <table>
   <thead>
