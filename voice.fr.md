@@ -55,22 +55,22 @@ Plus d'information {#resources}
 ----------
 
 -   **Principe d'accessibilité :**
-    -   [Des fonctionnalités sont accessibles au clavier](/fundamentals/accessibility-principles/#keyboard) (en anglais)
+    -   [Des fonctionnalités sont accessibles au clavier](/fundamentals/accessibility-principles/#keyboard) 
     -   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
 -   **Pour démarrer :**
-    -   [S'assurer que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible) (en anglais)
-    -   [Fournir une explication pour les éléments intéractifs non standards](/tips/developing/#provide-meaning-for-non-standard-interactive-elements) (en anglais)
-    -   [Fournir une alternative textuelle pour les images](/tips/designing/#include-image-and-media-alternatives-in-your-design) (en anglais)
+    -   [S'assurer que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible) 
+    -   [Fournir une explication pour les éléments intéractifs non standards](/tips/developing/#provide-meaning-for-non-standard-interactive-elements) 
+    -   [Fournir une alternative textuelle pour les images](/tips/designing/#include-image-and-media-alternatives-in-your-design) 
 -   **Vérification facile :**
-    -   [Accès au clavier et "focus" visuel](/test-evaluate/preliminary/#interaction) (en anglais)
-    -   [Formulaires, libellés, et erreurs](/test-evaluate/preliminary/#forms) (en anglais)
+    -   [Accès au clavier et "focus" visuel](/test-evaluate/preliminary/#interaction) 
+    -   [Formulaires, libellés, et erreurs](/test-evaluate/preliminary/#forms)
 -   **Témoignages d'utilisateurs :**
     -   [Alex, journaliste atteint d'un trouble musculosquelettique](/people-use-web/user-stories/#reporter)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
-    -   [Critères de réussite liés au "clavier" et aux "commandes"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols) (en anglais)
+    -   [Critères de réussite liés au "clavier" et aux "commandes"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols) 
 -   **Applicabilité mobile :**
-    -   [Utilisation requise de la souris pour les interactions et la navigation](/standards-guidelines/shared-experiences/#mouse) (en anglais)
-    -   [Etiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label) (en anglais)
+    -   [Utilisation requise de la souris pour les interactions et la navigation](/standards-guidelines/shared-experiences/#mouse) 
+    -   [Etiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutoriel :**
     -   [Tutoriels sur l'accessiblité Web](https://www.w3.org/WAI/tutorials/)
         (plusieurs sujets relatifs)
