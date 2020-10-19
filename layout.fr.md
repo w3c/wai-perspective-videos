@@ -54,17 +54,17 @@ Créez une structure claire, aussi bien visuellement, qu'au niveau du balisage. 
     -   [Les utilisateurs peuvent facilement naviguer, trouver des contenus, et déterminer où ils sont](/fundamentals/accessibility-principles/#navigable)
     -   [Le contenu apparaît et opère de manière prévisible](/fundamentals/accessibility-principles/#predictable)
 -   **Pour démarrer :**
-    -   [Fournir des options de navigation claires et cohérentes](/tips/designing/#provide-clear-and-consistent-navigation-options) (en anglais)
-    -   [S'assurer que les éléments interactifs sont facilement identifiables](/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify) (en anglais)
-    -   [S'assurer que les éléments de formulaire incluent clairement des libellés associées](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels) (en anglais)
+    -   [Fournir des options de navigation claires et cohérentes](/tips/designing/#provide-clear-and-consistent-navigation-options) 
+    -   [S'assurer que les éléments interactifs sont facilement identifiables](/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify) 
+    -   [S'assurer que les éléments de formulaire incluent clairement des libellés associées](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels) 
 -   **Vérification facile :**
-    -   [Formulaires, libellés, et erreurs](/test-evaluate/preliminary/#forms) (en anglais)
+    -   [Formulaires, libellés, et erreurs](/test-evaluate/preliminary/#forms) 
 -   **Témoignages d'utilisateurs :**
     -   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexiquea](/people-use-web/user-stories/#classroomstudent)
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
     -   [Luis, assistant en supermarché, atteint du syndrome de Down](/people-use-web/user-stories/#supermarketassistant)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :**
-    -   [Critères de réussite liés à la "mise en page"](https://www.w3.org/WAI/WCAG21/quickref/?tags=layout) (en anglais)
+    -   [Critères de réussite liés à la "mise en page"](https://www.w3.org/WAI/WCAG21/quickref/?tags=layout) 
 -   **Tutoriel :**
     -   [Structure de page - Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/page-structure/)
         (version préliminaire)
