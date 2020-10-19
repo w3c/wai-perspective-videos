@@ -56,21 +56,21 @@ Plus d'informations {#resources}
 -   **Principe d'accessibilité :**
     -   [Des informations et une interface utilisateur compréhensibles](/fundamentals/accessibility-principles/#understandable)
 -   **Pour démarrer :**
-    -   [Garder un contenu clair et concis](/tips/writing/#keep-content-clear-and-concise) (en anglais)
-    -   [Fournir des instructions claires](/tips/writing/#provide-clear-instructions) (en anglais)
-    -   [Utiliser des headings pour donner du sens et une structure](/tips/writing/#use-headings-to-convey-meaning-and-structure) (en anglais)
+    -   [Garder un contenu clair et concis](/tips/writing/#keep-content-clear-and-concise) 
+    -   [Fournir des instructions claires](/tips/writing/#provide-clear-instructions) 
+    -   [Utiliser des headings pour donner du sens et une structure](/tips/writing/#use-headings-to-convey-meaning-and-structure) 
 -   **Vérification simple :**
-    -   [Headings](/test-evaluate/preliminary/#headings) (en anglais)
+    -   [Headings](/test-evaluate/preliminary/#headings) 
 -   **Témoignages d'utilisateurs :**
     -   [Preety, collégienne atteinte d'un trouble du déficit de l'attention avec hyepractivité et dyslexie](/people-use-web/user-stories/#classroomstudent)
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
     -   [Ilya, cadre supérieure, aveugle](/people-use-web/user-stories/#supermarketassistant)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
-    -   [Critères de réussite liés au "texte"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text) (en anglais)
+    -   [Critères de réussite liés au "texte"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text) 
 -   **Applicabilité mobile :**
-    -   [Mots long, phrases longues et complexes, jargon](/standards-guidelines/shared-experiences/#complex) (en anglais)
-    -   [Le contenu fait apparaître de nouvelles fenêtres sans avertir l'utilisateur](/standards-guidelines/shared-experiences/#popups) (en anglais)
-    -   [Clignotement, déplacement, défilement ou mise à jour automatique du contenu](/standards-guidelines/shared-experiences/#dynamic) (en anglais)
+    -   [Mots long, phrases longues et complexes, jargon](/standards-guidelines/shared-experiences/#complex) 
+    -   [Le contenu fait apparaître de nouvelles fenêtres sans avertir l'utilisateur](/standards-guidelines/shared-experiences/#popups) 
+    -   [Clignotement, déplacement, défilement ou mise à jour automatique du contenu](/standards-guidelines/shared-experiences/#dynamic) 
 
 ## Transcription avec description visuelle {#transcript}
 
