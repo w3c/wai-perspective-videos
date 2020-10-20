@@ -9,7 +9,7 @@ order: 0
 description: Courtes vidéos sur les effets de l'accessibilité Web pour les personnes souffrant de handicaps, et les avantages pour tous dans diverses situations.
 image: /perspective-videos/img/overview.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 15 septembre 2016. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a> fondé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements (anglais)</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour 15 septembre 2016. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a> co-financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
