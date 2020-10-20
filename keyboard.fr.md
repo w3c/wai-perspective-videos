@@ -7,10 +7,10 @@ title: La compatibilité du clavier
 order: 1
 description: Courte vidéo à propos de la compatibilité du clavier pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 
-teaser_text: All functionality must be usable with the keyboard. That is, users can access links, buttons, forms, and other controls using the Tab key and other keystrokes. Websites should not require a mouse. Keyboard accessibility is essential for people with disabilities and benefits everyone in a variety of situations.
+teaser_text: Toutes les fonctionnalités doivent être facilement utilisables au clavier. Cela signifie que les utilisateurs peuvent accéder aux liens, aux boutons, aux formulaires, et aux autres commandes en utilisant la touche Tab et les autres touches. Les sites Web ne devraient pas nécessiter de souris. L'accessibilité Web est essentielle pour les personnes atteintes de handicaps et avantageuse pour tous dans diverses situations.
 image: /perspective-videos/img/keyboard.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a> fondé par la Commission européenne (CE).<a href="./acknowledgements/">Remerciements (anglais)</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE).<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
