@@ -1,14 +1,15 @@
 ---
 lang: fr
 permalink: /perspective-videos/speech/fr
-translator: Sofia Ahmed
+translators: 
+-name: Sofia Ahmed
 ref: /perspective-videos/speech/
 title: La synthèse vocale
 order: 4
 description: Courte vidéo à propos de la synthèse vocale pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/speech.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -70,7 +71,7 @@ Plus d'informations {#resources}
     -   [Preety, collégienne atteinte d'un trouble du déficit de l'attention avec hyepractivité et dyslexie](/people-use-web/user-stories/#classroomstudent)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
     -   [Critères de réussite liés aux "images" et à la "structure"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
--   **Applicabilité mobile :**
+-   **Règles pour appareils mobiles :**
     -   [Objets non textuels (images, son, vidéo) sans alternatives textuelles](/standards-guidelines/shared-experiences/#non-text) 
     -   [Information transmise en utilisant seulement du CSS (formatage visuel)](/standards-guidelines/shared-experiences/#visual-formatting) 
     -   [Etiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label) 
