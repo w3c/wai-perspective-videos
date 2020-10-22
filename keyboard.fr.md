@@ -102,12 +102,12 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
     </tr>
     <tr>
       <td>d'un handicap physique permanent,</td>
-      <td>Un homme en fauteuil roulante utilise un bâton bucal pour taper.</td>
+      <td>Un homme en fauteuil roulant utilise un bâton bucal pour taper.</td>
     </tr>
     <tr>
       <td>ou simplement d'une souris cassée,<br>
         le résultat est le même :</td>
-      <td>L'homme en fauteuil roulante ne peut pas non plus naviguer sur le site.</td>
+      <td>L'homme en fauteuil roulant ne peut pas non plus naviguer sur le site.</td>
     </tr>
     <tr>
       <td>Les sites et les applications Web doivent pouvoir fonctionner au clavier.</td>
