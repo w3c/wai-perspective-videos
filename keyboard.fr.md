@@ -1,7 +1,8 @@
 ---
 lang: fr
 permalink: /perspective-videos/keyboard/fr
-translator: Sofia Ahmed
+translators: 
+-name: Sofia Ahmed
 ref: /perspective-videos/keyboard/
 title: La compatibilité du clavier
 order: 1
@@ -10,7 +11,7 @@ description: Courte vidéo à propos de la compatibilité du clavier pour l'acce
 teaser_text: Toutes les fonctionnalités doivent être facilement utilisables au clavier. Cela signifie que les utilisateurs peuvent accéder aux liens, aux boutons, aux formulaires, et aux autres commandes en utilisant la touche Tab et les autres touches. Les sites Web ne devraient pas nécessiter de souris. L'accessibilité Web est essentielle pour les personnes atteintes de handicaps et avantageuse pour tous dans diverses situations.
 image: /perspective-videos/img/keyboard.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE).<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE).<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -66,7 +67,7 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
     -   [Kasseem, adolescente sourde et aveugle](/people-use-web/user-stories/#teenager)
 -   **Règles pour l'accessibilité des contenus Web([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 
     -   [Critères de réussite liés au "clavier"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard) 
--   **Applicabilité au mobile :**
+-   **Règles pour appareils mobiles :**
     -   [Souris requise pour l'interaction et la navigation](/standards-guidelines/shared-experiences/#mouse) 
 -   **Tutoriel :**
     -   [Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/)
