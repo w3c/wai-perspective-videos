@@ -1,14 +1,15 @@
 ---
 lang: fr
 permalink: /perspective-videos/understandable/fr
-translator: Sofia Ahmed
+translators: 
+-name: Sofia Ahmed
 ref: /perspective-videos/understandable/
 title: Du contenu compréhensible
 order: 9
 description: Courte vidéo à propos du contenu compréhensible pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/understandable.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -67,7 +68,7 @@ Plus d'informations {#resources}
     -   [Ilya, cadre supérieure, aveugle](/people-use-web/user-stories/#supermarketassistant)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
     -   [Critères de réussite liés au "texte"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text) 
--   **Applicabilité mobile :**
+-   **Règles pour appareils mobiles :**
     -   [Mots long, phrases longues et complexes, jargon](/standards-guidelines/shared-experiences/#complex) 
     -   [Le contenu fait apparaître de nouvelles fenêtres sans avertir l'utilisateur](/standards-guidelines/shared-experiences/#popups) 
     -   [Clignotement, déplacement, défilement ou mise à jour automatique du contenu](/standards-guidelines/shared-experiences/#dynamic) 
