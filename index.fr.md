@@ -3,13 +3,14 @@ lang: fr
 title: "L'accessibilité Web illustrée : explorer les effets et les avantages pour tous"
 nav_title: "Vue d'ensemble : vidéos d'illustration"
 permalink: /perspective-videos/fr
-translator: Sofia Ahmed
+translators: 
+-name: Sofia Ahmed
 ref: /perspective-videos/
 order: 0
 description: Courtes vidéos sur les effets de l'accessibilité Web pour les personnes souffrant de handicaps, et les avantages pour tous dans diverses situations.
 image: /perspective-videos/img/overview.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 15 septembre 2016. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour 15 septembre 2016. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -29,7 +30,7 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 {:.two.columns.linklist}
 
 **Pour les présentations :** [compilation des 10 vidéos (7 min 36 s
-) {% include icon.html name="external-link" label="External Link" %}](https://www.youtube.com/watch?v=3f31oufqFSM) (en anglais)
+) {% include icon.html name="external-link" label="Lien externe" %}](https://www.youtube.com/watch?v=3f31oufqFSM) 
 
 ## Plus d'informations sur l'accessibilité Web
 
