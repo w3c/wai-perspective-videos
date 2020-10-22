@@ -1,14 +1,15 @@
 ---
 lang: fr
 permalink: /perspective-videos/voice/fr
-translator: Sofia Ahmed
+translators: 
+-name: Sofia Ahmed
 ref: /perspective-videos/voice/
 title: La reconnaissance vocale
 order: 8
 description: Courte vidéo à propos de la reconnaissance vocale pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/voice.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -68,7 +69,7 @@ Plus d'information {#resources}
     -   [Alex, journaliste atteint d'un trouble musculosquelettique](/people-use-web/user-stories/#reporter)
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
     -   [Critères de réussite liés au "clavier" et aux "commandes"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols) 
--   **Applicabilité mobile :**
+-   **Règles pour appareils mobiles :**
     -   [Utilisation requise de la souris pour les interactions et la navigation](/standards-guidelines/shared-experiences/#mouse) 
     -   [Etiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutoriel :**
