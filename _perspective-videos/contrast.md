@@ -125,7 +125,7 @@ sensitive to brightness and need to [change the colors](perspective-videos/custo
       <td>An older man on a sofa is looking at a tablet. He goes to read a message on his mobile phone.</td>
     </tr>
     <tr>
-      <td>With good colors, websites and applications can be easier to use in more situations can be easier to use in more situations. Like in different lighting conditions.</td>
+      <td>With good colors, websites and applications can be easier to use in more situations. Like in different lighting conditions.</td>
       <td>Sun glares on the phone but the text is still readable.</td>
     </tr>
     <tr>
