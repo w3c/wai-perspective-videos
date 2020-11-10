@@ -100,7 +100,7 @@ Plus d'informations {#resources}
       <td>La vidéo sur son ordinateur montre une personne qui parle à la caméra. Il n'y a pas de son.</td>
     </tr>
     <tr>
-      <td>Il est frustrant de ne pas savoir ce qu'il se passe, n'est-ce pas ? C'est la situation à laquelle toute personne qui n'entend pas est confrontée.</td>
+      <td>Frustrant, n'est-ce pas ? De ne pas savoir ce qu'il se passe. C'est la situation à laquelle toute personne qui n'entend pas est confrontée.</td>
       <td>L'homme qui regarde la vidéo a un appareil auditif.</td>
     </tr>
     <tr>
