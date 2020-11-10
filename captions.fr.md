@@ -117,7 +117,7 @@ Plus d'informations {#resources}
     </tr>
     <tr>
       <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
-      <td>La vidéo est maintenant visionnée avec des sous-titres.</td>
+      <td>La vidéo tourne à présent avec des sous-titres.</td>
     </tr>
     <tr>
       <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur les sous-titres de vidéo</td>
