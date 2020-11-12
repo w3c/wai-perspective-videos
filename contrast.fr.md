@@ -107,7 +107,7 @@ Choisissez des couleurs de texte et de fond dont le contraste est suffisant. Il 
     </tr>
     <tr>
       <td>Des couleurs bien choisies facilitent l'utilisation des sites et des applications Web dans un plus grand nombre de situations. Par exemple, lorsque la luminosité varie.</td>
-      <td>Il y a une lumière éblouissante sur le téléphone mobile mais le texte reste lisible.</td>
+      <td>Le soleil éblouit l'écran du téléphone, mais le texte reste lisible.</td>
     </tr>
     <tr>
       <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
