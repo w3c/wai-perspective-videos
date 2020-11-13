@@ -47,7 +47,7 @@ Les différentes parties d'une page Web doivent être facile à trouver et à id
 
 ## Comment mettre cela en pratique ?{#action}
 
-Créez une structure claire, aussi bien visuellement, qu'au niveau du balisage. Par exemple, en facilitant la distinction entre les sections telles que la navigation, les commandes liées au groupe dans un formulaire, et fournissez des en-têtes pour identifier les groupes d'information. Créez une présentation et des comportements cohérents des pages Web au sein du site.
+Créez une structure claire, aussi bien visuellement, qu'au niveau du balisage. Par exemple, en facilitant la distinction entre les sections telles que la navigation, les commandes liées au groupe dans un formulaire, et fournissez des titres pour identifier les groupes d'information. Créez une présentation et des comportements cohérents des pages Web au sein du site.
 
 ## Plus d'informations {#resources}
 
