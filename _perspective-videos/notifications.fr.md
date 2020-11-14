@@ -88,7 +88,7 @@ Plus d'informations {#resources}
     </tr>
     <tr>
       <td>Tous les bons mécanismes peuvent être mis en mouvement. Les aiguilles peuvent être exactement là où elles doivent être.</td>
-      <td>Les aguilles d'une pendule à coucou atteignent le chiffre douze...</td>
+      <td>Les aiguilles d'une pendule à coucou atteignent le chiffre douze...</td>
     </tr>
     <tr>
       <td>Mais si vous ne recevez pas la réponse que vous attendiez, vous finirez par vous demander s'il y a un problème.<br></td>
