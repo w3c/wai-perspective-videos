@@ -49,7 +49,7 @@ Quels sont les autres avantages ? {#others}
 Comment mettre cela en pratique ? {#action}
 --------------------------------------
 
-Evitez les mots trop complexes, le jargon, et les acronymes, ou fournissez des explications lorsque c'est nécessaire. Faites une structure en utilisant des headings, des listes, et des interlignes. Fournissez des illustrations qui clarifient le contenu, lorsque c'est nécessaire. Faites [une mise en page et un design clairs](/perspective-videos/layout/) avec des repères de navigation et d'orientation cohérents.
+Evitez les mots trop complexes, le jargon, et les acronymes, ou fournissez des explications lorsque c'est nécessaire. Faites une structure en utilisant des titres, des listes, et des interlignes. Fournissez des illustrations qui clarifient le contenu, lorsque c'est nécessaire. Faites [une mise en page et un design clairs](/perspective-videos/layout/) avec des repères de navigation et d'orientation cohérents.
 
 Plus d'informations {#resources}
 ----------
