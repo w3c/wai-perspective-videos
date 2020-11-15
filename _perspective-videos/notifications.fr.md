@@ -109,7 +109,7 @@ Plus d'informations {#resources}
     </tr>
     <tr>
       <td>Créer des sites et des applications Web prévisibles et compréhensibles les rend accessibles aux personnes atteintes de troubles cognitifs et d'apprentissage...<br></td>
-      <td>Une jeune femme essaie de se connecter au Wi-Fi dans un café et recçoit un message d'erreur crypté.</td>
+      <td>Une jeune femme essaie de se connecter au Wi-Fi dans un café et reçoit un message d'erreur crypté.</td>
     </tr>
     <tr>
       <td>... et plus utilisable pour tous.<br></td>
