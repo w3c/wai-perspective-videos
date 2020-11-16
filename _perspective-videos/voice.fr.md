@@ -127,7 +127,7 @@ Plus d'information {#resources}
     <tr>
       <td> La reconnaissance vocale peut également aider de nombreuses autres personnes avec des limitations temporaires, telles qu'un bras cassé.<br>
 (Une jeune femme)                     &quot;Passer commande.&quot;</td>
-      <td>Une jeune femme avec un bras dans une écharpe utilise la fonctonnalité vocale avec succès.</td>
+      <td>Une jeune femme avec un bras dans une écharpe utilise la fonctionnalité vocale avec succès.</td>
     </tr>
     <tr>
       <td>Cela peut aussi aider à prévenir l'aggravation d'un trouble, tel que les traumatisme liés au stress répétitif (RSI).</td>
