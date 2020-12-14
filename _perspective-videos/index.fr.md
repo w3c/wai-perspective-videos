@@ -1,10 +1,13 @@
 ---
-lang: fr
 title: "L'accessibilité Web illustrée : explorer les effets et les avantages pour tous"
 nav_title: "Vue d'ensemble : vidéos d'illustration"
 permalink: /perspective-videos/fr
-translators: 
--name: Sofia Ahmed
+
+lang: fr
+last_updated: 2020-11-16
+translators:
+- name: "Sofia Ahmed"
+
 ref: /perspective-videos/
 order: 0
 description: Courtes vidéos sur les effets de l'accessibilité Web pour les personnes souffrant de handicaps, et les avantages pour tous dans diverses situations.
