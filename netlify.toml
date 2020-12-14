@@ -1,7 +1,3 @@
-[Settings]
-
-ID = "wai-perspective-videos"
-
 [build]
 
 command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"

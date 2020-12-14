@@ -138,8 +138,11 @@ Learn more {#resources}
     </tr>
     <tr>
       <td>... and more usable for everyone.<br></td>
-      <td>Other people at the cafe also seem to be having this problem. Especially people with lower computer skills.<br>
-        The error message changes to something more understandable. The woman at the cafe looks relieved.</td>
+      <td>Other people at the cafe also seem to be having this problem.</td>
+    </tr>
+    <tr>
+      <td>Especially people with lower computer skills.<br></td>
+      <td>The error message changes to something more understandable. The woman at the cafe looks relieved.</td>
     </tr>
     <tr>
       <td>Web accessibility: Essential for some, useful for all.</td>
