@@ -1,6 +1,6 @@
 [build]
 
-command = "bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
+command = "DEBUG=* bundle exec jekyll build --config '_config.yml,_config_staging.yml'"
 publish = "_site"
 
 [[redirects]]
