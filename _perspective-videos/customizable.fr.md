@@ -3,14 +3,16 @@
 lang: fr
 permalink: /perspective-videos/customizable/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/customizable/
 title: Un texte personnalisable
 order: 7
 description: Courte vidéo à propos du texte personnalisable pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/customizable.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -44,9 +46,9 @@ Qui en bénéficie ? {#who}
 Quels sont les autres avantages ? {#others}
 ---------------------------------
 
--   Le contenu est mieux adapté aux tailles d'écrans plus grands et plus petits.
--   Le contenu est mieux adapté aux préférences et au confort personnels.
--   Le contenu est mieux adapté à la traduction, étant donné que la longueur des mots et des phrases varie en fonction de la langue.
+-   Le contenu est plus adapté aux tailles d'écrans plus grands et plus petits.
+-   Le contenu est plus adapté aux préférences et au confort personnels.
+-   Le contenu est plus adapté à la traduction, étant donné que la longueur des mots et des phrases varie en fonction de la langue.
 
 Comment mette cela en pratique ? {#action}
 --------------------------------------
@@ -108,12 +110,12 @@ Plus d'informations {#resources}
       <td>Retour sur les deux hommes : l'un d'eux remet une tranche de pain grillé dans le grille-pain.</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur le Texte personnalisable </td>
-      <td>Visitez<br>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur le Texte personnalisable </td>
+      <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur le<br>
         Texte personnalisable.<br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
