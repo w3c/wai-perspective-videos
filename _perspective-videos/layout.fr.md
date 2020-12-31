@@ -2,20 +2,22 @@
 lang: fr
 permalink: /perspective-videos/layout/fr
 translators:
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/layout/
-title: Une mise en page et un design clairs
+title: Une mise en page et une conception claires
 order: 3
-description: Courte vidéo à propos d'une mise en page et d'un design clairs pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
+description: Courte vidéo à propos d'une mise en page et d'une conception claires pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/layout.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
 
-## Vidéo sur une mise en page et un design clairs
+## Vidéo sur une mise en page et une conception claires
 {:#film.no-display}
 
 {% include video-player.html
@@ -29,9 +31,9 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 
 Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
 
-## Qu'est-ce qu'"une mise en page et un design clairs ?" {#what}
+## Qu'est-ce qu'"une mise en page et une conception claires ?" {#what}
 
-Les différentes parties d'une page Web doivent être facile à trouver et à identifier. Cela inclut les menus de navigation, les liens, et les sections de texte. Ils devraient être faciles à trouver et clairement identifiés. Aussi, les libellés et les éléments de formulaires doivent être clairement associés à leurs commandes.
+Les différentes parties d'une page Web doivent être facile à trouver et à identifier. Cela inclut les menus de navigation, les liens, et les sections de texte. Ils devraient être faciles à trouver et clairement identifiés. Aussi, les étiquettes et les éléments de formulaires doivent être clairement associés à leurs commandes.
 
 ## Qui en bénéficie ? {#who}
 
@@ -40,9 +42,9 @@ Les différentes parties d'une page Web doivent être facile à trouver et à id
 
 ## Quels sont les autres avantages ? {#others}
 
--   Le contenu est plus utilisable pour les personnes qui ne connaissent pas le site ou l'application Web en question.
--   Le contenu est plus utilisable pour les personnes qui ne sont pas à l'aise dans l'utilisation d'ordinateurs et du Web.
--   Le contenu est plus utilisable pour les utilisateurs d'appareils mobiles qui le voient sur un écran plus petit, en particulier s'ils sont pressés ou distraits.
+-   Le contenu est plus facile à utiliser pour les personnes qui ne connaissent pas le site ou l'application Web en question.
+-   Le contenu est plus facile à utiliser pour les personnes qui ne sont pas à l'aise dans l'utilisation d'ordinateurs et du Web.
+-   Le contenu est plus facile à utiliser pour les utilisateurs d'appareils mobiles qui le voient sur un écran plus petit, en particulier s'ils sont pressés ou distraits.
 -   Le contenu et les fonctionnalités sont plus faciles à trouver et à identifier pour la plupart des utilisateurs.
 
 ## Comment mettre cela en pratique ?{#action}
@@ -57,9 +59,9 @@ Créez une structure claire, aussi bien visuellement, qu'au niveau du balisage. 
 -   **Pour démarrer :**
     -   [Fournir des options de navigation claires et cohérentes](/tips/designing/#provide-clear-and-consistent-navigation-options) 
     -   [S'assurer que les éléments interactifs sont facilement identifiables](/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify) 
-    -   [S'assurer que les éléments de formulaire incluent clairement des libellés associées](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels) 
+    -   [S'assurer que les éléments de formulaire incluent clairement des étiquettes associées](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels) 
 -   **Vérification facile :**
-    -   [Formulaires, libellés, et erreurs](/test-evaluate/preliminary/#forms) 
+    -   [Formulaires, étiquuettes, et erreurs](/test-evaluate/preliminary/#forms) 
 -   **Témoignages d'utilisateurs :**
     -   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexiquea](/people-use-web/user-stories/#classroomstudent)
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
@@ -81,16 +83,16 @@ Créez une structure claire, aussi bien visuellement, qu'au niveau du balisage. 
   </thead>
   <tbody>
     <tr>
-      <td>L'accessibilité Web illustrée : une mise en page et un design clairs</td>
+      <td>L'accessibilité Web illustrée : une mise en page et une conception claires</td>
       <td>L'accessibilité Web illustrée :<br>
-        une mise en page et un design clairs</td>
+        une mise en page et une conception claires</td>
     </tr>
     <tr>
       <td>Une mauvaise disposition peut être frustrante.</td>
       <td>Un homme dans une cuisine cherche de quoi faire du café. L'homme est frustré de ne pas trouver ce qu'il cherche.</td>
     </tr>
     <tr>
-      <td>Il en est de même pour le Web. Un design optimal implique une bonne mise en page, ce qui se traduit par une meilleure expérience utilisateur.<br></td>
+      <td>Il en est de même pour le Web. Une conception optimale implique une bonne mise en page, ce qui se traduit par une meilleure expérience utilisateur.<br></td>
       <td> L'homme réorganise la cuisine en un temps record.<br></td>
     </tr>
     <tr>
@@ -98,7 +100,7 @@ Créez une structure claire, aussi bien visuellement, qu'au niveau du balisage. 
       <td>L'homme navigue maintenant sur un site Web de livraison de pizzas mal conçu et secoue la tête.</td>
     </tr>
     <tr>
-      <td>Tout utilisateur Web serait frustré face à une mise en page et un design mal conçu.</td>
+      <td>Tout utilisateur Web serait frustré face à une mise en page et une conception mal conçues.</td>
       <td>Une jeune femme utilise le même site Web compliqué avec un agrandisseur d'écran. Elle ne voit qu'une partie de l'écran à la fois, ce qui rend le site Web encore plus compliqué.</td>
     </tr>
     <tr>
@@ -110,7 +112,7 @@ Créez une structure claire, aussi bien visuellement, qu'au niveau du balisage. 
       <td>L'homme appelle un ami pour l'aider.</td>
     </tr>
     <tr>
-      <td>Un design mal réalisé a également des conséquences pour toute personne qui n'est pas particulièrement à l'aise avec les ordinateurs.</td>
+      <td>Ue conception mal réalisée a également des conséquences pour toute personne qui n'est pas particulièrement à l'aise avec les ordinateurs.</td>
       <td>L'ami est tout aussi dérouté et choisit un meilleur site Web de pizzas.</td>
     </tr>
     <tr>
@@ -118,12 +120,12 @@ Créez une structure claire, aussi bien visuellement, qu'au niveau du balisage. 
       <td>Ce second site Web est bien plus clair et facile d'utilisation. Ils sont tous les deux contents. La jeune femme qui utilise un agrandisseur d'écran a elle aussi utilisé ce site Web et savoure une pizza.</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur Une mise en page et un design clairs</td>
+      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur Une mise en page et une conception claires</td>
       <td>Visitez<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
-        Une mise en page et un design clairs. <br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Une mise en page et une conception claires. <br>
+        Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
