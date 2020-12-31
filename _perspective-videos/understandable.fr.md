@@ -2,14 +2,16 @@
 lang: fr
 permalink: /perspective-videos/understandable/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/understandable/
 title: Du contenu compréhensible
 order: 9
 description: Courte vidéo à propos du contenu compréhensible pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/understandable.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -36,8 +38,8 @@ Le contenu doit être facile à suivre et à comprendre pour de nombreux utilisa
 Qui en bénéficie ? {#who}
 ----------------------------
 
--   Les personnes atteintes de troubles d'apprentissage qui ne peuvent pas comprendre du vocabulaire et des structures de phrases complexes.
--   Les personnes atteintes de troubles cognitifs qui ont des difficultés à se concentrer sur de longs passages d'un texte dense.
+-   Les personnes souffrant de troubles d'apprentissage qui ne peuvent pas comprendre du vocabulaire et des structures de phrases complexes.
+-   Les personnes souffrant de troubles cognitifs qui ont des difficultés à se concentrer sur de longs passages d'un texte dense.
 
 Quels sont les autres avantages ? {#others}
 ---------------------------------
@@ -49,7 +51,7 @@ Quels sont les autres avantages ? {#others}
 Comment mettre cela en pratique ? {#action}
 --------------------------------------
 
-Evitez les mots trop complexes, le jargon, et les acronymes, ou fournissez des explications lorsque c'est nécessaire. Faites une structure en utilisant des titres, des listes, et des interlignes. Fournissez des illustrations qui clarifient le contenu, lorsque c'est nécessaire. Faites [une mise en page et un design clairs](/perspective-videos/layout/) avec des repères de navigation et d'orientation cohérents.
+Évitez les mots trop complexes, le jargon, et les acronymes, ou fournissez des explications lorsque c'est nécessaire. Faites une structure en utilisant des titres, des listes, et des interlignes. Fournissez des illustrations qui clarifient le contenu, lorsque c'est nécessaire. Faites [une mise en page et une conception claires](/perspective-videos/layout/) avec des repères de navigation et d'orientation cohérents.
 
 Plus d'informations {#resources}
 ----------
@@ -59,7 +61,7 @@ Plus d'informations {#resources}
 -   **Pour démarrer :**
     -   [Garder un contenu clair et concis](/tips/writing/#keep-content-clear-and-concise) 
     -   [Fournir des instructions claires](/tips/writing/#provide-clear-instructions) 
-    -   [Utiliser des headings pour donner du sens et une structure](/tips/writing/#use-headings-to-convey-meaning-and-structure) 
+    -   [Utiliser des en-têtes pour donner du sens et une structure](/tips/writing/#use-headings-to-convey-meaning-and-structure) 
 -   **Vérification simple :**
     -   [Headings](/test-evaluate/preliminary/#headings) 
 -   **Témoignages d'utilisateurs :**
@@ -106,12 +108,12 @@ Plus d'informations {#resources}
       <td>Ils cherchent et trouvent un site Web de cuisine différent avec un texte plus structuré et des illustrations.</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur du contenu compréhensible</td>
-      <td>Visitez<br>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur du contenu compréhensible</td>
+      <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
         Du contenu compréhensible.<br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
