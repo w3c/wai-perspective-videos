@@ -2,14 +2,16 @@
 lang: fr
 permalink: /perspective-videos/notifications/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/notifications/
 title: Notifications et feedback
 order: 10
 description: Courte vidéo à propos des notifications et du feedback de vidéos pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/notifications.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par l' <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par l' <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -36,14 +38,14 @@ Les utilisateurs ont besoin de savoir ce qu'il se passe, et de recevoir un feedb
 Qui en bénéficie ? {#who}
 ----------------------------
 
--   Les personnes atteintes de troubles cognitifs et d'apprentissage, qui pourraient être facilement perdues par un comportement inattendu et des messages d'erreur peu clairs.
+-   Les personnes souffrant de troubles cognitifs et d'apprentissage, qui pourraient être facilement perdues par un comportement inattendu et des messages d'erreur peu clairs.
 -   Les personnes malvoyantes ou aveugles, qui dépendent des notifications, des instructions, et des messages d'erreur pour comprendre le contexte et les interactions.
 
 Quels sont les autres avantages ? {#others}
 ---------------------------------
 
--   Le contenu est plus utilisable pour les personnes qui ne connaissent pas le site ou l'application Web en question.
--   Le contenu est plus utilisable pour les personnes qui ne sont pas à l'aise avec les ordinateurs et le Web.
+-   Le contenu est plus facile à utiliser pour les personnes qui ne connaissent pas le site ou l'application Web en question.
+-   Le contenu est plus plus facile à utiliser pour les personnes qui ne sont pas à l'aise avec les ordinateurs et le Web.
 -   Le contenu est moins déroutant et intimidant pour tous, quelles que soient les compétences.
 
 Comment mettre cela en pratique ? {#action}
@@ -121,12 +123,12 @@ Plus d'informations {#resources}
       <td>Le coucou surgit de l'horloge.</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur  les notifications et le feedback</td>
-      <td>Visitez<br>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur les notifications et le feedback</td>
+      <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
         les notifications et le feedback.<br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo d'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
