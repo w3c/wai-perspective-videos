@@ -2,14 +2,16 @@
 lang: fr
 permalink: /perspective-videos/controls/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/controls/
 title: Des liens, des boutons, et des commandes assez grands
 order: 5
 description: Courte vidéo à propos des liens, des boutons, et des commandes assez grands pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/controls.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 201placé9. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">roupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -36,21 +38,21 @@ La zone pour cliquer et taper des commandes doit être suffisamment large pour p
 Qui en dépend ? {#who}
 ----------------------------
 
--   Les personnes atteintes de handicaps physiques dont la dextérité est réduite.
+-   Les personnes porteuses de handicaps physiques dont la dextérité est réduite.
 
 Quels sont les autres avantages ? {#others}
 ---------------------------------
 
--   Le contenu est plus facilement utilisable sur les écrans tactiles, particulièrement pour des appareils mobiles plus petits.
--   Le contenu est plus utilisable pour les personnes qui ne maîtrisent pas l'utilisation de la souris ou du pavé tactile de l'ordinateur qu'ils utilisent.
--   Le contenu est plus utilisable dans les situations où l'appareil ne peut pas être maintenu stable.
+-   Le contenu est plus facile à utiliser sur les écrans tactiles, particulièrement pour des appareils mobiles plus petits.
+-   Le contenu est plus facile à utiliser pour les personnes qui ne maîtrisent pas l'utilisation de la souris ou du pavé tactile de l'ordinateur qu'ils utilisent.
+-   Le contenu est plus facile à utiliser dans les situations où l'appareil ne peut pas être maintenu stable.
 
 Comment mettre cela en pratique ? {#action}
 --------------------------------------
 
 Créez des commandes ou des zones d'activation assez grandes autour des commandes.
-(Augmenter la taille de la police ne suffit parfois pas.)
-Mettez une séparation adéquate entre les commandes sélectionnables. Prévoyez des libellés pour les commandes, cela permet d'agrandir la zone d'activation dans de nombreux navigateurs, car le libellé pour les cases à cocher et les boutons d'options est également cliquable.
+(Augmenter la taille de la police ne suffit parfois pas).
+Mettez une séparation adéquate entre les commandes sélectionnables. Prévoyez des étiquettes pour les commandes, cela permet d'agrandir la zone d'activation dans de nombreux navigateurs, car l'étiquette pour les cases à cocher et les boutons d'options est également cliquable.
 
 Plus d'informations {#resources}
 ----------
@@ -113,7 +115,7 @@ Plus d'informations {#resources}
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
         Des liens, des boutons, et des commandes assez grands<br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
