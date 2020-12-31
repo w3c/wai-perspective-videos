@@ -2,14 +2,16 @@
 lang: fr
 permalink: /perspective-videos/speech/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/speech/
 title: La synthèse vocale
 order: 4
 description: Courte vidéo à propos de la synthèse vocale pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/speech.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -55,14 +57,14 @@ Plus d'informations {#resources}
 ----------
 
 -   **Principes d'accessibilité :**
-    -   [Alternatives textuelles pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
+    -   [Équivalents textuels pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
     -   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#adaptable)
 -   **Pour démarrer :**
-    -   [Ecrire des alternatives textuelles significatives pour les images](/tips/writing/#write-meaningful-text-alternatives-for-images) 
-    -   [Utiliser des headings pour donner du sens et structurer](/tips/writing/#use-headings-to-convey-meaning-and-structure) 
+    -   [Ecrire des équivalents textuels significatifs pour les images](/tips/writing/#write-meaningful-text-alternatives-for-images) 
+    -   [Utiliser des en-têtes pour donner du sens et structurer](/tips/writing/#use-headings-to-convey-meaning-and-structure) 
     -   [Identifier la langue des pages et les changements de langue](/tips/developing/#identify-page-language-and-language-changes) 
 -   **Vérification facile :**
-    -   [Alternatives textuelles pour les images ("alt
+    -   [Équivalents textuels pour les images ("alt
         text")](/test-evaluate/preliminary/#images) 
     -   [Vérification de la structure de base](/test-evaluate/preliminary/#structure) 
 -   **Témoignages d'utilisateurs :**
@@ -72,9 +74,9 @@ Plus d'informations {#resources}
 -   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
     -   [Critères de réussite liés aux "images" et à la "structure"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
 -   **Règles pour appareils mobiles :**
-    -   [Objets non textuels (images, son, vidéo) sans alternatives textuelles](/standards-guidelines/shared-experiences/#non-text) 
+    -   [Objets non textuels (images, son, vidéo) sans équivalents textuels](/standards-guidelines/shared-experiences/#non-text) 
     -   [Information transmise en utilisant seulement du CSS (formatage visuel)](/standards-guidelines/shared-experiences/#visual-formatting) 
-    -   [Etiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label) 
+    -   [Étiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label) 
 -   **Tutoriel:**
     -   [Tutoriels sur l'accessibilité](https://www.w3.org/WAI/tutorials/) 
         (plusieurs sujets relatifs)
@@ -128,12 +130,12 @@ Plus d'informations {#resources}
       <td>L'homme avec le chien-guide utilise son appareil mobile dehors avec un casque à conduction osseuse. La vidéo montre les différentes personnes intervenues plus tôt utiliser la synthèse vocale.</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur la synthèse vocale.</td>
-      <td>Visitez<br>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur la synthèse vocale.</td>
+      <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
         La synthèse vocale. <br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
