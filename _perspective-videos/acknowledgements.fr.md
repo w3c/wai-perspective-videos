@@ -2,21 +2,23 @@
 lang: fr
 permalink: /perspective-videos/acknowledgements/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)
 ref: /perspective-videos/acknowledgements/
 title: Remerciements - L'accessibilité Web illustrée
 nosidenav: true
 image: /perspective-videos/img/overview.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 22 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la fondation Ford.</p>
+  <p><strong>Statut :</strong> Mise à jour : 22 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la fondation Ford.</p>
 ---
 
-La ressource [L'accessibilité Web illustrée]({% link _perspective-videos/index.md %}) à été développée par l'Education and Outreach Working Group [Education Outreach Working Group (EOWG)](https://www.w3.org/WAI/EO/) avec le soutien du projet [WAI-DEV](https://www.w3.org/WAI/DEV/), co-financé par la Commission européenne. Mis à jour avec le soutien de la fondation Ford.
+La ressource [L'accessibilité Web illustrée]({% link _perspective-videos/index.md %}) à été développée par le [Groupe de travail Éducation et Promotion (EOWG)](https://www.w3.org/WAI/EO/) avec le soutien du projet [WAI-DEV](https://www.w3.org/WAI/DEV/), co-financé par la Commission européenne. Mis à jour avec le soutien de la fondation Ford.
 
 Direction du projet
 ------------------
 
--   **Auteur et direction du projet :** [Shadi
+-   **Rédacteur et chef du projet :** [Shadi
     Abou-Zahra](https://www.w3.org/People/shadi), WAI du W3C
 -   **Participants au groupe de travail :**
     -   [Shadi Abou-Zahra](https://www.w3.org/People/shadi), WAI du W3C
