@@ -2,14 +2,16 @@
 lang: fr
 permalink: /perspective-videos/captions/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)
 ref: /perspective-videos/captions/
 title: Les sous-titres de vidéo
 order: 6
 description: Courte vidéo à propos des sous-titres de vidéos pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/captions.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet : </strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) sous le programme Horizon 2020 (convention de subvention 822245) <a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet : </strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (822245) <a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -120,12 +122,12 @@ Plus d'informations {#resources}
       <td>La vidéo tourne à présent avec des sous-titres.</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur les sous-titres de vidéo</td>
-      <td>Visitez<br>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur les sous-titres de vidéo</td>
+      <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'information sur<br>
         Les sous-titres de vidéo. <br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
