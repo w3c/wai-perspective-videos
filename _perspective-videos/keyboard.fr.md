@@ -2,13 +2,15 @@
 lang: fr
 permalink: /perspective-videos/keyboard/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/keyboard/
 title: La compatibilité du clavier
 order: 1
 description: Courte vidéo à propos de la compatibilité du clavier pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 
-teaser_text: Toutes les fonctionnalités doivent être facilement utilisables au clavier. Cela signifie que les utilisateurs peuvent accéder aux liens, aux boutons, aux formulaires, et aux autres commandes en utilisant la touche Tab et les autres touches. Les sites Web ne devraient pas nécessiter de souris. L'accessibilité Web est essentielle pour les personnes atteintes de handicaps et avantageuse pour tous dans diverses situations.
+teaser_text: Toutes les fonctionnalités doivent être faciles d'utilisation au clavier. Cela signifie que les utilisateurs doivent pouvoir accéder aux liens, aux boutons, aux formulaires, et aux autres commandes en utilisant la touche Tab et les autres touches. Les sites Web ne devraient pas nécessiter de souris. L'accessibilité Web est essentielle pour les personnes atteintes de handicaps et avantageuse pour tous dans diverses situations.
 image: /perspective-videos/img/keyboard.jpg
 footer: >
   <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE).<a href="./acknowledgements/">Remerciements</a>.</p>
@@ -33,19 +35,19 @@ Les informations relatives à cette vidéo sont disponibles sous forme de [Trans
 ## Qu'est-ce que la "compatibilité du clavier" ?
 {:#what}
 
-Toutes les fonctionnalités doivent être utilisables au clavier. L'utilisateur doit donc pouvoir accéder et naviguer entre les liens, les boutons, les formulaires, et les autres commandes en utilisant la touche de tabulation et les autres touches. Les sites Web ne devraient pas nécessiter de souris ; par exemple, les calendriers devraient aussi permettre aux utilisateurs d'entrer une date.  
+Toutes les fonctionnalités doivent être accessibles au clavier. L'utilisateur doit donc pouvoir accéder et naviguer entre les liens, les boutons, les formulaires, et les autres commandes en utilisant la touche de tabulation et les autres touches. Les sites Web ne devraient pas nécessiter de souris ; par exemple, les calendriers devraient aussi permettre aux utilisateurs d'entrer une date.  
 
 ## Qui en bénéficie ?
 {:#who}
 
--   Les personnes atteintes de handicaps physiques qui ne peuvent pas utiliser la souris.
+-   Les personnes porteuses de handicaps physiques qui ne peuvent pas utiliser la souris.
 -   Les personnes aveugles, et qui ne peuvent pas voir le curseur sur l'écran.
 -   Les personnes souffrant de maladies chroniques, telles que les traumatismes liés au stress répétitif (RSI), qui devraient limiter ou éviter l'utilisation d'une souris.
 
 ## Quels sont les autres avantages ?
 {:#others}
 
--   Le contenu est utile aux les personnes faisant face à des limitations temporaires, telles qu'un bras cassé ou une souris cassée.
+-   Le contenu est utile aux personnes faisant face à des limitations temporaires, telles qu'un bras cassé ou une souris cassée.
 
 ## Comment mettre cela en pratique ?
 {:#action}
@@ -123,7 +125,7 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
         La compatibilité du clavier.<br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
