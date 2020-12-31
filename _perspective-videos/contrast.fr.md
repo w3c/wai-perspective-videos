@@ -2,14 +2,16 @@
 lang: fr
 permalink: /perspective-videos/contrast/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name : "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/contrast/
 title: Des couleurs bien contrastées
 order: 2
 description: Courte vidéo à propos des couleurs bien contrastées pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/contrast.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a><a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a><a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -28,10 +30,10 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 
 Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
 
-## Qu'est-ce qu'une "couleur bien contrastée" ?
+## Que signifie des "couleurs bien contrastées" ?
 {:#what}
 
-Les couleurs doivent avoir suffisamment de contraste entre la couleur du texte et le fond (appelé techniquement le <em>rapport de contraste</em>). Cela inclut le texte sur les images, les icônes, et les boutons. Les couleurs utilisées pour communiquer des informations sur les diagrammes, les cartes, et d'autres types d'images doivent également être perceptibles.
+Les couleurs du texte et du fond doivent être suffisamment contrastées (appelé techniquement le <em>rapport de contraste</em>). Cela inclut le texte sur les images, les icônes, et les boutons. Les couleurs utilisées pour communiquer des informations sur les diagrammes, les graphiques, et d'autres types d'images doivent également être perceptibles.
 
 ## Qui en bénéficie ?
 {:#who}
@@ -43,7 +45,7 @@ Les couleurs doivent avoir suffisamment de contraste entre la couleur du texte e
 {:#others}
 
 -   Le contenu est visible dans différentes conditions de luminosité, telles que l'exposition à la lumière du soleil ou à la lumière éblouissante.
--   Le contenu est plus facile à lire pour tout le monde, y compris les personnes qui ne présentent pas de problèmes visuels spécifiques.
+-   Le contenu est plus facile à lire pour tout le monde, y compris les personnes qui ne présentent pas de problèmes visuels particuliers.
 
 ## Comment mettre cela en pratique ?
 {:#action}
@@ -119,7 +121,7 @@ Choisissez des couleurs de texte et de fond dont le contraste est suffisant. Il 
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
         Des couleurs bien contrastées. <br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
 </table>
