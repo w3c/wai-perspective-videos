@@ -2,14 +2,16 @@
 lang: fr
 permalink: /perspective-videos/voice/fr
 translators: 
--name: Sofia Ahmed
+- name: "Sofia Ahmed"
+contributors:
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/voice/
 title: La reconnaissance vocale
 order: 8
 description: Courte vidéo à propos de la reconnaissance vocale pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/voice.jpg
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -37,7 +39,7 @@ La reconnaissance vocale peut être utilisée pour dicter du texte dans un champ
 Qui en bénéficie ? {#who}
 ----------------------------
 
--   Les personnes atteintes de handicaps qui ne peuvent pas utiliser le clavier ou la souris.
+-   Les personnes handicapées qui ne peuvent pas utiliser le clavier ou la souris.
 -   Les personnes souffrant de maladies chroniques, telles que les traumatismes liés au stress répétitif (RSI), qui ont besoin de limiter ou d'éviter l'utilisation d'un clavier ou d'une souris.
 -   Les personnes souffrant de troubles cognitifs et d'apprentissage qui ont besoin d'utiliser la voix plutôt que le clavier.
 
@@ -45,14 +47,14 @@ Quels sont les autres avantages ? {#others}
 ---------------------------------
 
 -   Le contenu est utile aux personnes ayant des limitations temporaires, comme un bras cassé.
--   Le contenu est plus utilisable pour les personnes qui préfèrent parler plutôt que de taper, par exemple, lorsqu'elles sont occupées à autre chose.
+-   Le contenu est plus facile à utiliser pour les personnes qui préfèrent parler plutôt que de taper, par exemple, lorsqu'elles sont occupées à autre chose.
 
 Comment mettre cela en pratique ? {#action}
 --------------------------------------
 
 Le code et le design du contenu doivent être clairs pour pouvoir le contrôler par la voix. La [Compatibilité du clavier](/perspective-videos/keyboard/) est fondamentale pour un tel codage. De plus, les libellés (labels) et les identifiants pour les commandes dans le code source doivent correspondre à leur présentation visuelle, pour savoir clairement quelle instruction vocale va activer une commande.
 
-Plus d'information {#resources}
+Plus d'informations {#resources}
 ----------
 
 -   **Principe d'accessibilité :**
@@ -148,7 +150,7 @@ Plus d'information {#resources}
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
         La reconnaissance vocale. <br>
-        Logo du Web Accessibility Initiative du W3C</td>
+        Logo de l'Initiative pour l'accessibilié du Web du W3C</td>
     </tr>
   </tbody>
 </table>
