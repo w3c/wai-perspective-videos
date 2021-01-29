@@ -5,7 +5,7 @@ nav_title: "Perspective Videos Overview"
 permalink: /perspective-videos/
 ref: /perspective-videos/
 order: 0
-description: Short videos on the impact of web accessibility for people with disabilities, and the benefits for everyone in a variety of situations.
+description: Short videos demonstrating how Web accessibility is essential for people with disabilities and useful for all in a variety of situations.
 image: /perspective-videos/img/overview.jpg
 footer: >
   <p><strong>Status:</strong> Updated 15 September 2016. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="./acknowledgements/">Acknowledgements</a>.</p>
@@ -40,4 +40,3 @@ to get you started:
 -   [Getting Started Tips]({{ "/tips/" | relative_url }}) - basic first steps for web designers, writers, and developers
 -   [Business Case](https://www.w3.org/WAI/bcase/) - highlights arguments including social, technical, financial, and legal factors
 -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/) - more in-depth guidance for developing accessible web content
-
