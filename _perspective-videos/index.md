@@ -1,6 +1,7 @@
 ---
 lang: en
-title: "Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone"
+title: "Web Accessibility Perspectives Videos: Explore the Impact and Benefits for Everyone"
+title_html: "Web Accessibility Perspectives Videos:<br>Explore the Impact and Benefits for Everyone"
 nav_title: "Perspective Videos Overview"
 permalink: /perspective-videos/
 ref: /perspective-videos/
