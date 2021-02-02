@@ -1,5 +1,6 @@
 ---
 lang: en
+last_updated: 2019-01-23
 permalink: /perspective-videos/customizable/
 ref: /perspective-videos/customizable/
 title: Customizable Text
