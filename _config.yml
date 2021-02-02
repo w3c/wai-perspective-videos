@@ -58,6 +58,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-include-cache
-  - jekyll-paginate
   - jekyll-remote-theme
   - wai-website-plugin
