@@ -23,7 +23,9 @@ permalink: /perspective-videos/captions/   # Add the language shortcode to the e
 
 ref: /perspective-videos/captions/   # Translators, do not change this
 # changelog: /perspective-videos/changelog/
-acknowledgements: /perspective-videos/acknowledgements/  
+acknowledgements: /perspective-videos/acknowledgements/
+resource:
+  ref: /perspective-videos/
 
 description: Short video about captions for web accessibility - what are they, who depends on them, how they help everyone, and what needs to happen to make them work.
 image: /perspective-videos/img/captions.jpg
