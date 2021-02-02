@@ -10,6 +10,7 @@ image: /perspective-videos/img/overview.jpg
 ---
 
 ## 2 February 2021
+**_Pending updates:_ frontmatter for translations.**
 
 * To first page (index.md)
   * added "Videos" to title
