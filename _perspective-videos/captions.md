@@ -22,15 +22,13 @@ github:
 permalink: /perspective-videos/captions/   # Add the language shortcode to the end, with no slash at end, for example: /perspective-videos/captions/fr
 
 ref: /perspective-videos/captions/   # Translators, do not change this
-# changelog: /perspective-videos/changelog/
-acknowledgements: /perspective-videos/acknowledgements/  
 
 description: Short video about captions for web accessibility - what are they, who depends on them, how they help everyone, and what needs to happen to make them work.
 image: /perspective-videos/img/captions.jpg
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
    <p><strong>Date:</strong> Updated 23 January 2019.</p>
-   <p><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. ACKNOWLEDGEMENTS lists contributors.</p>
+   <p><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. <a href="https://www.w3.org/WAI/perspective-videos/acknowledgements/">Acknowledgements</a> lists contributors.</p>
    <p>Developed by the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated as part of the <a href="https://www.w3.org/WAI/DEV/">WAI Expanding Access Project</a>, supported by the Ford Foundation.</p>
 
 ---
