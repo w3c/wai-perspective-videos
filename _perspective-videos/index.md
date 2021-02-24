@@ -25,7 +25,7 @@ Web accessibility is essential for people with disabilities and useful for all. 
 -   [![](img/thumbnails/controls.jpg)<br>Large Links, Buttons, and Controls]({{ "/perspective-videos/controls/" | relative_url }})
 -   [![](img/thumbnails/captions.jpg)<br>Video Captions]({{ "/perspective-videos/captions/" | relative_url }})
 -   [![](img/thumbnails/customizable.jpg)<br>Customizable Text]({{ "/perspective-videos/customizable/" | relative_url }})
--   [![](img/thumbnails/voice.jpg)<br>Voice Recognition]({{ "/perspective-videos/voice/" | relative_url }})
+-   [![](img/thumbnails/voice.jpg)<br>Speech Recognition]({{ "/perspective-videos/voice/" | relative_url }})
 -   [![](img/thumbnails/understandable.jpg)<br>Understandable Content]({{ "/perspective-videos/understandable/" | relative_url }})
 -   [![](img/thumbnails/notifications.jpg)<br>Notifications and Feedback]({{ "/perspective-videos/notifications/" | relative_url }})
 {:.two.columns.linklist}
