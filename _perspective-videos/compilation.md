@@ -202,18 +202,19 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>But for that to happen websites and apps need to be properly coded.<br />
-(Man in wheelchair)                     &quot;Cancel?&quot;</td>
+        (Man in wheelchair)                     &quot;Cancel?&quot;</td>
       <td>Nothing happens on the computer.</td>
     </tr>
     <tr>
       <td> [Speech] recognition can help lots of other people with temporary limitations too, like an injured arm.<br />
-(Woman)                     &quot;Place order.&quot;</td>
+        (Woman)                     &quot;Place order.&quot;</td>
       <td>A woman with her arm in a sling successfully using speech.</td>
     </tr>
     <tr>
       <td>It can also prevent injuries becoming worse, like RSI: Repetitive Stress Injury.</td>
       <td>A man is outside with a dog taking speech notes on his mobile phone.</td>
     </tr>
+    <tr>
       <td><em><strong>@@ MISSING in video: </strong></em><br>
         Or for people simple preferring voice.<br />
         (Man in wheelchair) &quot;Place Order.&quot;</td>
@@ -227,7 +228,7 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>(Computer) &quot;Some people can't see the text on this screen.&quot;<br />
-(Computer)                     &quot;Fortunately, computers can convert text to speech.&quot;</td>
+        (Computer)                     &quot;Fortunately, computers can convert text to speech.&quot;</td>
       <td>A man is using a laptop with the text on the screen being highlighted as it is spoken.</td>
     </tr>
     <tr>
@@ -288,9 +289,11 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>The friend is just as confused and navigates to a different, better pizza website.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ??]</strong></em><br>Web accessibility: Essential for some, useful for all.</td>
-      <td><em><strong>[@@ in video ??]</strong></em><br>This second website is much clearer and easier to use. They are both happy. The woman using screen magnification has also used that website and is delightfully eating a pizza.</td>
-    </tr>	
+      <td><em><strong>[@@ in video ??]</strong></em><br>
+        Web accessibility: Essential for some, useful for all.</td>
+      <td><em><strong>[@@ in video ??]</strong></em><br>
+        This second website is much clearer and easier to use. They are both happy. The woman using screen magnification has also used that website and is delightfully eating a pizza.</td>
+    </tr>
     <!-- 6 -->
     <tr>
       <td><strong>Notifications and Feedback</strong></td>
@@ -330,10 +333,12 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>The error message changes to something more understandable. The woman at the cafe looks relieved.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ??]</strong></em><br>Web accessibility: Essential for some, useful for all.</td>
-      <td><em><strong>[@@ in video ??]</strong></em><br>The cuckoo bird pops out of the clock.</td>
+      <td><em><strong>[@@ in video ??]</strong></em><br>
+        Web accessibility: Essential for some, useful for all.</td>
+      <td><em><strong>[@@ in video ??]</strong></em><br>
+        The cuckoo bird pops out of the clock.</td>
     </tr>
-	<!-- 7 -->
+    <!-- 7 -->
     <tr>
       <td><strong>Large Links, Buttons, and Controls</strong></td>
       <td><strong>Large Links, Buttons, and Controls</strong></td>
@@ -363,7 +368,7 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>Web accessibility: Essential for some, useful for all.</td>
       <td>The buttons become larger and the woman with the tremor is now able to click them.</td>
     </tr>
-	<!-- 8 -->
+    <!-- 8 -->
     <tr>
       <td><strong>Customizable Text</strong></td>
       <td><strong>Customizable Text</strong></td>
@@ -389,8 +394,8 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>Web accessibility: Essential for some, useful for all.</td>
       <td>Cutback to the two men: One of the men takes a piece of
         toast out of the toaster.</td>
-    </tr>	
-	<!-- 9 -->
+    </tr>
+    <!-- 9 -->
     <tr>
       <td><strong>Understandable Content</strong></td>
       <td><strong>Understandable Content</strong></td>
@@ -411,8 +416,8 @@ This website provides a range of standards, guidelines, and resources to get you
     <tr>
       <td>Web accessibility: Essential for some, useful for all.</td>
       <td>They search and find a different cooking website with more structured text and illustrations.</td>
-    </tr>    
-	<!-- 10 -->
+    </tr>
+    <!-- 10 -->
     <tr>
       <td><strong>Keyboard Compatibility</strong></td>
       <td><strong>Keyboard Compatibility</strong></td>
@@ -443,15 +448,18 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>He switches to a different website that allows typing the date.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ??]</strong></em><br>Web accessibility: Essential for some, useful for all.</td>
+      <td><em><strong>[@@ in video ??]</strong></em><br>
+        Web accessibility: Essential for some, useful for all.</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ correct?]</strong></em><br>Visit w3.org/WAI/perspectives</td>
-      <td><em><strong>[@@ correct?]</strong></em><br>Visit<br />
+      <td><em><strong>[@@ correct?]</strong></em><br>
+        Visit w3.org/WAI/perspectives</td>
+      <td><em><strong>[@@ correct?]</strong></em><br>
+        Visit<br />
         w3.org/WAI/perspectives<br />
         for tips and information on<br />
         W3C Web Accessibility Initiative logo</td>
-    </tr>	  
+    </tr>
   </tbody>
- </table>
+</table>
