@@ -68,7 +68,7 @@ This video information is also available:
 
 ## Video Pages {#pages}
 
-The following web pages include the individual video **along with additional informations**: who depends on the feature, what needs to happen for this to work, and more.
+The following web pages include the individual video **along with additional information**: who depends on the feature, what needs to happen for this to work, and more.
 
 * [[Keyboard Compatibility]](/perspective-videos/keyboard/)
 * [[Colors with Good Contrast]](/perspective-videos/contrast/)
@@ -92,7 +92,7 @@ This website provides a range of standards, guidelines, and resources to get you
 
 ## Text Transcript with Description of Visuals {#transcript}
 
- <table>
+<table>
   <thead>
     <tr>
       <th width="65%">Audio</th>
@@ -136,7 +136,7 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>&nbsp;</td>
       <td>The video is shown playing with the captions on.</td>
     </tr>
-<!-- 2 -->
+    <!-- 2 -->
     <tr>
       <td><strong>Colors with Good Contrast</strong></td>
       <td><strong>Colors with Good Contrast</strong></td>
@@ -167,10 +167,10 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>With good colors, websites and applications can be easier to use in more situations. Like in different lighting conditions.</td>
       <td>Sun glares on the phone but the text is still readable.</td>
     </tr>
-<!-- 3 -->
-     <tr>
-      <td><strong>Voice Recognition</strong></td>
-      <td><strong>Voice Recognition</strong></td>
+    <!-- 3 -->
+    <tr>
+      <td><strong>[Speech] Recognition</strong></td>
+      <td><strong>[Speech] Recognition</strong></td>
     </tr>
     <tr>
       <td>Imagine if you could only communicate with your family by writing.<br /></td>
@@ -178,9 +178,9 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>Sometimes it's just easier to speak.<br />
-        One of the advances of technology is voice recognition.<br />
+        One of the advances of technology is [speech] recognition.<br />
         Whether it's searching the web:</td>
-      <td>A man is using a tablet by voice.</td>
+      <td>A man is using a tablet by speech.</td>
     </tr>
     <tr>
       <td>(Tablet user) &quot;Nineteenth century architecture.&quot;</td>
@@ -188,14 +188,14 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>Dictating emails.</td>
-      <td>An older man is also using a tablet by voice.</td>
+      <td>An older man is also using a tablet by speech.</td>
     </tr>
     <tr>
       <td>Or controlling your navigation app.</td>
       <td>A woman is speaking to her mobile phone and follows the directions on the screen.</td>
     </tr>
     <tr>
-      <td><p>Many people with physical disabilities rely on voice recognition to use the computer.<br />
+      <td><p>Many people with physical disabilities rely on [speech] recognition to use the computer.<br />
           (Man in wheelchair) &quot;Place order.&quot;<br />
         </p></td>
       <td>A man with a wheelchair is using a headset for the computer.</td>
@@ -206,29 +206,252 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>Nothing happens on the computer.</td>
     </tr>
     <tr>
-      <td>Voice recognition can help lots of other people with temporary limitations too, like an injured arm.<br />
+      <td> [Speech] recognition can help lots of other people with temporary limitations too, like an injured arm.<br />
 (Woman)                     &quot;Place order.&quot;</td>
-      <td>A woman with her arm in a sling successfully using voice.</td>
+      <td>A woman with her arm in a sling successfully using speech.</td>
     </tr>
     <tr>
       <td>It can also prevent injuries becoming worse, like RSI: Repetitive Stress Injury.</td>
-      <td>A man is outside with a dog taking voice notes on his mobile phone.</td>
+      <td>A man is outside with a dog taking speech notes on his mobile phone.</td>
     </tr>
-    <tr>
-      <td>@@ MISSING: <br>
+      <td><em><strong>@@ MISSING in video: </strong></em><br>
         Or for people simple preferring voice.<br />
         (Man in wheelchair) &quot;Place Order.&quot;</td>
-      <td>@@MISSING: <br>
+      <td><em><strong>@@ MISSING in video: </strong></em><br>
         The man with the wheelchair is now using a website that works.</td>
     </tr>
-<!-- 4 -->
-     <tr>
-      <td><strong>@@</strong></td>
-      <td><strong>@@</strong></td>
+    <!-- 4 -->
+    <tr>
+      <td><strong>Text to Speech</strong></td>
+      <td><strong>Text to Speech</strong></td>
     </tr>
     <tr>
-      <td>@@</td>
-      <td>@@</td>
+      <td>(Computer) &quot;Some people can't see the text on this screen.&quot;<br />
+(Computer)                     &quot;Fortunately, computers can convert text to speech.&quot;</td>
+      <td>A man is using a laptop with the text on the screen being highlighted as it is spoken.</td>
+    </tr>
+    <tr>
+      <td>It's technology that many people who are blind have been relying on for years.</td>
+      <td>A service dog is next to the man. He may be blind.</td>
+    </tr>
+    <tr>
+      <td>But it's also important for many people with dyslexia.</td>
+      <td>A woman is reading on a tablet and listen with headphones.</td>
+    </tr>
+    <tr>
+      <td>And very useful for people with difficulty reading text.</td>
+      <td>A man removes his glasses and listens to a news article on his tablet.</td>
+    </tr>
+    <tr>
+      <td>As well as some people who just like to multi-task.</td>
+      <td>A man listens to a magazine article as they do the washing.</td>
+    </tr>
+    <tr>
+      <td>But for this to work, websites and apps need to be properly coded.</td>
+      <td>The website is not properly working for the woman with headphones. She is frustrated.</td>
+    </tr>
+    <tr>
+      <td>Which has the added benefit of helping search engines index websites' contents better.</td>
+      <td>&nbsp;</td>
+    </tr>
+    <!-- 5 -->
+    <tr>
+      <td><strong>Clear Layout and Design</strong></td>
+      <td><strong>Clear Layout and Design</strong></td>
+    </tr>
+    <tr>
+      <td>Poor layout can be very frustrating.</td>
+      <td>A man in a kitchen is looking for things to make a coffee. The man is frustrated about not finding what he is looking for.</td>
+    </tr>
+    <tr>
+      <td>And the same applies to the Web. Good design involves good layout and that means a better user experience.<br /></td>
+      <td> The man rearranges the kitchen in a time-lapse.<br /></td>
+    </tr>
+    <tr>
+      <td>This includes clear headings, navigation bars, and consistent styling.<br /></td>
+      <td>The man is now browsing a badly laid out pizza delivery website and is shaking his head.</td>
+    </tr>
+    <tr>
+      <td>Any web user will get frustrated with bad layout and design.</td>
+      <td>A woman is using the same complex website with screen magnification. She only sees a portion of the screen at a time, so the website appears even more confusing.</td>
+    </tr>
+    <tr>
+      <td>Complex layouts also make finding information difficult or impossible for people with visual disabilities.</td>
+      <td>The woman is shaking her head and is unable to use that website.</td>
+    </tr>
+    <tr>
+      <td>And they are confusing for people with cognitive and learning disabilities who need clarity and consistency of the presentation.</td>
+      <td>The man calls a friend over to help.</td>
+    </tr>
+    <tr>
+      <td>Bad design also impacts anyone who isn't particularly confident around computers.</td>
+      <td>The friend is just as confused and navigates to a different, better pizza website.</td>
+    </tr>
+    <tr>
+      <td><em><strong>[@@ in video ??]</strong></em><br>Web accessibility: Essential for some, useful for all.</td>
+      <td><em><strong>[@@ in video ??]</strong></em><br>This second website is much clearer and easier to use. They are both happy. The woman using screen magnification has also used that website and is delightfully eating a pizza.</td>
+    </tr>	
+    <!-- 6 -->
+    <tr>
+      <td><strong>Notifications and Feedback</strong></td>
+      <td><strong>Notifications and Feedback</strong></td>
+    </tr>
+    <tr>
+      <td>All the right gears can be put in motion. The hands can be at the exact place they need to be.</td>
+      <td>The hands on a cuckoo clock reach twelve...</td>
+    </tr>
+    <tr>
+      <td> But if you don't get the response that you're expecting, you'll end up wondering if there's some sort of problem.<br /></td>
+      <td>... but the cuckoo bird does not pop out of its door to signal the time.</td>
+    </tr>
+    <tr>
+      <td>It's the same on the Web.<br />
+        Without clear notifications and feedback, people are quickly disorientated and confused.<br /></td>
+      <td>A man completes and submits a form on a website to get a rather blank screen with no confirmation of his submission. He looks confused.</td>
+    </tr>
+    <tr>
+      <td>Especially error messages which are often complex and confusing.<br /></td>
+      <td>Another man receives a technical error message from a website registration form. It reads: &quot;Error ead#234532 invalid data&quot;.</td>
+    </tr>
+    <tr>
+      <td>Yet making them understandable is usually quite simple.<br /></td>
+      <td>The error message changes to say: &quot;Invalid format, required format is 'day/month/year'.</td>
+    </tr>
+    <tr>
+      <td>Making websites and apps predictable and understandable makes them accessible for people with cognitive and learning disabilities...<br /></td>
+      <td>A woman is trying to log into the Wi-Fi of a cafe and receives a cryptic error message.</td>
+    </tr>
+    <tr>
+      <td>... and more usable for everyone.<br /></td>
+      <td>Other people at the cafe also seem to be having this problem.</td>
+    </tr>
+    <tr>
+      <td>Especially people with lower computer skills.<br /></td>
+      <td>The error message changes to something more understandable. The woman at the cafe looks relieved.</td>
+    </tr>
+    <tr>
+      <td><em><strong>[@@ in video ??]</strong></em><br>Web accessibility: Essential for some, useful for all.</td>
+      <td><em><strong>[@@ in video ??]</strong></em><br>The cuckoo bird pops out of the clock.</td>
+    </tr>
+	<!-- 7 -->
+    <tr>
+      <td><strong>Large Links, Buttons, and Controls</strong></td>
+      <td><strong>Large Links, Buttons, and Controls</strong></td>
+    </tr>
+    <tr>
+      <td>Trying to hit a small target requires lots of effort.</td>
+      <td><p>A woman tries to thread a needle but misses.<br />
+        </p></td>
+    </tr>
+    <tr>
+      <td>Many websites and applications try to thread the needle.</td>
+      <td>The woman fails to tap small links on a website. </td>
+    </tr>
+    <tr>
+      <td>But on the Web, we can make areas for clicking and tapping easier to use.</td>
+      <td>The links become larger in size and the woman now easily taps them.</td>
+    </tr>
+    <tr>
+      <td>Which is handy on mobile devices especially when we might be moving around at the time.</td>
+      <td>The woman is using a tablet while preparing a coffee.</td>
+    </tr>
+    <tr>
+      <td>Which is critical for people with reduced dexterity.</td>
+      <td>Another woman with a hand tremor is unable to navigate precisely with the mouse and fails to click small buttons on a website.<br /></td>
+    </tr>
+    <tr>
+      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td>The buttons become larger and the woman with the tremor is now able to click them.</td>
+    </tr>
+	<!-- 8 -->
+    <tr>
+      <td><strong>Customizable Text</strong></td>
+      <td><strong>Customizable Text</strong></td>
+    </tr>
+    <tr>
+      <td>What's right for you doesn't necessarily work for the next person.</td>
+      <td>Toast with different levels of darkness.</td>
+    </tr>
+    <tr>
+      <td>Customization isn't always just the question of preference though. Sometimes it's a necessity.</td>
+      <td>Two men are sitting with a toaster between them. One of the men turns the toaster dial.</td>
+    </tr>
+    <tr>
+      <td>Being able to adjust the text is crucial for people with low vision and dyslexia.</td>
+      <td>A woman puts on glasses to read a website on her laptop. The woman is squinting at the website with small text and an unusual font.</td>
+    </tr>
+    <tr>
+      <td>Properly coded websites and applications allow the text to be customized. For example, to change its size, spacing, font, and colors without loss of functions or clarity.</td>
+      <td>The woman uses the web browsers settings to adjust the
+        text size and style. It appears more legible and the woman is relieved.</td>
+    </tr>
+    <tr>
+      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td>Cutback to the two men: One of the men takes a piece of
+        toast out of the toaster.</td>
+    </tr>	
+	<!-- 9 -->
+    <tr>
+      <td><strong>Understandable Content</strong></td>
+      <td><strong>Understandable Content</strong></td>
+    </tr>
+    <tr>
+      <td>Instead of saying: &quot;To postulate a conceit more irksome than being addressed in sesquipedalian syntax is adamantine&quot;,<br />
+        it is better to say: &quot;Being spoken to in unnecessarily long and complicated language is a pain&quot;.</td>
+      <td>Two people are trying to follow instructions on a cooking website using lots of text with no illustrations or structure.</td>
+    </tr>
+    <tr>
+      <td>Yet many websites lack structuring using headings, lists and separation. Or they use overly complex language, jargon, and unexplained acronyms.</td>
+      <td>They are looking up words in a dictionary to understand the recipe.</td>
+    </tr>
+    <tr>
+      <td>It makes them difficult and unappealing to use for many people, including non-native speakers, and makes them unusable for people with cognitive and learning disabilities.</td>
+      <td>They are confused and frustrated by the website.</td>
+    </tr>
+    <tr>
+      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td>They search and find a different cooking website with more structured text and illustrations.</td>
     </tr>    
+	<!-- 10 -->
+    <tr>
+      <td><strong>Keyboard Compatibility</strong></td>
+      <td><strong>Keyboard Compatibility</strong></td>
+    </tr>
+    <tr>
+      <td>Not being able to use your computer because your mouse doesn't work, is frustrating.</td>
+      <td>A man drops his computer mouse off the desk. The computer mouse no longer works.</td>
+    </tr>
+    <tr>
+      <td>Many people use only the keyboard to navigate websites &mdash; either through preference or circumstance.<br /></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Whether it's temporarily limited mobility,</td>
+      <td>A woman with her arm in a sling is typing on a keyboard &mdash; but the website requires the use of a mouse to select the date.</td>
+    </tr>
+    <tr>
+      <td>a permanent physical disability,</td>
+      <td>A man with a wheelchair is using a mouth-stick to type.</td>
+    </tr>
+    <tr>
+      <td>or simply a broken mouse,<br />
+        the result is the same:</td>
+      <td>The man with the wheelchair also cannot use the site.</td>
+    </tr>
+    <tr>
+      <td>Websites and apps need to be operable by keyboard.</td>
+      <td>He switches to a different website that allows typing the date.</td>
+    </tr>
+    <tr>
+      <td><em><strong>[@@ in video ??]</strong></em><br>Web accessibility: Essential for some, useful for all.</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><em><strong>[@@ correct?]</strong></em><br>Visit w3.org/WAI/perspectives</td>
+      <td><em><strong>[@@ correct?]</strong></em><br>Visit<br />
+        w3.org/WAI/perspectives<br />
+        for tips and information on<br />
+        W3C Web Accessibility Initiative logo</td>
+    </tr>	  
   </tbody>
-</table>
+ </table>
