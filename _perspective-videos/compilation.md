@@ -38,7 +38,9 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 
 Web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations.
 
-10 short videos ([linked below](#pages))](#pages) illustrate examples of how accessibility is essential for some and useful for all. Here is a "compilation", that is, **all the 10 videos together in one video**:
+The 10 short videos [linked below](#pages) illustrate how accessibility is essential for some and useful for all. This page provides a "compilation", that is, **one longer video that includes all the 10 short videos**. It is less than 8 minutes long, and is useful for presentations and [translations](https://www.w3.org/WAI/translations/).
+
+... @@ embed video here @@...
 
 {:#film.no-display}
 
@@ -51,14 +53,22 @@ Web accessibility is essential for people with disabilities and useful for all. 
     descriptions-ad="/perspective-videos/cc/keyboard_ad_desc-en.vtt|en|Descriptions"
 %}
 
+{::nomarkdown}
+{% include box.html type="start" h="3" title="Alternative Versions" class="simple aside" %}
+{:/}
+
 This video information is also available:
 * As a [Text Transcript with Description of Visuals](#transcript) below
 * [On YouTube, without description](@@); [On YouTube, with descriptions](@@)
-* On a W3C server, without description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)(@@)]; with description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)(@@)]
+* On a W3C server, without description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)](@@); with description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)](@@)
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 ## Video Pages {#pages}
 
-The following web pages include the individual video along with additional informations: who depends on the feature, what needs to happen for this to work, and more.
+The following web pages include the individual video **along with additional informations**: who depends on the feature, what needs to happen for this to work, and more.
 
 * [[Keyboard Compatibility]](/perspective-videos/keyboard/)
 * [[Colors with Good Contrast]](/perspective-videos/contrast/)
@@ -73,7 +83,7 @@ The following web pages include the individual video along with additional infor
 
 ## Learn More about Web Accessibility
 
-This website provides a variety of standards, guidelines, and resources to get you started. For example:
+This website provides a range of standards, guidelines, and resources to get you started. For example:
 * [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
 * [[How People with Disabilities Use the Web]](/people-use-web/)
 * [[Tips for Getting Started]](/tips/)
@@ -128,8 +138,8 @@ This website provides a variety of standards, guidelines, and resources to get y
     </tr>
 <!-- 2 -->
     <tr>
-      <td></strong>Colors with Good Contrast</strong></td>
-      <td></strong>Colors with Good Contrast</strong></td>
+      <td><strong>Colors with Good Contrast</strong></td>
+      <td><strong>Colors with Good Contrast</strong></td>
     </tr>
     <tr>
       <td>There's something about great design that allows it to go practically unnoticed.</td>
@@ -208,7 +218,8 @@ This website provides a variety of standards, guidelines, and resources to get y
       <td>@@ MISSING: <br>
         Or for people simple preferring voice.<br />
         (Man in wheelchair) &quot;Place Order.&quot;</td>
-      <td>@@MISSING: The man with the wheelchair is now using a website that works.</td>
+      <td>@@MISSING: <br>
+        The man with the wheelchair is now using a website that works.</td>
     </tr>
 <!-- 4 -->
      <tr>
