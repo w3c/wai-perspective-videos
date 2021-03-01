@@ -38,15 +38,23 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 
 Web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations.
 
-@@ breifly explain compilation @@
+10 short videos (][inked below](#pages))](#pages) illustrate examples of how accessibility is essential for some and useful for all. Here is a "compilation", that is, **all the 10 videos together in one video**:
 
-@@ embed compilation @@
+{:#film.no-display}
 
-This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
+{% include video-player.html
+    yt-id="odBSBGnsAkw"
+    yt-id-ad="odBSBGnsAkw"
+%}
 
-## Video Pages
+This video information is also available:
+* As a [Text Transcript with Description of Visuals](#transcript) below
+* [On YouTube, without description](@@), [On YouTube, with descriptions](@@)
+* On a W3C server, without description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)[@@]; with description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)[@@]
 
-The following web pages include the individual video along with who depends on the feature, what needs to happen for this to work, and more.
+## Video Pages {#pages}
+
+The following web pages include the individual video along with additional informations: who depends on the feature, what needs to happen for this to work, and more.
 
 * [[Keyboard Compatibility]](/perspective-videos/keyboard/)
 * [[Colors with Good Contrast]](/perspective-videos/contrast/)
@@ -79,9 +87,12 @@ This website provides a variety of standards, guidelines, and resources to get y
   </thead>
   <tbody>
     <tr>
-      <td>Web Accessibility Perspectives: Video Captions</td>
-      <td>Web Accessibility Perspectives:<br />
-        Video Captions</td>
+      <td>Web Accessibility Perspectives</td>
+      <td>Web Accessibility Perspectives</td>
+    </tr>
+    <tr>
+      <td><strong>Video Captions</strong></td>
+      <td></strong>Video Captions</strong></td>
     </tr>
     <tr>
       <td>Video isn't just about pictures, it's also about sound. Without the audio, you would have to guess what this film is about.</td>
@@ -112,9 +123,9 @@ This website provides a variety of standards, guidelines, and resources to get y
       <td>The video is shown playing with the captions on.</td>
     </tr>
 <!-- 2 -->
-	      <tr>
-      <td>Colors with Good Contrast</td>
-      <td>Colors with Good Contrast</td>
+    <tr>
+      <td></strong>Colors with Good Contrast</strong></td>
+      <td></strong>Colors with Good Contrast</strong></td>
     </tr>
     <tr>
       <td>There's something about great design that allows it to go practically unnoticed.</td>
@@ -143,9 +154,9 @@ This website provides a variety of standards, guidelines, and resources to get y
       <td>Sun glares on the phone but the text is still readable.</td>
     </tr>
 <!-- 3 -->
-	      <tr>
-      <td>Voice Recognition</td>
-      <td>Voice Recognition</td>
+     <tr>
+      <td></strong>Voice Recognition</strong></td>
+      <td></strong>Voice Recognition</strong></td>
     </tr>
     <tr>
       <td>Imagine if you could only communicate with your family by writing.<br /></td>
@@ -181,7 +192,7 @@ This website provides a variety of standards, guidelines, and resources to get y
       <td>Nothing happens on the computer.</td>
     </tr>
     <tr>
-      <td> Voice recognition can help lots of other people with temporary limitations too, like an injured arm.<br />
+      <td>Voice recognition can help lots of other people with temporary limitations too, like an injured arm.<br />
 (Woman)                     &quot;Place order.&quot;</td>
       <td>A woman with her arm in a sling successfully using voice.</td>
     </tr>
@@ -195,5 +206,14 @@ This website provides a variety of standards, guidelines, and resources to get y
         (Man in wheelchair) &quot;Place Order.&quot;</td>
       <td>@@MISSING: The man with the wheelchair is now using a website that works.</td>
     </tr>
+<!-- 4 -->
+     <tr>
+      <td></strong>@@</strong></td>
+      <td></strong>@@</strong></td>
+    </tr>
+    <tr>
+      <td>@@</td>
+      <td>@@</td>
+    </tr>    
   </tbody>
 </table>
