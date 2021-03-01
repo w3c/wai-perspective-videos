@@ -38,19 +38,23 @@ footer: >   # Translate words below, including "Date:" and "Editor:" Translate t
 
 Web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations.
 
-10 short videos (][inked below](#pages))](#pages) illustrate examples of how accessibility is essential for some and useful for all. Here is a "compilation", that is, **all the 10 videos together in one video**:
+10 short videos ([linked below](#pages))](#pages) illustrate examples of how accessibility is essential for some and useful for all. Here is a "compilation", that is, **all the 10 videos together in one video**:
 
 {:#film.no-display}
 
 {% include video-player.html
     yt-id="odBSBGnsAkw"
     yt-id-ad="odBSBGnsAkw"
+    captions="/perspective-videos/cc/keyboard-en.vtt|en|Captions"
+    captions-ad="/perspective-videos/cc/keyboard_ad-en.vtt|en|Captions"
+    descriptions=""
+    descriptions-ad="/perspective-videos/cc/keyboard_ad_desc-en.vtt|en|Descriptions"
 %}
 
 This video information is also available:
 * As a [Text Transcript with Description of Visuals](#transcript) below
-* [On YouTube, without description](@@), [On YouTube, with descriptions](@@)
-* On a W3C server, without description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)[@@]; with description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)[@@]
+* [On YouTube, without description](@@); [On YouTube, with descriptions](@@)
+* On a W3C server, without description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)(@@)]; with description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)(@@)]
 
 ## Video Pages {#pages}
 
@@ -73,7 +77,7 @@ This website provides a variety of standards, guidelines, and resources to get y
 * [[Introduction to Web Accessibility]](/fundamentals/accessibility-intro/)
 * [[How People with Disabilities Use the Web]](/people-use-web/)
 * [[Tips for Getting Started]](/tips/)
-* [[The Business Case for Digital Accessibility]](https://www.w3.org/WAI/bcase/)
+* [[The Business Case for Digital Accessibility]](/business-case/)
 * [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
 
 ## Text Transcript with Description of Visuals {#transcript}
@@ -92,7 +96,7 @@ This website provides a variety of standards, guidelines, and resources to get y
     </tr>
     <tr>
       <td><strong>Video Captions</strong></td>
-      <td></strong>Video Captions</strong></td>
+      <td><strong>Video Captions</strong></td>
     </tr>
     <tr>
       <td>Video isn't just about pictures, it's also about sound. Without the audio, you would have to guess what this film is about.</td>
@@ -155,8 +159,8 @@ This website provides a variety of standards, guidelines, and resources to get y
     </tr>
 <!-- 3 -->
      <tr>
-      <td></strong>Voice Recognition</strong></td>
-      <td></strong>Voice Recognition</strong></td>
+      <td><strong>Voice Recognition</strong></td>
+      <td><strong>Voice Recognition</strong></td>
     </tr>
     <tr>
       <td>Imagine if you could only communicate with your family by writing.<br /></td>
@@ -208,8 +212,8 @@ This website provides a variety of standards, guidelines, and resources to get y
     </tr>
 <!-- 4 -->
      <tr>
-      <td></strong>@@</strong></td>
-      <td></strong>@@</strong></td>
+      <td><strong>@@</strong></td>
+      <td><strong>@@</strong></td>
     </tr>
     <tr>
       <td>@@</td>
