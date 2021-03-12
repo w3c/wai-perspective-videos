@@ -459,12 +459,12 @@ Different people from earlier are shown using text to speech.</td>
       <td>He switches to a different website that allows typing the date.</td>
     </tr>
     <tr>
-      <td>        Web accessibility: Essential for some, useful for all.</td>
+      <td><strong>Web accessibility: Essential for some, useful for all.</strong></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>        Visit w3.org/WAI/perspectives</td>
-      <td>        Visit<br /> 
+      <td>Visit w3.org/WAI/perspectives</td>
+      <td>Visit<br /> 
         w3.org/WAI/perspectives<br />
         for tips and information on<br />
         W3C Web Accessibility Initiative logo</td>
