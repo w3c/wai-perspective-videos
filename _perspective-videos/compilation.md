@@ -57,10 +57,19 @@ The 10 short videos [linked below](#pages) illustrate how accessibility is essen
 {% include box.html type="start" h="3" title="Alternative Versions" class="simple aside" %}
 {:/}
 
+_**[if descriped compilation:**_
+
 This video information is also available:
 * As a [Text Transcript with Description of Visuals](#transcript) below
-* [On YouTube, without description](@@); [On YouTube, with descriptions](@@)
+* [On YouTube, without description](@@); [On YouTube, with description](@@)
 * On a W3C server, without description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)](@@); with description: [video (file format: MP4, file size: @@MB)](@@), [captions (srt)](@@)
+
+_**[if NO descriped compilation:**_
+
+This video information is also available in other formats and locations:
+* Compilation video [Text Transcript with Description of Visuals](#transcript) below
+* Compliation video on [YouTube](@@); audio described versions of the 10 videos in [YouTube playlist](@@)
+* [On a W3C server](http://media.w3.org/wai/perspective-videos/) &mdash; MP4 video files and SRT captions files
 
 {::nomarkdown}
 {% include box.html type="end" %}
