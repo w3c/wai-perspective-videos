@@ -9,7 +9,7 @@ parent_in_h1:
     name: "Web Accessibility Perspectives Videos: Explore the Impact and Benefits for Everyone"  # translate the text in quotes
 
 lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2021-03-04   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-03-24   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators:    # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
@@ -30,8 +30,8 @@ description: Short video demonstrating how Web accessibility is essential for pe
 image: /perspective-videos/img/overview.jpg
 
 footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
-   <p><strong>Date:</strong> Updated 4 March 2021. First published May 2016. <a href="./changelog/">Changelog</a></p>
-   <p><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. <a href="./acknowledgements/">Acknowledgements</a> lists contributors.</p>
+   <p><strong>Date:</strong> Updated 24 March 2021. First published May 2016. <a href="./changelog/">Changelog</a></p>
+   <p><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Contributors to this page: Vicki Menezes Miller and <a href="https://www.w3.org/People/Shawn">Shawn Lawton Henry</a>. <a href="./acknowledgements/">Acknowledgements</a> lists additional project contributors.</p>
    <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission.</p>
 
 ---
@@ -224,10 +224,10 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>A man is outside with a dog taking voice notes on his mobile phone.</td>
     </tr>
     <tr>
-      <td><em><strong>@@ MISSING in video? Reply from VMM:  YES, THIS IS MISSING</strong></em><br>
+      <td><em><strong>@@ MISSING in video</strong></em><br>
         Or for people simple preferring voice.<br />
         (Man in wheelchair) &quot;Place Order.&quot;</td>
-      <td><em><strong>@@ MISSING in video? VMM:  YES, THIS IS MISSING</strong></em><br>
+      <td><em><strong>@@ MISSING in video</strong></em><br>
         The man with the wheelchair is now using a website that works.</td>
     </tr>
     <!-- 4 -->
@@ -266,7 +266,7 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
 <tr>
 <td>&nbsp;</td><td>The man with the service dog is using his mobile device outside with bone conduction headphones.<br>
-Different people from earlier are shown using text to speech.</td><td></td>
+Different people from earlier are shown using text to speech.</td>
 </tr>
     <!-- 5 -->
     <tr>
@@ -302,10 +302,8 @@ Different people from earlier are shown using text to speech.</td><td></td>
       <td>The friend is just as confused and navigates to a different, better pizza website.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ??:  Reply from VMM: Audio is MISSING]</strong></em><br>
-        Web accessibility: Essential for some, useful for all.</td>
-      <td><em><strong>[@@ in video ??, Reply from VMM:  YES]</strong></em><br>
-        This second website is much clearer and easier to use. They are both happy. The woman using screen magnification has also used that website and is delightfully eating a pizza.</td>
+      <td>&nbsp;</td>
+      <td>        This second website is much clearer and easier to use. They are both happy. The woman using screen magnification has also used that website and is delightfully eating a pizza.</td>
     </tr>
     <!-- 6 -->
     <tr>
@@ -346,10 +344,8 @@ Different people from earlier are shown using text to speech.</td><td></td>
       <td>The error message changes to something more understandable. The woman at the cafe looks relieved.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ?? Reply from VMM:  No, this is not read out]</strong></em><br>
-        Web accessibility: Essential for some, useful for all.</td>
-      <td><em><strong>[@@ in video ??:  Reply from VMM:  YES, this in the video]</strong></em><br>
-        The cuckoo bird pops out of the clock.</td>
+      <td>&nbsp;</td>
+      <td>        The cuckoo bird pops out of the clock.</td>
     </tr>
     <!-- 7 -->
     <tr>
@@ -378,7 +374,7 @@ Different people from earlier are shown using text to speech.</td><td></td>
       <td>Another woman with a hand tremor is unable to navigate precisely with the mouse and fails to click small buttons on a website.<br /></td>
     </tr>
     <tr>
-      <td><em><strong>[@@ VMM:  Audio MISSING in video]</strong></em><br>Web accessibility: Essential for some, useful for all.</td>
+      <td>&nbsp;</td>
       <td>The buttons become larger and the woman with the tremor is now able to click them.</td>
     </tr>
     <!-- 8 -->
@@ -404,9 +400,8 @@ Different people from earlier are shown using text to speech.</td><td></td>
         text size and style. It appears more legible and the woman is relieved.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ VMM:  Audio MISSING in video]</strong></em><br>
-	Web accessibility: Essential for some, useful for all.</td>
-      <td><em><strong>[@@ VMM:  Video scene MISSING:  Not in video]</strong></em><br>
+      <td>&nbsp;</td>
+      <td><em><strong>[@@ Video scene MISSING:  Not in video]</strong></em><br>
 	Cutback to the two men: One of the men takes a piece of
         toast out of the toaster.</td>
     </tr>
@@ -431,7 +426,6 @@ Different people from earlier are shown using text to speech.</td><td></td>
     <tr>
       <td>Web accessibility: Essential for some, useful for all.</td>
       <td>They search and find a different cooking website with more structured text and illustrations.<br>
-<em><strong>[@@ VMM:  MISSING Text in transcript, duly added below]</strong></em><br>
 	They successfully bake a delicious looking cake and happily cut into it.</td>
     </tr>
     <!-- 10 -->
@@ -465,15 +459,12 @@ Different people from earlier are shown using text to speech.</td><td></td>
       <td>He switches to a different website that allows typing the date.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ??:  Reply from VMM:  Yes, it is in the video]</strong></em><br>
-        Web accessibility: Essential for some, useful for all.</td>
+      <td>        Web accessibility: Essential for some, useful for all.</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ correct?:  Yes, correct.]</strong></em><br>
-        Visit w3.org/WAI/perspectives</td>
-      <td><em><strong>[@@ correct?:  Yes, visually correct but I think "in the audio of the previous "Visit w3.org/WAI/perspectives", the following should also be in audio "for tips and information on W3C Web Accessibility Initiative".]</strong></em><br>
-        Visit<br /> 
+      <td>        Visit w3.org/WAI/perspectives</td>
+      <td>        Visit<br /> 
         w3.org/WAI/perspectives<br />
         for tips and information on<br />
         W3C Web Accessibility Initiative logo</td>
