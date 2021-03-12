@@ -400,8 +400,8 @@ Different people from earlier are shown using text to speech.</td>
         text size and style. It appears more legible and the woman is relieved.</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
-      <td><em><strong>[@@ Video scene MISSING:  Not in video]</strong></em><br>
+      <td><em><strong>[@@ Video scene MISSING: Not in video]</strong></em></td>
+      <td><br>
 	Cutback to the two men: One of the men takes a piece of
         toast out of the toaster.</td>
     </tr>
