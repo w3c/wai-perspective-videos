@@ -264,10 +264,11 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>Which has the added benefit of helping search engines index websites' contents better.</td>
       <td>&nbsp;</td>
     </tr>
-<tr>
-<td>&nbsp;</td><td>The man with the service dog is using his mobile device outside with bone conduction headphones.<br>
-Different people from earlier are shown using text to speech.</td>
-</tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>The man with the service dog is using his mobile device outside with bone conduction headphones.<br>
+        Different people from earlier are shown using text to speech.</td>
+    </tr>
     <!-- 5 -->
     <tr>
       <td><strong>Clear Layout and Design</strong></td>
@@ -303,7 +304,7 @@ Different people from earlier are shown using text to speech.</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>        This second website is much clearer and easier to use. They are both happy. The woman using screen magnification has also used that website and is delightfully eating a pizza.</td>
+      <td> This second website is much clearer and easier to use. They are both happy. The woman using screen magnification has also used that website and is delightfully eating a pizza.</td>
     </tr>
     <!-- 6 -->
     <tr>
@@ -345,7 +346,7 @@ Different people from earlier are shown using text to speech.</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>        The cuckoo bird pops out of the clock.</td>
+      <td> The cuckoo bird pops out of the clock.</td>
     </tr>
     <!-- 7 -->
     <tr>
@@ -402,7 +403,7 @@ Different people from earlier are shown using text to speech.</td>
     <tr>
       <td><em><strong>[@@ Video scene MISSING: Not in video]</strong></em></td>
       <td><br>
-	Cutback to the two men: One of the men takes a piece of
+        Cutback to the two men: One of the men takes a piece of
         toast out of the toaster.</td>
     </tr>
     <!-- 9 -->
@@ -426,7 +427,7 @@ Different people from earlier are shown using text to speech.</td>
     <tr>
       <td>Web accessibility: Essential for some, useful for all.</td>
       <td>They search and find a different cooking website with more structured text and illustrations.<br>
-	They successfully bake a delicious looking cake and happily cut into it.</td>
+        They successfully bake a delicious looking cake and happily cut into it.</td>
     </tr>
     <!-- 10 -->
     <tr>
@@ -463,8 +464,9 @@ Different people from earlier are shown using text to speech.</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Visit w3.org/WAI/perspectives</td>
-      <td>Visit<br /> 
+      <td><p>Visit w3.org/WAI/perspectives</p>
+      <p><em><strong>[@@ MISSING: audio from non-described compilation]</strong></em></p></td>
+      <td>Visit<br />
         w3.org/WAI/perspectives<br />
         for tips and information on<br />
         W3C Web Accessibility Initiative logo</td>
