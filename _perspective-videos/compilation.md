@@ -154,7 +154,7 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>She looks at a navigation app on her phone.</td>
     </tr>
     <tr>
-      <td>Good design means sufficient contrast between foreground background and colors. That's not just text and images but links, icons, and buttons.</td>
+      <td>Good design means sufficient contrast between foreground and background colors. That's not just text and images but links, icons, and buttons.</td>
       <td>The app has a button with low contrast that changes to become clear.</td>
     </tr>
     <tr>
@@ -169,8 +169,8 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <!-- 3 -->
     <tr>
-      <td><strong>[Speech] Recognition</strong></td>
-      <td><strong>[Speech] Recognition</strong></td>
+      <td><strong>Voice Recognition</strong></td>
+      <td><strong>Voice Recognition</strong></td>
     </tr>
     <tr>
       <td>Imagine if you could only communicate with your family by writing.<br /></td>
@@ -178,9 +178,9 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>Sometimes it's just easier to speak.<br />
-        One of the advances of technology is [speech] recognition.<br />
+        One of the advances of technology is voice recognition.<br />
         Whether it's searching the web:</td>
-      <td>A man is using a tablet by speech.</td>
+      <td>A man is using a tablet by voice.</td>
     </tr>
     <tr>
       <td>(Tablet user) &quot;Nineteenth century architecture.&quot;</td>
@@ -188,14 +188,14 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>Dictating emails.</td>
-      <td>An older man is also using a tablet by speech.</td>
+      <td>An older man is also using a tablet by voice.</td>
     </tr>
     <tr>
       <td>Or controlling your navigation app.</td>
       <td>A woman is speaking to her mobile phone and follows the directions on the screen.</td>
     </tr>
     <tr>
-      <td><p>Many people with physical disabilities rely on [speech] recognition to use the computer.<br />
+      <td><p>Many people with physical disabilities rely on voice recognition to use the computer.<br />
           (Man in wheelchair) &quot;Place order.&quot;<br />
         </p></td>
       <td>A man with a wheelchair is using a headset for the computer.</td>
@@ -206,19 +206,19 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>Nothing happens on the computer.</td>
     </tr>
     <tr>
-      <td> [Speech] recognition can help lots of other people with temporary limitations too, like an injured arm.<br />
+      <td> Voice recognition can help lots of other people with temporary limitations too, like an injured arm.<br />
         (Woman)                     &quot;Place order.&quot;</td>
-      <td>A woman with her arm in a sling successfully using speech.</td>
+      <td>A woman with her arm in a sling successfully using voice.</td>
     </tr>
     <tr>
       <td>It can also prevent injuries becoming worse, like RSI: Repetitive Stress Injury.</td>
-      <td>A man is outside with a dog taking speech notes on his mobile phone.</td>
+      <td>A man is outside with a dog taking voice notes on his mobile phone.</td>
     </tr>
     <tr>
-      <td><em><strong>@@ MISSING in video: </strong></em><br>
+      <td><em><strong>@@ MISSING in video? Reply from VMM:  YES, THIS IS MISSING</strong></em><br>
         Or for people simple preferring voice.<br />
         (Man in wheelchair) &quot;Place Order.&quot;</td>
-      <td><em><strong>@@ MISSING in video: </strong></em><br>
+      <td><em><strong>@@ MISSING in video? VMM:  YES, THIS IS MISSING</strong></em><br>
         The man with the wheelchair is now using a website that works.</td>
     </tr>
     <!-- 4 -->
@@ -237,24 +237,28 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>But it's also important for many people with dyslexia.</td>
-      <td>A woman is reading on a tablet and listen with headphones.</td>
+      <td>A woman is reading on a tablet and listening with headphones.</td>
     </tr>
     <tr>
       <td>And very useful for people with difficulty reading text.</td>
-      <td>A man removes his glasses and listens to a news article on his tablet.</td>
+      <td>A man removes his glasses and listens to a news article on a tablet.</td>
     </tr>
     <tr>
       <td>As well as some people who just like to multi-task.</td>
       <td>A man listens to a magazine article as they do the washing.</td>
     </tr>
     <tr>
-      <td>But for this to work, websites and apps need to be properly coded.</td>
-      <td>The website is not properly working for the woman with headphones. She is frustrated.</td>
+      <td>But for this to work, websites and apps have to be properly coded.</td>
+      <td>A website is not properly working for the woman with headphones. She is frustrated.</td>
     </tr>
     <tr>
       <td>Which has the added benefit of helping search engines index websites' contents better.</td>
       <td>&nbsp;</td>
     </tr>
+<tr>
+<td>&nbsp;</td><td>The man with the service dog is using his mobile device outside with bone conduction headphones.<br>
+Different people from earlier are shown using text to speech.</td><td></td>
+</tr>
     <!-- 5 -->
     <tr>
       <td><strong>Clear Layout and Design</strong></td>
@@ -289,9 +293,9 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>The friend is just as confused and navigates to a different, better pizza website.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ??]</strong></em><br>
+      <td><em><strong>[@@ in video ??:  Reply from VMM: Audio is MISSING]</strong></em><br>
         Web accessibility: Essential for some, useful for all.</td>
-      <td><em><strong>[@@ in video ??]</strong></em><br>
+      <td><em><strong>[@@ in video ??, Reply from VMM:  YES]</strong></em><br>
         This second website is much clearer and easier to use. They are both happy. The woman using screen magnification has also used that website and is delightfully eating a pizza.</td>
     </tr>
     <!-- 6 -->
@@ -310,7 +314,7 @@ This website provides a range of standards, guidelines, and resources to get you
     <tr>
       <td>It's the same on the Web.<br />
         Without clear notifications and feedback, people are quickly disorientated and confused.<br /></td>
-      <td>A man completes and submits a form on a website to get a rather blank screen with no confirmation of his submission. He looks confused.</td>
+      <td>A man completes and submits a form on a website to get a rather blank screen with no confirmation for his submission. He looks confused.</td>
     </tr>
     <tr>
       <td>Especially error messages which are often complex and confusing.<br /></td>
@@ -318,10 +322,10 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>Yet making them understandable is usually quite simple.<br /></td>
-      <td>The error message changes to say: &quot;Invalid format, required format is 'day/month/year'.</td>
+      <td>The error message changes to say: &quot;Invalid date, required format is 'day/month/year'.</td>
     </tr>
     <tr>
-      <td>Making websites and apps predictable and understandable makes them accessible for people with cognitive and learning disabilities...<br /></td>
+      <td>Making websites and apps predictable and understandable makes them accessible to people with cognitive and learning disabilities...<br /></td>
       <td>A woman is trying to log into the Wi-Fi of a cafe and receives a cryptic error message.</td>
     </tr>
     <tr>
@@ -329,13 +333,13 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>Other people at the cafe also seem to be having this problem.</td>
     </tr>
     <tr>
-      <td>Especially people with lower computer skills.<br /></td>
+      <td>Especially for people with lower computer skills.<br /></td>
       <td>The error message changes to something more understandable. The woman at the cafe looks relieved.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ??]</strong></em><br>
+      <td><em><strong>[@@ in video ?? Reply from VMM:  No, this is not read out]</strong></em><br>
         Web accessibility: Essential for some, useful for all.</td>
-      <td><em><strong>[@@ in video ??]</strong></em><br>
+      <td><em><strong>[@@ in video ??:  Reply from VMM:  YES, this in the video]</strong></em><br>
         The cuckoo bird pops out of the clock.</td>
     </tr>
     <!-- 7 -->
@@ -353,7 +357,7 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>The woman fails to tap small links on a website. </td>
     </tr>
     <tr>
-      <td>But on the Web, we can make areas for clicking and tapping easier to use.</td>
+      <td>But on the Web, we can make areas for clicking and tapping larger and easier to use.</td>
       <td>The links become larger in size and the woman now easily taps them.</td>
     </tr>
     <tr>
@@ -365,7 +369,7 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>Another woman with a hand tremor is unable to navigate precisely with the mouse and fails to click small buttons on a website.<br /></td>
     </tr>
     <tr>
-      <td>Web accessibility: Essential for some, useful for all.</td>
+      <td><em><strong>[@@ VMM:  Audio MISSING in video]</strong></em><br>Web accessibility: Essential for some, useful for all.</td>
       <td>The buttons become larger and the woman with the tremor is now able to click them.</td>
     </tr>
     <!-- 8 -->
@@ -383,7 +387,7 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>Being able to adjust the text is crucial for people with low vision and dyslexia.</td>
-      <td>A woman puts on glasses to read a website on her laptop. The woman is squinting at the website with small text and an unusual font.</td>
+      <td>A woman puts on glasses to read a website on her laptop. The woman is squinting at the website with small text in an unusual font.</td>
     </tr>
     <tr>
       <td>Properly coded websites and applications allow the text to be customized. For example, to change its size, spacing, font, and colors without loss of functions or clarity.</td>
@@ -391,8 +395,10 @@ This website provides a range of standards, guidelines, and resources to get you
         text size and style. It appears more legible and the woman is relieved.</td>
     </tr>
     <tr>
-      <td>Web accessibility: Essential for some, useful for all.</td>
-      <td>Cutback to the two men: One of the men takes a piece of
+      <td><em><strong>[@@ VMM:  Audio MISSING in video]</strong></em><br>
+	Web accessibility: Essential for some, useful for all.</td>
+      <td><em><strong>[@@ VMM:  Video scene MISSING:  Not in video]</strong></em><br>
+	Cutback to the two men: One of the men takes a piece of
         toast out of the toaster.</td>
     </tr>
     <!-- 9 -->
@@ -415,7 +421,9 @@ This website provides a range of standards, guidelines, and resources to get you
     </tr>
     <tr>
       <td>Web accessibility: Essential for some, useful for all.</td>
-      <td>They search and find a different cooking website with more structured text and illustrations.</td>
+      <td>They search and find a different cooking website with more structured text and illustrations.<br>
+<em><strong>[@@ VMM:  MISSING Text in transcript, duly added below]</strong></em><br>
+	They successfully bake a delicious looking cake and happily cut into it.</td>
     </tr>
     <!-- 10 -->
     <tr>
@@ -448,15 +456,15 @@ This website provides a range of standards, guidelines, and resources to get you
       <td>He switches to a different website that allows typing the date.</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ in video ??]</strong></em><br>
+      <td><em><strong>[@@ in video ??:  Reply from VMM:  Yes, it is in the video]</strong></em><br>
         Web accessibility: Essential for some, useful for all.</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td><em><strong>[@@ correct?]</strong></em><br>
+      <td><em><strong>[@@ correct?:  Yes, correct.]</strong></em><br>
         Visit w3.org/WAI/perspectives</td>
-      <td><em><strong>[@@ correct?]</strong></em><br>
-        Visit<br />
+      <td><em><strong>[@@ correct?:  Yes, visually correct but I think "in the audio of the previous "Visit w3.org/WAI/perspectives", the following should also be in audio "for tips and information on W3C Web Accessibility Initiative".]</strong></em><br>
+        Visit<br /> 
         w3.org/WAI/perspectives<br />
         for tips and information on<br />
         W3C Web Accessibility Initiative logo</td>
