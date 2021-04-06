@@ -56,7 +56,7 @@ Select text and background colors that provide sufficient contrast.
 There are tools to help check and select appropriate color combinations.
 This is ideally done during the early design stage and the selection of
 color palettes. While some people need high contrast, some people are
-sensitive to brightness and need to [change the colors](perspective-videos/customizable/).
+sensitive to brightness and need to [change the colors](/perspective-videos/customizable/).
 
 ## Learn more
 {:#resources}
