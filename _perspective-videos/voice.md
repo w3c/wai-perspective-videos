@@ -14,6 +14,8 @@ Web accessibility is essential for people with disabilities and useful
 for all. Learn about the impact of accessibility and the benefits for
 everyone in a variety of situations.
 
+Update: The video uses "voice recognition". This page is updated to use "speech recognition". "Speech recognition" is about recognizing words for speech-to-text (STT) transcription, virtual assistants, and other speech user interfaces. "Voice recognition" or "speaker recognition" is technology that identifies who the speaker is, not the words they're saying. We hope to update the video to use "speech recognition" in late 2021. 
+
 ## Video on Speech Recognition
 {:#film.no-display}
 
@@ -98,8 +100,6 @@ Learn more {#resources}
         (several related topics)
 
 ## Text Transcript with Description of Visuals {#transcript}
-
-**Note:** The video uses "Voice Recognition" where it should use "Speech Recognition". In the descriptive transcript below, "Voice Recognition" is replaced with "[Speech] Recognition". The difference between "voice recognition" and "speech recognition" is briefly explained in the WAI [Style Guide](https://www.w3.org/WAI/EO/wiki/Style#speech-recognition).
 
 <table>
   <thead>
