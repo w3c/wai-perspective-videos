@@ -9,8 +9,13 @@ image: /perspective-videos/img/overview.jpg
 
 ---
 
-## 2 February 2021
 **_Pending updates:_ frontmatter for translations.**
+
+## April 2021
+
+* Changed "Voice Recognition" to "Speech Recognition" throughout [sub-page](https://www.w3.org/WAI/perspective-videos/voice/) and on main page.<br>**[diff of April 2021 changes](https://github.com/w3c/wai-perspective-videos/pull/41/files)**
+
+## 2 February 2021
 
 * To first page (index.md)
   * added "Videos" to title
