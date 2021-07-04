@@ -18,7 +18,7 @@ last_updated: 2019-01-23   # Put the date of this translation YYYY-MM-DD (with m
 
 github:
   repository: w3c/wai-perspective-videos
-  path: perspective-videos/captions.md    # Add the language shortcode to the middle of the filename, for example: perspective-videos/captions.md
+  path: _perspective-videos/captions.md    # Add the language shortcode to the middle of the filename, for example: perspective-videos/captions.md
 permalink: /perspective-videos/captions/   # Add the language shortcode to the end, with no slash at end, for example: /perspective-videos/captions/fr
 
 ref: /perspective-videos/captions/   # Translators, do not change this
