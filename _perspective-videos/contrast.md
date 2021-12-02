@@ -1,7 +1,6 @@
 ---
 lang: en
 permalink: /perspective-videos/contrast/
-ref: /perspective-videos/contrast/
 title: Colors with Good Contrast
 order: 2
 description: Short video about colors with good contrast for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
@@ -31,7 +30,7 @@ This video information is available as a [Text Transcript with Description of Vi
 ## What is "Colors with Good Contrast"?
 {:#what}
 
-Colors must have sufficient contrast between text color and its background (technically called <em>luminosity contrast ratio</em>). This includes text on images, icons, and buttons. Also colors used to convey information on diagrams, maps, and other types of images must be distinguishable.
+Colors must have sufficient contrast, for example, between the text color and the background color (technically called <em>luminance contrast ratio</em>). This includes text on images, icons, and buttons. Also colors used to convey information on diagrams, maps, and other types of images must be distinguishable.
 
 ## Who depends on this feature?
 {:#who}
