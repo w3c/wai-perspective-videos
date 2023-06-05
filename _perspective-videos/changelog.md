@@ -11,6 +11,10 @@ image: /perspective-videos/img/overview.jpg
 
 **_Pending updates:_ frontmatter for translations.**
 
+## June 2023
+
+* Added link to compilation on W3C server
+
 ## April 2021
 
 * Changed "Voice Recognition" to "Speech Recognition" throughout [sub-page](https://www.w3.org/WAI/perspective-videos/voice/) and on main page.<br>**[diff of April 2021 changes](https://github.com/w3c/wai-perspective-videos/pull/41/files)**
