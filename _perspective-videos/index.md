@@ -30,7 +30,7 @@ Web accessibility is essential for people with disabilities and useful for all. 
 -   [![](img/thumbnails/notifications.jpg)<br>Notifications and Feedback]({{ "/perspective-videos/notifications/" | relative_url }})
 {:.two.columns.linklist}
 
-**Compilation of all 10 videos (7:36 minutes): [compilation on YouTube {% include icon.html name="external-link" label="External Link" %}](https://www.youtube.com/watch?v=3f31oufqFSM)**, [compilation on W3C server (file format: MP4, file size: 73MB) {% include icon.html name="external-link" label="External Link" %}]([https://www.youtube.com/watch?v=3f31oufqFSM](https://media.w3.org/wai/perspective-videos/compilation.mp4), captions file (SRT) {% include icon.html name="external-link" label="External Link" %}](https://media.w3.org/wai/perspective-videos/compilation.srt)
+**Compilation of all 10 videos (7:36 minutes): [compilation on YouTube {% include icon.html name="external-link" label="External Link" %}](https://www.youtube.com/watch?v=3f31oufqFSM)**, [compilation on W3C server (file format: MP4, file size: 73MB) {% include icon.html name="external-link" label="External Link" %}](https://media.w3.org/wai/perspective-videos/compilation.mp4), [captions file (SRT) {% include icon.html name="external-link" label="External Link" %}](https://media.w3.org/wai/perspective-videos/compilation.srt)
 
 ## Learn More about Web Accessibility
 
