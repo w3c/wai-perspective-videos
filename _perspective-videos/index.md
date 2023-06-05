@@ -1,6 +1,6 @@
 ---
 lang: en
-last_updated: 2021-02-02
+last_updated: 2023-06-05
 title: "Web Accessibility Perspectives Videos: Explore the Impact and Benefits for Everyone"
 title_html: "Web Accessibility Perspectives Videos:<br>Explore the Impact and Benefits for Everyone"
 nav_title: "Perspective Videos Overview"
@@ -11,7 +11,7 @@ description: Short videos demonstrating how Web accessibility is essential for p
 image: /perspective-videos/img/overview.jpg
 changelog: /perspective-videos/changelog/
 footer: >
-  <p><strong>Status:</strong> Updated 2 February 2021. CHANGELOG.<br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="./acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 5 June 2023. CHANGELOG.<br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations.
@@ -30,8 +30,7 @@ Web accessibility is essential for people with disabilities and useful for all. 
 -   [![](img/thumbnails/notifications.jpg)<br>Notifications and Feedback]({{ "/perspective-videos/notifications/" | relative_url }})
 {:.two.columns.linklist}
 
-**For presentations:** [compilation of all 10 videos (7:36
-minutes) {% include icon.html name="external-link" label="External Link" %}](https://www.youtube.com/watch?v=3f31oufqFSM).
+**Compilation of all 10 videos (7:36 minutes): [compilation on YouTube {% include icon.html name="external-link" label="External Link" %}](https://www.youtube.com/watch?v=3f31oufqFSM)**, [compilation on W3C server (file format: MP4, file size: 73MB) {% include icon.html name="external-link" label="External Link" %}]([https://www.youtube.com/watch?v=3f31oufqFSM](https://media.w3.org/wai/perspective-videos/compilation.mp4), captions file (SRT) {% include icon.html name="external-link" label="External Link" %}](https://media.w3.org/wai/perspective-videos/compilation.srt)
 
 ## Learn More about Web Accessibility
 
