@@ -1,13 +1,12 @@
 ---
 lang: en
 permalink: /perspective-videos/contrast/
-ref: /perspective-videos/contrast/
 title: Colors with Good Contrast
 order: 2
 description: Short video about colors with good contrast for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/contrast.jpg
 footer: >
-  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 29 November 2021. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -31,15 +30,13 @@ This video information is available as a [Text Transcript with Description of Vi
 ## What is "Colors with Good Contrast"?
 {:#what}
 
-Colors must have sufficient contrast between text color and its background (technically called <em>luminosity contrast ratio</em>). This includes text on images, icons, and buttons. Also colors used to convey information on diagrams, maps, and other types of images must be distinguishable.
+Colors must have sufficient contrast, for example, between the text color and the background color (technically called <em>luminance contrast ratio</em>). This includes text on images, icons, and buttons. Also colors used to convey information on diagrams, maps, and other types of images must be distinguishable.
 
 ## Who depends on this feature?
 {:#who}
 
--   People with low contrast sensitivity, which is common in older
-    people.
--   People with color blindness who cannot distinguish between certain
-    colors.
+-   People with low contrast sensitivity, which is common in older people.
+-   People who cannot distinguish between certain colors (often called “color blindness”).
 
 ## What are the additional benefits?
 {:#others}
@@ -71,8 +68,7 @@ sensitive to brightness and need to [change the colors](/perspective-videos/cust
     -   [Contrast ratio ("color
         contrast")](/test-evaluate/preliminary/#contrast)
 -   **User Story:**
-    -   [Mr. Lee, Online shopper with color
-        blindness](/people-use-web/user-stories/#shopper)
+    -   [Mr. Lee, Online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories/#shopper)
     -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
         short-term memory
         loss](/people-use-web/user-stories/#retiree)
