@@ -1,14 +1,26 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
+title: "Remerciements - L'accessibilité Web illustrée"
+nav_title: "Remerciements"
 lang: fr
-permalink: /perspective-videos/acknowledgements/fr
+last_updated: 2020-12-31
+
 translators: 
 - name: "Sofia Ahmed"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
-ref: /perspective-videos/acknowledgements/
-title: Remerciements - L'accessibilité Web illustrée
+
+permalink: /perspective-videos/acknowledgements/fr  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/acknowledgements/  # Do not change this
 nosidenav: true
 image: /perspective-videos/img/overview.jpg
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words below, including "Status:" and "Editor and project lead:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Statut :</strong> Mise à jour : 22 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la fondation Ford.</p>
 ---

@@ -1,10 +1,28 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
+title: "Acknowledgements - Web Accessibility Perspectives Videos"
+nav_title: "Acknowledgements"
 lang: en
-permalink: /perspective-videos/acknowledgements/
-ref: /perspective-videos/acknowledgements/
-title: Acknowledgements - Web Accessibility Perspectives Videos
+last_updated: 2019-01-22
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
+permalink: /perspective-videos/acknowledgements/    # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/acknowledgements/  # Do not change this
 nosidenav: true
 image: /perspective-videos/img/overview.jpg
+
+# In the footer below:
+# Do not change the dates
+# Translate the other words below, including "Status:" and "Editor and project lead:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Status:</strong> Updated 22 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation.</p>
 ---
