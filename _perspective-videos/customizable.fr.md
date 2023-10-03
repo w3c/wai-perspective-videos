@@ -1,4 +1,3 @@
-
 ---
 lang: fr
 permalink: /perspective-videos/customizable/fr

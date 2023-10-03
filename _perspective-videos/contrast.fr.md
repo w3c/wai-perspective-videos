@@ -1,17 +1,31 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".lang: en
+
+title: Des couleurs bien contrastées
 lang: fr
-permalink: /perspective-videos/contrast/fr
+last_updated: 2023-10-03
+
 translators: 
 - name: "Sofia Ahmed"
 contributors:
 - name : "Sandra Velarde Gonzalez (ETNIC)"
-ref: /perspective-videos/contrast/
-title: Des couleurs bien contrastées
+
+permalink: /perspective-videos/contrast/fr # Add the language shortcode to the end, with no / at the end. For example /standards-guidelines/fr
+ref: /perspective-videos/contrast/  # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
 order: 2
 description: Courte vidéo à propos des couleurs bien contrastées pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/contrast.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a><a href="./acknowledgements/">Remerciements</a>.</p>
+    <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> ACKNOWLEDGEMENTS.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
