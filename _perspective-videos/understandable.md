@@ -1,13 +1,34 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
+title: "Understandable Content"
+nav_title: "Understandable Content"
 lang: en
-permalink: /perspective-videos/understandable/
-ref: /perspective-videos/understandable/
-title: Understandable Content
+last_updated: 2019-01-23
 order: 9
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
+permalink: /perspective-videos/understandable/  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/understandable/    # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
 description: Short video about understandable content for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/understandable.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below.
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful

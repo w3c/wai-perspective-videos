@@ -1,13 +1,34 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
+title: "Speech Recognition"
+nav_title: "Speech Recognition"
 lang: en
-permalink: /perspective-videos/voice/
-ref: /perspective-videos/voice/
-title: Speech Recognition
+last_updated: 2021-02-26
 order: 8
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
+permalink: /perspective-videos/voice/   # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/voice/ # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
 description: Short video about speech recognition for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/voice.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below.
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Status:</strong> Updated 26 February 2021. First published May 2016. <a href="../changelog/">Changelog</a>.<br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 26 February 2021. First published May 2016. <a href="../changelog/">Changelog</a>.<br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -28,7 +49,7 @@ Update: The video uses "voice recognition". This page is updated to use "speech 
     subtitles="fr/voice.fr.vtt|fr"
     subtitles-ad="fr/voice_ad.fr.vtt|fr"
     descriptions=""
-    descriptions-ad="en/voice_ad_desc.en.vtt|en|default, fr/voice_ad_desc.fr.vtt|fr"
+    descriptions-ad="en/voice_ad_desc.en.vtt|en|default,fr/voice_ad_desc.fr.vtt|fr"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

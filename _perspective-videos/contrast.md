@@ -2,23 +2,23 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: Colors with Good Contrast
+title: "Colors with Good Contrast"
+nav_title: "Colors with Good Contrast"
 lang: en
 last_updated: 2021-11-29
+order: 2
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Translator Name Here" # Add one -name: line for every translator
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
 # contributors:
 # - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
-permalink: /perspective-videos/contrast/
-ref: /perspective-videos/contrast/
-acknowledgements: /perspective-videos/acknowledgements/
+permalink: /perspective-videos/contrast/    # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/contrast/  # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
-order: 2
 description: Short video about colors with good contrast for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/contrast.jpg
 

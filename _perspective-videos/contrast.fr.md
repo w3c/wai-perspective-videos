@@ -4,7 +4,7 @@
 
 title: Des couleurs bien contrastées
 lang: fr
-last_updated: 2023-10-03
+last_updated: 2020-12-31
 
 translators: 
 - name: "Sofia Ahmed"

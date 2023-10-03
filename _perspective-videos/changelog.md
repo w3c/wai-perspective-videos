@@ -1,4 +1,5 @@
 ---
+# Do not translate Changelog
 lang: en
 permalink: /perspective-videos/changelog/
 ref: /perspective-videos/changelog/

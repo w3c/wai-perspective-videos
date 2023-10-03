@@ -1,17 +1,34 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
+
+title: "Les sous-titres de vidéo"
+nav_title: "Sous-titres vidéos"
 lang: fr
-permalink: /perspective-videos/captions/fr
+last_updated: 2020-12-30    # Put the date of this translation YYYY-MM-DD (with month in the middle)
+order: 6
+
 translators: 
 - name: "Sofia Ahmed"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
-ref: /perspective-videos/captions/
-title: Les sous-titres de vidéo
-order: 6
+
+permalink: /perspective-videos/captions/fr  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/captions/  # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
 description: Courte vidéo à propos des sous-titres de vidéos pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/captions.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below, including "Date:" and "Editor and project lead:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet : </strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (822245) <a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019.</p>
+  <p><strong>Rédacteur et chef du projet : </strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. ACKNOWLEDGEMENTS liste les contributions.
+  <p>Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (822245)</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.

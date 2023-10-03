@@ -1,17 +1,32 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
+title: "La reconnaissance vocale"
+nav_title: "La reconnaissance vocale"
 lang: fr
-permalink: /perspective-videos/voice/fr
-translators: 
+last_updated: 2020-12-31
+order: 8
+
+translators:
 - name: "Sofia Ahmed"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
-ref: /perspective-videos/voice/
-title: La reconnaissance vocale
-order: 8
+
+permalink: /perspective-videos/voice/fr # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/voice/ # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
 description: Courte vidéo à propos de la reconnaissance vocale pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/voice.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below.
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -29,7 +44,7 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     subtitles="fr/voice.fr.vtt|fr|default"
     subtitles-ad="fr/voice_ad.fr.vtt|fr|default"
     descriptions=""
-    descriptions-ad="en/voice_ad_desc.en.vtt|en, fr/voice_ad_desc.fr.vtt|fr|default"
+    descriptions-ad="en/voice_ad_desc.en.vtt|en,fr/voice_ad_desc.fr.vtt|fr|default"
 %}
 
 Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.

@@ -1,23 +1,34 @@
 ---
-title: "L'accessibilité Web illustrée : explorer l'impact et les avantages pour tous"
-nav_title: "Vue d'ensemble : vidéos d'illustration"
-permalink: /perspective-videos/fr
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
+title: "L'accessibilité Web illustrée : explorer l'impact et les avantages pour tous"
+title_html: "L'accessibilité Web illustrée :<br>explorer l'impact et les avantages pour tous"
+nav_title: "Vue d'ensemble : vidéos d'illustration"
 lang: fr
 last_updated: 2020-12-31
+order: 0
+
 translators:
 - name: "Sofia Ahmed"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 
+permalink: /perspective-videos/fr # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/ # Do not change this
-order: 0
-description: Courtes vidéos sur les effets de l'accessibilité Web pour les personnes en situation de handicap, et les avantages pour tous dans diverses situations.
-image: /perspective-videos/img/overview.jpg
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 changelog: /perspective-videos/changelog/ # Do not change this
 
+description: Courtes vidéos sur les effets de l'accessibilité Web pour les personnes en situation de handicap, et les avantages pour tous dans diverses situations.
+image: /perspective-videos/img/overview.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change CHANGELOG and ACKNOWLEDGEMENTS
+# Translate the other words below.
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 15 septembre 2016. CHANGELOG.<br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 15 septembre 2016. CHANGELOG.<br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.

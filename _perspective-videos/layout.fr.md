@@ -1,17 +1,32 @@
 ---
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
+title: "Une mise en page et une conception claires"
+nav_title: "Une mise en page et une conception claires"
 lang: fr
-permalink: /perspective-videos/layout/fr
-translators:
-- name: "Sofia Ahmed"
-contributors:
-- name: "Sandra Velarde Gonzalez (ETNIC)"
-ref: /perspective-videos/layout/
-title: Une mise en page et une conception claires
+last_updated: 2020-12-31
 order: 3
+
+translators:
+    - name: "Sofia Ahmed"
+contributors:
+    - name: "Sandra Velarde Gonzalez (ETNIC)"
+
+permalink: /perspective-videos/layout/fr    # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/layout/    # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
 description: Courte vidéo à propos d'une mise en page et d'une conception claires pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/layout.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below.
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
 ---
 
 
