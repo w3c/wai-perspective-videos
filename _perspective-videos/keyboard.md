@@ -22,10 +22,13 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="93UgG72os8M"
     yt-id-ad="1rBwxGMT9ZM"
-    captions="/perspective-videos/cc/keyboard-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/keyboard_ad-en.vtt|en|Captions"
+    path="/perspective-videos/cc/"
+    captions="en/keyboard.en.vtt|en|default"
+    captions-ad="en/keyboard_ad.en.vtt|en|default"
+    subtitles="fr/keyboard.fr.vtt|fr"
+    subtitles-ad="fr/keyboard_ad.fr.vtt|fr"
     descriptions=""
-    descriptions-ad="/perspective-videos/cc/keyboard_ad_desc-en.vtt|en|Descriptions"
+    descriptions-ad="en/keyboard_ad_desc.en.vtt|en|default,fr/keyboard_ad_desc.fr.vtt|fr"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

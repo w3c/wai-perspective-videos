@@ -41,10 +41,13 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="Hui87z2Vx8o"
     yt-id-ad="a9kNUv6N8Rk"
-    captions="/perspective-videos/cc/contrast-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/contrast_ad-en.vtt|en|Captions"
+    path="/perspective-videos/cc/"
+    captions="en/contrast.en.vtt|en|default"
+    captions-ad="en/contrast_ad.en.vtt|en|default"
+    subtitles="fr/contrast.fr.vtt|fr"
+    subtitles-ad="fr/contrast_ad.fr.vtt|fr"
     descriptions=""
-    descriptions-ad="/perspective-videos/cc/contrast_ad_desc-en.vtt|en|Descriptions"
+    descriptions-ad="en/contrast_ad_desc.en.vtt|en|default,fr/contrast_ad_desc.fr.vtt|fr"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

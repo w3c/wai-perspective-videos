@@ -20,10 +20,13 @@ everyone in a variety of situations.
 {% include video-player.html
     yt-id="BYRxF2yInfA"
     yt-id-ad="MNlT1Qy3pvQ"
-    captions="/perspective-videos/cc/understandable-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/understandable_ad-en.vtt|en|Captions"
+    path="/perspective-videos/cc/"
+    captions="en/understandable.en.vtt|en|default"
+    captions-ad="en/understandable_ad.en.vtt|en|default"
+    subtitles="fr/understandable.fr.vtt|fr"
+    subtitles-ad="fr/understandable.fr.vtt|fr"
     descriptions=""
-    descriptions-ad="/perspective-videos/cc/understandable_ad_desc-en.vtt|en|Descriptions"
+    descriptions-ad="en/understandable_ad_desc.en.vtt|en|default,fr/understandable_ad_desc.fr.vtt|fr"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

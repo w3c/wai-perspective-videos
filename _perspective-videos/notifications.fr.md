@@ -22,10 +22,13 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 {% include video-player.html
     yt-id="E1fEv4Vpexg"
     yt-id-ad="jtteu0ilDXk"
-    captions="/perspective-videos/cc/notifications-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/notifications_ad-en.vtt|en|Captions"
+    path="/perspective-videos/cc/"
+    captions="en/notifications.en.vtt|en"
+    captions-ad="en/notifications_ad.en.vtt|en"
+    subtitles="fr/notifications.fr.vtt|fr|default"
+    subtitles-ad="fr/notifications_ad.fr.vtt|fr|default"
     descriptions=""
-    descriptions-ad="/perspective-videos/cc/notifications_ad_desc-en.vtt|en|Descriptions"
+    descriptions-ad="en/notifications_ad_desc.en.vtt|en,fr/notifications_ad_desc.fr.vtt|fr|default"
 %}
 
 Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.

@@ -22,10 +22,13 @@ Update: The video uses "voice recognition". This page is updated to use "speech 
 {% include video-player.html
     yt-id="7RHG_XiQ0ck"
     yt-id-ad="21yWr7evHTs"
-    captions="/perspective-videos/cc/voice-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/voice_ad-en.vtt|en|Captions"
+    path="/perspective-videos/cc/"
+    captions="en/voice.en.vtt|en|default"
+    captions-ad="en/voice_ad.en.vtt|en|default"
+    subtitles="fr/voice.fr.vtt|fr"
+    subtitles-ad="fr/voice_ad.fr.vtt|fr"
     descriptions=""
-    descriptions-ad="/perspective-videos/cc/voice_ad_desc-en.vtt|en|Descriptions"
+    descriptions-ad="en/voice_ad_desc.en.vtt|en|default, fr/voice_ad_desc.fr.vtt|fr"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
