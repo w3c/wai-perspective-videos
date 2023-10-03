@@ -10,12 +10,14 @@ translators:
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 
-ref: /perspective-videos/
+ref: /perspective-videos/ # Do not change this
 order: 0
 description: Courtes vidéos sur les effets de l'accessibilité Web pour les personnes en situation de handicap, et les avantages pour tous dans diverses situations.
 image: /perspective-videos/img/overview.jpg
+changelog: /perspective-videos/changelog/ # Do not change this
+
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 15 septembre 2016. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
+  <p><strong>Statut :</strong> Mise à jour : 15 septembre 2016. CHANGELOG.<br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE)<a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
