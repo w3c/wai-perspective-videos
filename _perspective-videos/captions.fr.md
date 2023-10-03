@@ -4,7 +4,7 @@ permalink: /perspective-videos/captions/fr
 translators: 
 - name: "Sofia Ahmed"
 contributors:
-- name: "Sandra Velarde Gonzalez (ETNIC)
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/captions/
 title: Les sous-titres de vidéo
 order: 6

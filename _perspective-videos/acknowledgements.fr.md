@@ -4,7 +4,7 @@ permalink: /perspective-videos/acknowledgements/fr
 translators: 
 - name: "Sofia Ahmed"
 contributors:
-- name: "Sandra Velarde Gonzalez (ETNIC)
+- name: "Sandra Velarde Gonzalez (ETNIC)"
 ref: /perspective-videos/acknowledgements/
 title: Remerciements - L'accessibilité Web illustrée
 nosidenav: true
