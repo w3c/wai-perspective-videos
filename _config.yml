@@ -51,7 +51,7 @@ defaults:
     scope:
       path: "_perspective-videos"
     values:
-      layout: "default"
+      layout: "sidenav"
 
 plugins:
   - jekyll-seo-tag
