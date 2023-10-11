@@ -22,6 +22,8 @@ acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 description: Short video about clear layout and design for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/layout.jpg
 
+vtt: layout # Do not change this
+
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -30,6 +32,10 @@ image: /perspective-videos/img/layout.jpg
 footer: >
   <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
 ---
+
+{::nomarkdown}
+{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
+{:/}
 
 Web accessibility is essential for people with disabilities and useful
 for all. Learn about the impact of accessibility and the benefits for
@@ -42,12 +48,12 @@ everyone in a variety of situations.
     yt-id="tfkzj5VC9P8"
     yt-id-ad="w-2nFEUBELo"
     path="/perspective-videos/cc/"
-    captions="en/layout.en.vtt|en|default"
-    captions-ad="en/layout_ad.en.vtt|en|default"
-    subtitles="fr/layout.fr.vtt|fr"
-    subtitles-ad="fr/layout_ad.fr.vtt|fr"
-    descriptions=""
-    descriptions-ad="en/layout_ad_desc.en.vtt|en|default,fr/layout_ad_desc.fr.vtt|fr"
+    captions=captions
+    captions-ad=captions-ad
+    subtitles=subtitles
+    subtitles-ad=subtitles-ad
+    descriptions=descriptions
+    descriptions-ad=descriptions-ad
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

@@ -20,6 +20,8 @@ acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 description: Courte vidéo à propos des notifications et du feedback de vidéos pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/notifications.jpg
 
+vtt: notifications # Do not change this
+
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -28,6 +30,10 @@ image: /perspective-videos/img/notifications.jpg
 footer: >
   <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par l' <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
 ---
+
+{::nomarkdown}
+{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
+{:/}
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
 
@@ -38,12 +44,12 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     yt-id="E1fEv4Vpexg"
     yt-id-ad="jtteu0ilDXk"
     path="/perspective-videos/cc/"
-    captions="en/notifications.en.vtt|en"
-    captions-ad="en/notifications_ad.en.vtt|en"
-    subtitles="fr/notifications.fr.vtt|fr|default"
-    subtitles-ad="fr/notifications_ad.fr.vtt|fr|default"
-    descriptions=""
-    descriptions-ad="en/notifications_ad_desc.en.vtt|en,fr/notifications_ad_desc.fr.vtt|fr|default"
+    captions=captions
+    captions-ad=captions-ad
+    subtitles=subtitles
+    subtitles-ad=subtitles-ad
+    descriptions=descriptions
+    descriptions-ad=descriptions-ad
 %}
 
 Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.

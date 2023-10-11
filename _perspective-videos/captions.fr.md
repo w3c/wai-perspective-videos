@@ -20,6 +20,8 @@ acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 description: Courte vidéo à propos des sous-titres de vidéos pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/captions.jpg
 
+vtt: captions # Do not change this
+
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -31,6 +33,10 @@ footer: >
   <p>Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (822245)</p>
 ---
 
+{::nomarkdown}
+{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
+{:/}
+
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
 
 ## Vidéo sur les sous-titres de vidéo
@@ -40,12 +46,12 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     yt-id="iWO5N3n1DXU"
     yt-id-ad="4qIordU8vT8"
     path="/perspective-videos/cc/"
-    captions="en/captions.en.vtt|en|Captions"
-    captions-ad="en/captions_ad.en.vtt|en|Captions"
-    subtitles="fr/captions.fr.vtt|fr|default"
-    subtitles-ad="fr/captions_ad.fr.vtt|fr|default"
-    descriptions=""
-    descriptions-ad="en/captions_ad_desc.en.vtt|Descriptions|en,fr/captions_ad_desc.fr.vtt|fr|Descriptions|default"
+    captions=captions
+    captions-ad=captions-ad
+    subtitles=subtitles
+    subtitles-ad=subtitles-ad
+    descriptions=descriptions
+    descriptions-ad=descriptions-ad
 %}
 
 Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.

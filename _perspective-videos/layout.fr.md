@@ -20,6 +20,8 @@ acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 description: Courte vidéo à propos d'une mise en page et d'une conception claires pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/layout.jpg
 
+vtt: layout # Do not change this
+
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -28,6 +30,10 @@ image: /perspective-videos/img/layout.jpg
 footer: >
   <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
 ---
+
+{::nomarkdown}
+{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
+{:/}
 
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -39,12 +45,12 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     yt-id="tfkzj5VC9P8"
     yt-id-ad="w-2nFEUBELo"
     path="/perspective-videos/cc/"
-    captions="en/layout.en.vtt|en"
-    captions-ad="en/layout_ad.en.vtt|en"
-    subtitles="fr/layout.fr.vtt|fr|default"
-    subtitles-ad="fr/layout_ad.fr.vtt|fr|default"
-    descriptions=""
-    descriptions-ad="en/layout_ad_desc.en.vtt|en,fr/layout_ad_desc.fr.vtt|fr|default"
+    captions=captions
+    captions-ad=captions-ad
+    subtitles=subtitles
+    subtitles-ad=subtitles-ad
+    descriptions=descriptions
+    descriptions-ad=descriptions-ad
 %}
 
 Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.

@@ -21,6 +21,8 @@ description: Courte vidéo à propos de la compatibilité du clavier pour l'acce
 image: /perspective-videos/img/keyboard.jpg
 teaser_text: Toutes les fonctionnalités doivent être faciles d'utilisation au clavier. Cela signifie que les utilisateurs doivent pouvoir accéder aux liens, aux boutons, aux formulaires, et aux autres commandes en utilisant la touche Tab et les autres touches. Les sites Web ne devraient pas nécessiter de souris. L'accessibilité Web est essentielle pour les personnes atteintes de handicaps et avantageuse pour tous dans diverses situations.
 
+vtt: keyboard # Do not change this
+
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -29,6 +31,10 @@ teaser_text: Toutes les fonctionnalités doivent être faciles d'utilisation au 
 footer: >
   <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE). ACKNOWLEDGEMENTS.</p>
 ---
+
+{::nomarkdown}
+{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
+{:/}
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
 
@@ -39,12 +45,12 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     yt-id="93UgG72os8M"
     yt-id-ad="1rBwxGMT9ZM"
     path="/perspective-videos/cc/"
-    captions="en/keyboard.en.vtt|en"
-    captions-ad="en/keyboard_ad.en.vtt|en"
-    subtitles="fr/keyboard.fr.vtt|fr|default"
-    subtitles-ad="fr/keyboard_ad.fr.vtt|fr|default"
-    descriptions=""
-    descriptions-ad="en/keyboard_ad_desc.en.vtt|en,fr/keyboard_ad_desc.fr.vtt|fr|default"
+    captions=captions
+    captions-ad=captions-ad
+    subtitles=subtitles
+    subtitles-ad=subtitles-ad
+    descriptions=descriptions
+    descriptions-ad=descriptions-ad
 %}
 
 Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
