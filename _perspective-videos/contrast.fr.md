@@ -27,7 +27,7 @@ vtt: contrast # Do not change this
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-    <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> ACKNOWLEDGEMENTS.</p>
+    <p><strong>Statut :</strong> Mise à jour : 29 novembre 2021. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne. Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}
@@ -56,13 +56,13 @@ Les informations relatives à cette vidéo sont disponibles sous forme de [Trans
 ## Que signifie des "couleurs bien contrastées" ?
 {:#what}
 
-Les couleurs du texte et du fond doivent être suffisamment contrastées (appelé techniquement le <em>rapport de contraste</em>). Cela inclut le texte sur les images, les icônes, et les boutons. Les couleurs utilisées pour communiquer des informations sur les diagrammes, les graphiques, et d'autres types d'images doivent également être perceptibles.
+Les couleurs doivent avoir un contraste suffisant (appelé techniquement le <em>rapport de contraste de luminance</em>)., par exemple entre la couleur du texte et la couleur d'arrière-plan. Cela inclut le texte sur les images, les icônes, et les boutons. Les couleurs utilisées pour communiquer des informations sur les diagrammes, les graphiques, et d'autres types d'images doivent également être perceptibles.
 
 ## Qui en bénéficie ?
 {:#who}
 
--   Les personnes dont la sensibilité au contraste est réduite, ce qui est plus courant chez les personnes âgées.
--   Les personnes souffrant de daltonisme qui ne peuvent pas différencier certaines couleurs.
+-   Les personnes dont la sensibilité au contraste est réduite, ce qui est courant chez les personnes âgées.
+-   Les personnes qui ne peuvent pas distinguer certaines couleurs (souvent appellée « daltonisme »).
 
 ## Quels sont les autres avantages ?
 {:#others}
@@ -73,7 +73,7 @@ Les couleurs du texte et du fond doivent être suffisamment contrastées (appel�
 ## Comment mettre cela en pratique ?
 {:#action}
 
-Choisissez des couleurs de texte et de fond dont le contraste est suffisant. Il existe des outils permettant de vérifier et de sélectionner les combinaisons de couleurs adéquates. Cela est effectué idéalement lors de la création du design et du choix des palettes de couleurs. Si certaines personnes ont besoin d'un contraste élevé, d'autres sont sensibles à la luminosité et ont besoin de [modifier les couleurs](perspective-videos/customizable/).
+Choisissez des couleurs de texte et de fond dont le contraste est suffisant. Il existe des outils permettant de vérifier et de sélectionner les combinaisons de couleurs adéquates. Cela est effectué idéalement lors de la création du design et du choix des palettes de couleurs. Si certaines personnes ont besoin d'un contraste élevé, d'autres sont sensibles à la luminosité et ont besoin de [modifier les couleurs](/perspective-videos/customizable/).
 
 ## Plus d'informations
 {:#resources}
@@ -85,8 +85,8 @@ Choisissez des couleurs de texte et de fond dont le contraste est suffisant. Il 
 -   **Vérification facile :**
     -   [Rapport de contraste ("contraste des couleurs")](/test-evaluate/preliminary/#contrast) 
 -   **Témoignages d'utilisateurs :**
-    -   [Lee, client de site Web marchand, daltonien](/people-use-web/user-stories/#shopper)
-    -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
+    -   [M. Lee, client de site Web marchand qui ne peut pas distinguer certaines couleurs (daltonisme)](/people-use-web/user-stories/#shopper)
+    -   [M. Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
 -   **Besoins des utilisateurs :**
     -   [Critères d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) 
 -   **Régles pour l'acessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 

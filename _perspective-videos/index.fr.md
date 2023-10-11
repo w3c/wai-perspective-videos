@@ -19,7 +19,7 @@ ref: /perspective-videos/ # Do not change this
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 changelog: /perspective-videos/changelog/ # Do not change this
 
-description: Courtes vidéos sur les effets de l'accessibilité Web pour les personnes en situation de handicap, et les avantages pour tous dans diverses situations.
+description: Courtes vidéos montrant en quoi l'accessibilité Web est essentielle pour les personnes en situation de handicap et utile pour tous dans diverses situations.
 image: /perspective-videos/img/overview.jpg
 
 # In the footer below:
@@ -28,7 +28,7 @@ image: /perspective-videos/img/overview.jpg
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 15 septembre 2016. CHANGELOG.<br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 5 juin 2023. CHANGELOG.<br><strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
@@ -47,8 +47,7 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 -   [![](img/thumbnails/notifications.jpg)<br>Les notifications et les feedbacks]({{ "/perspective-videos/notifications/" | relative_url }})
 {:.two.columns.linklist}
 
-**Pour les présentations :** [compilation des 10 vidéos (7 min 36 s
-) {% include icon.html name="external-link" label="Lien externe" %}](https://www.youtube.com/watch?v=3f31oufqFSM) 
+**Compilation des 10 videos (7&nbsp;min&nbsp;36)&nbsp;: [compilation sur YouTube {% include icon.html name="external-link" label="Lien externe" %}](https://www.youtube.com/watch?v=3f31oufqFSM)**, [compilation sur le serveur de W3C (format du fichier&nbsp;: MP4, taille du fichier&nbsp;: 73Mo) {% include icon.html name="external-link" label="Lien externe" %}](https://media.w3.org/wai/perspective-videos/compilation.mp4), [fichier des sous-titres (SRT) {% include icon.html name="external-link" label="Lien externe" %}](https://media.w3.org/wai/perspective-videos/compilation.srt)
 
 ## Plus d'informations sur l'accessibilité Web
 
