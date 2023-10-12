@@ -2,14 +2,15 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "La synthèse vocale"
-nav_title: "La synthèse vocale"
+title: "Synthèse vocale"
+nav_title: "Synthèse vocale"
 lang: fr
-last_updated: 2020-12-31
+last_updated: 2023-10-12
 order: 4
 
 translators: 
 - name: "Sofia Ahmed"
+- name: "Rémi Bétin"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 
@@ -35,7 +36,7 @@ footer: >
 {% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
 {:/}
 
-L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
+L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les bénéfices pour tous dans diverses situations.
 
 ## Vidéo sur la synthèse vocale
 {:#film.no-display}
@@ -52,30 +53,30 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     descriptions-ad=descriptions-ad
 %}
 
-Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
+Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
 Qu'est-ce que la "synthèse vocale" ? {#what}
 -------------------------
 
-De nombreux ordinateurs et appareils mobiles possèdent un logiciel de synthèse vocale intégré. Certaines personnes atteintes de handicaps, y compris les personnes aveugles, utilisent des logiciels spécialisés appelés lecteurs d'écran. Les lecteurs d'écran fournissent des fonctionnalités importantes telles que la navigation au sein des rubriques, des alternatives vocales pour les images, et l'identification des liens internes et externes. Ils peuvent également mettre le texte en subrillance au fur et à mesure de la lecture vocale pour les personnes qui souhaitent voir et entendre le contenu en même temps. Le contenu doit être codé correctement pour que toutes les fonctionnalités du logiciel de synthèse vocale puissent fonctionner avec le contenu en question.
+De nombreux ordinateurs et appareils mobiles intègrent aujourd'hui un logiciel de conversion du texte en parole. Certaines personnes en situation de handicap, notamment les personnes aveugles, utilisent des logiciels spécialisés appelés lecteurs d'écran. Les lecteurs d'écran fournissent des fonctionnalités importantes telles que naviguer à travers les en-têtes, prononcer les équivalents textuels des images, et identifier les liens internes et externes. Ils peuvent également mettre le texte en subrillance au fur et à mesure de la lecture à haute voix du texte, pour les personnes qui souhaitent voir et entendre le contenu en même temps. Le contenu doit être codé correctement pour que toutes les fonctionnalités du logiciel de conversion de texte en parole fonctionnent pour le contenu en question.
 
 Qui en bénéficie ? {#who}
 ----------------------------
 
--   Les personnes aveugles et qui ne peuvent pas voir l'écran.
--   Les personnes malvoyantes (souvent légalement aveugles) et qui ne peuvent pas voir certains types de contenus.
--   Les personnes souffrant de dyslexie et d'autres troubles cognitifs et d'apprentissage qui ont besoin d'entendre et de voir le texte pour mieux le comprendre.
+-   Les personnes aveugles qui ne peuvent pas voir ce qui est affiché à l'écran.
+-   Les personnes malvoyantes (souvent considérées comme légalement aveugles) qui ne peuvent pas voir certains types de contenus.
+-   Les personnes dyslexiques et les personnes avec d'autres troubles cognitifs et d'apprentissage qui ont besoin d'entendre et de voir le texte pour mieux le comprendre.
 
-Quels sont les autres avantages ? {#others}
+Quels sont les autres bénéfices ? {#others}
 ---------------------------------
 
--   Le contenu peut être lu à voix haute pour les personnes qui ne peuvent pas voir le langage écrit.
--   Le contenu peut être lu à voix haute pour les personnes qui préfèrent écouter, par exemple, en faisant autre chose.
+-   Le contenu peut être lu à voix haute pour les personnes qui ne peuvent pas lire le langage écrit.
+-   Le contenu peut être lu à voix haute pour les personnes qui préfèrent écouter&nbsp;; par exemple, en faisant autre chose.
 
 Comment mettre cela en pratique ? {#action}
 --------------------------------------
 
-Utilisez le balisage HTML sémantique pour les structures telles que les headings, les paragraphes, les listes, les formulaires, et les tableaux. Fournissez des alternatives textuelles pour les images, les icônes, et d'autres contenus non textuels. Assurez-vous de la [Compatibilité du clavier](/perspective-videos/keyboard/), et assurez-vous que l'information du texte est compréhensible sans le contexte visuel.
+Utilisez du balisage HTML sémantique pour les éléments de structure telles que les en-têtes, les paragraphes, les listes, les formulaires et les tableaux. Fournissez des équivalents textuels pour les images, les icônes, et les autres contenus non textuels. Assurez-vous de la [compatibilité avec le clavier](/perspective-videos/keyboard/), et assurez-vous que l'information textuelle est compréhensible sans le contexte visuel.
 
 Plus d'informations {#resources}
 ----------
@@ -84,28 +85,28 @@ Plus d'informations {#resources}
     -   [Équivalents textuels pour les contenus non textuels](/fundamentals/accessibility-principles/#alternatives)
     -   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#adaptable)
 -   **Pour démarrer :**
-    -   [Ecrire des équivalents textuels significatifs pour les images](/tips/writing/#write-meaningful-text-alternatives-for-images) 
-    -   [Utiliser des en-têtes pour donner du sens et structurer](/tips/writing/#use-headings-to-convey-meaning-and-structure) 
-    -   [Identifier la langue des pages et les changements de langue](/tips/developing/#identify-page-language-and-language-changes) 
--   **Vérification facile :**
+    -   [Rédigez des équivalents textuels pertinents pour les images](/tips/writing/#write-meaningful-text-alternatives-for-images) 
+    -   [Utilisez des en-têtes pour donner du sens et de la structure](/tips/writing/#use-headings-to-convey-meaning-and-structure) 
+    -   [Identifiez la langue de la page et les changements de langue](/tips/developing/#identify-page-language-and-language-changes) 
+-   **Vérifications faciles :**
     -   [Équivalents textuels pour les images ("alt
         text")](/test-evaluate/preliminary/#images) 
     -   [Vérification de la structure de base](/test-evaluate/preliminary/#structure) 
 -   **Témoignages d'utilisateurs :**
     -   [Ilya, cadre supérieure, aveugle](/people-use-web/user-stories/#accountant)
     -   [Kasseem, adolescente sourde et aveugle](/people-use-web/user-stories/#teenager)
-    -   [Preety, collégienne atteinte d'un trouble du déficit de l'attention avec hyepractivité et dyslexie](/people-use-web/user-stories/#classroomstudent)
--   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
-    -   [Critères de réussite liés aux "images" et à la "structure"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
--   **Règles pour appareils mobiles :**
+    -   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyepractivité et dyslexique](/people-use-web/user-stories/#classroomstudent)
+-   **Règles pour l'accessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
+    -   [Critères de succès liés aux "images" et à la "structure"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
+-   **Applicabilité aux appareils mobiles :**
     -   [Objets non textuels (images, son, vidéo) sans équivalents textuels](/standards-guidelines/shared-experiences/#non-text) 
     -   [Information transmise en utilisant seulement du CSS (formatage visuel)](/standards-guidelines/shared-experiences/#visual-formatting) 
     -   [Étiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label) 
 -   **Tutoriel:**
-    -   [Tutoriels sur l'accessibilité](https://www.w3.org/WAI/tutorials/) 
-        (plusieurs sujets relatifs)
+    -   [Tutoriels sur l'accessibilité](/tutorials/) 
+        (plusieurs sujets à ce propos)
 
-## Transcription avec description visuelle {#transcript}
+## Transcription avec description des visuels {#transcript}
 
 <table>
   <thead>
@@ -118,23 +119,23 @@ Plus d'informations {#resources}
     <tr>
       <td>L'accessibilité Web illustrée : la synthèse vocale</td>
       <td>L'accessibilité Web illustrée :<br>
-        La synthèse vocale</td>
+        la synthèse vocale</td>
     </tr>
     <tr>
-      <td>(L'ordinateur) &quot;Certaines personnes ne peuvent pas voir le texte sur cet écran.&quot;<br>
-(L'ordinateur)                     &quot;Heureusement, les ordinateurs peuvent convertir le texte en écrit en langage oral.&quot;</td>
-      <td>Un homme utilise un ordinateur portable dont l'écran montre un texte mis en surbrillance à mesure qu'il est dicté.</td>
+      <td>(Ordinateur) «&nbsp;Certaines personnes ne peuvent pas voir le texte sur cet écran.&nbsp;»<br>
+(Ordinateur) «&nbsp;Heureusement, les ordinateurs peuvent convertir du texte en parole.&nbsp;»</td>
+      <td>Un homme utilise un ordinateur portable dont l'écran montre un texte mis en surbrillance à mesure qu'il est prononcé.</td>
     </tr>
     <tr>
       <td>C'est une technologie dont dépendent de nombreuses personnes aveugles depuis des années.</td>
       <td>Un chien-guide est couché aux pieds de l'homme. Il pourrait s'agir d'une personne aveugle.</td>
     </tr>
     <tr>
-      <td>Mais c'est également important pour de nombreuses personnes souffrant de dyslexie.</td>
-      <td>Une jeune femme lit quelque chose sur une tablette et écoute avec un casque.</td>
+      <td>Mais c'est également important pour de nombreuses personnes dyslexiques.</td>
+      <td>Une femme lit sur une tablette et écoute avec un casque.</td>
     </tr>
     <tr>
-      <td>Et cela est très utile pour des personnes éprouvant des difficultés à lire un texte.</td>
+      <td>Et cela est très utile pour des personnes qui ont des difficultés à lire un texte.</td>
       <td>Un homme enlève ses lunettes et écoute un article d'actualité sur sa tablette.</td>
     </tr>
     <tr>
@@ -142,23 +143,23 @@ Plus d'informations {#resources}
       <td>Un homme écoute un article de revue en faisant la vaisselle.</td>
     </tr>
     <tr>
-      <td>Mais pour que cela fonctionne, les sites et les applications Web doivent être codés correctement.</td>
-      <td>Le site Web ne fonctionne pas correctement pour la jeune femme avec le casque. Elle est frustrée.</td>
+      <td>Mais pour que cela fonctionne, les sites Web et les applications doivent être codés correctement.</td>
+      <td>Le site Web de la femme portant un casque ne fonctionne pas correctement. Elle est frustrée.</td>
     </tr>
     <tr>
-      <td>Ce qui a pour avantage supplémentaire d'aider à mieux indexer les contenus de sites Web dans les moteurs de recherche.</td>
+      <td>Ce qui a pour bénéfice supplémentaire d'aider les moteurs de recherche à mieux indexer les contenus des sites Web.</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
       <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
-      <td>L'homme avec le chien-guide utilise son appareil mobile dehors avec un casque à conduction osseuse. La vidéo montre les différentes personnes intervenues plus tôt utiliser la synthèse vocale.</td>
+      <td>L'homme avec le chien-guide utilise son appareil mobile dehors avec un casque à conduction osseuse. La vidéo montre les personnes précédentes utiliser la synthèse vocale.</td>
     </tr>
     <tr>
-      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur la synthèse vocale.</td>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations concernant la <em>Synthèse vocale</em>.</td>
       <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
-        La synthèse vocale. <br>
+        la <em>Synthèse vocale</em>. <br>
         Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
