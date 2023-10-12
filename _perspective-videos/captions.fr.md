@@ -3,13 +3,14 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: "Les sous-titres de vidéo"
-nav_title: "Sous-titres vidéos"
+nav_title: "Sous-titres de vidéo"
 lang: fr
-last_updated: 2020-12-30    # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2023-10-12    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 6
 
 translators: 
 - name: "Sofia Ahmed"
+- name: "Rémi Bétin"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 
@@ -37,7 +38,7 @@ footer: >
 {% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
 {:/}
 
-L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
+L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les bénéfices pour tous dans diverses situations.
 
 ## Vidéo sur les sous-titres de vidéo
 {:#film.no-display}
@@ -54,56 +55,51 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     descriptions-ad=descriptions-ad
 %}
 
-Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
+Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Qu'est-ce qu'un "sous-titre de vidéo" ? {#what}
+Qu'est-ce que des "sous-titres de vidéo" ? {#what}
 -------------------------
 
-Les sous-titres constituent l'information audio d'une vidéo ou d'animations sous forme de texte.
-Cela inclut les mots prononcés, qui parle lorsque ce n'est pas clair, et les sons importants tels que la musique, le rire, et les bruits. Les sous-titres doivent être synchronisés avec le contenu visuel pour les contextualiser.
+Les sous-titres sont une version texte des informations audio d'une vidéo ou animation.
+Cela inclut les mots prononcés, l'identification de qui parle lorsque ce n'est pas clair, et les sons importants comme la musique, les rires et les bruits. Les sous-titres doivent être synchronisés avec le contenu visuel pour les contextualiser.
 
 Qui en bénéfice ? {#who}
 ----------------------------
 
--   Les personnes sourdes ou qui ne peuvent pas entendre le son.
--   Les personnes malentendantes et qui ne peuvent pas entendre certaines parties du contenu.
--   Les personnes atteintes de troubles cognitifs ou d'apprentissage qui ont besoin de voir et d'entendre le contenu pour mieux le comprendre.
+-   Les personnes sourdes qui ne peuvent pas entendre l'audio.
+-   Les personnes malentendantes qui ne peuvent pas entendre certaines parties du contenu.
+-   Les personnes avec des troubles cognitifs et d'apprentissage qui ont besoin de voir et d'entendre le contenu pour mieux le comprendre.
 
-Quels sont les autres avantages ? {#others}
+Quels sont les autres bénéfices ? {#others}
 ---------------------------------
 
--   Le contenu peut être utilisé dans des environnements bruyants où il n'est pas possible d'entendre le son.
+-   Le contenu peut être utilisé dans des environnements bruyants où il n'est pas possible d'entendre l'audio.
 -   Le contenu peut être utilisé dans des environnements calmes où il n'est pas possible de mettre le son.
--   Le contenu peut être mieux compris par des personnes qui, à la fois, écoutent et regardent l'information, par exemple, des personnes qui maîtrisent moins la langue parlée.
--   Le contenu peut être lu plutôt que visionné, ce qui est plus simple et plus rapide pour certains.
--   Le contenu sous forme de texte, tel que les sous-titres et les transcriptions, peut être mieux référencé par les moteurs de recherche.
--   Le contenu peut être utilisé sans nécessiter de téléchargement des fichiers vidéo, par exemple, pour économiser des données mobiles.
+-   Le contenu peut être mieux compris par des personnes qui, à la fois, écoutent et regardent l'information&nbsp;; par exemple, des personnes qui maîtrisent moins la langue parlée.
+-   Le contenu peut être lu plutôt que visionné, ce qui est plus simple et plus rapide pour certaines perosnnes.
+-   Le contenu sous forme de texte, tel que les sous-titres et les transcriptions, peut être mieux indexé par les moteurs de recherche.
+-   Le contenu peut être utilisé sans nécessité de télécharger des fichiers vidéo&nbsp;; par exemple, pour économiser des données mobiles.
 
 Comment mettre cela en pratique ? {#action}
 --------------------------------------
 
-Les sous-titres doivent être disponibles à la fois pour les vidéos pré-enregistrées, et pour les vidéos en direct. Un logiciel de reconnaissance vocale peut aider à créer des sous-titres pour certains types de vidéos. Parfois, de tels logiciels sont intégrés dans l'ordinateur ou dans une plateforme de réseau social. Les sous-titres générés automatiquement nécessitent parfois une post-édition. Pour de nombreuses langues, il existe des aides au sous-titrage, et souvent aussi des aides à distance.  
+Les sous-titres doivent être disponibles à la fois pour les vidéos pré-enregistrées, et pour les vidéos en direct. Un logiciel de reconnaissance vocale peut aider à créer des sous-titres pour certains types de vidéos. Parfois, de tels logiciels de reconnaissance vocale sont intégrés à l'ordinateur ou au réseau social. Les sous-titres générés automatiquement nécessitent souvent une post-édition. Pour de nombreuses langues, il existe des services de sous-titrage, qui peuvent souvent être réalisés à distance.
 
 Plus d'informations {#resources}
 ----------
 
---   **Principe d'accessibilité :**
-    -   [La fonctionnalité est disponible au clavier](/fundamentals/accessibility-principles/#keyboard) 
+-   **Principes d'accessibilité :**
+    -   [Sous-titres et autres alternatives pour le multimédia](/fundamentals/accessibility-principles/#captions)
 -   **Pour démarrer :**
-    -   [S'assurer que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+    -   [Créez des transcriptions et des sous-titres pour les contenus multimédias](/tips/writing/#create-transcripts-and-captions-for-multimedia)
 -   **Vérification simple :**
-    -   [Accès au clavier et attention apportée au visuel](/test-evaluate/preliminary/#interaction) 
--   **Témoignages d'utilisateurs :**
-    -   [Alex, journaliste atteint d'un traumatisme lié au stress répétitif](/people-use-web/user-stories/#reporter)
-    -   [Ilya, cadre supérieure et aveugle](/people-use-web/user-stories/#accountant)
-    -   [Kaseem, adolescente aveugle et sourde](/people-use-web/user-stories/#teenager)
--   **Règles pour l'accessibilité des contenus Web([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 
-    -   [Critères de réussite liés au "clavier"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard) 
--   **Règles pour appareils mobiles :**
-    -   [Souris requise pour l'interaction et la navigation](/standards-guidelines/shared-experiences/#mouse) 
--   **Tutoriel :**
-    -   [Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/) 
-        (plusieurs sujets relatifs)
+    -   [Équivalents des contenus multimedia (vidéo, audio)](/test-evaluate/preliminary/#media)
+-   **Témoignage d'utilisateur :**
+    -   [Martine, online student who is hard of hearing](/people-use-web/user-stories/#onlinestudent)
+-   **Règles pour l'accessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :**
+    -   [Critères de succès relatifs aux "sous-titres"](https://www.w3.org/WAI/WCAG21/quickref/?tags=captions)
+-   **Applicabilité mobile :**
+    -   [Contenu multimédia sans sous-titres](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
 
 ## Transcription avec audiodescription {#transcript}
 
@@ -116,43 +112,43 @@ Plus d'informations {#resources}
   </thead>
   <tbody>
     <tr>
-      <td>L'accessibilité Web illustrée : les sous-titres de vidéo</td>
-      <td>L'accessibilité Web illustrée : les sous-titres de vidéo</td>
+      <td>L'accessibilité Web illustrée : Sous-titres de vidéo</td>
+      <td>L'accessibilité Web illustrée : Sous-titres de vidéo</td>
     </tr>
     <tr>
-      <td>Une vidéo ne se résume pas à des images, elle contient aussi du son. Sans le son, nous devrions deviner le contenu de cette vidéo.</td>
+      <td>Une vidéo ne se résume pas à des images, le son est également impliqué. Sans l'audio, vous devriez deviner de quoi parle cette vidéo.</td>
       <td>Un homme assis à son bureau commence à regarder une vidéo sur son ordinateur.<br></td>
     </tr>
     <tr>
-      <td>[pas de son]</td>
-      <td>La vidéo sur son ordinateur montre une personne qui parle à la caméra. Il n'y a pas de son.</td>
+      <td>[aucun son]</td>
+      <td>La vidéo sur son ordinateur montre une personne qui parle à la caméra. Il n'y a pas d'audio.</td>
     </tr>
     <tr>
-      <td>Frustrant, n'est-ce pas ? De ne pas savoir ce qu'il se passe. C'est la situation à laquelle toute personne qui n'entend pas est confrontée.</td>
+      <td>Frustrant, n'est-ce pas ? De ne pas savoir ce qu'il se passe. C'est la situation que vivent toutes les personnes qui n'entendent pas.</td>
       <td>L'homme qui regarde la vidéo a un appareil auditif.</td>
     </tr>
     <tr>
       <td>Les sous-titres rendent les vidéos accessibles.</td>
-      <td>Il ouvre les sous-titres de la vidéo.</td>
+      <td>Il active les sous-titres de la vidéo.</td>
     </tr>
     <tr>
       <td>C'est aussi pratique pour les personnes qui veulent regarder des vidéos dans un environnement bruyant.</td>
       <td>Un autre homme regarde une vidéo sous-titrée avec un groupe de personnes en pleine discussion à côté de lui.</td>
     </tr>
     <tr>
-      <td>Ou là où vous devez rester très, très calme.</td>
+      <td>Ou là où il faut rester très, très silencieux.</td>
       <td>Ils sont en fait dans une bibliothèque. La bibliothécaire fait signe au groupe de se taire.</td>
     </tr>
     <tr>
       <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
-      <td>La vidéo tourne à présent avec des sous-titres.</td>
+      <td>La vidéo est à présent montrée avec des sous-titres.</td>
     </tr>
     <tr>
-      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur les sous-titres de vidéo</td>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations concernant <em>Sous-titres de vidéo</em></td>
       <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
-        pour plus d'information sur<br>
-        Les sous-titres de vidéo. <br>
+        pour plus d'information concernant<br>
+        <em>Sous-titres de vidéo</em>. <br>
         Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
