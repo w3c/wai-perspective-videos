@@ -56,7 +56,7 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-## Qu'est-ce que la «&nbsp;compatibilité avec le clavier&nbsp;» ?
+## Que signifie la «&nbsp;compatibilité avec le clavier&nbsp;» ?
 {:#what}
 
 Toutes les fonctionnalités doivent être accessibles au clavier. L'utilisateur doit donc pouvoir accéder et naviguer entre les liens, les boutons, les formulaires, et les autres composants d'interface en utilisant la touche de tabulation et les autres touches. Les sites Web ne devraient pas nécessiter l'utilisation d'une souris&nbsp;; par exemple, les calendriers devraient aussi permettre aux utilisateurs de saisir une date.
@@ -144,11 +144,11 @@ Les composants d'interface HTML natifs, comme les liens, les boutons, et les él
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur la compatibilité avec le clavier</td>
+      <td>Visitez w3.org/WAI/perspectives pour plus d'informations concernant <em>Compatibilité avec le clavier</em></td>
       <td>Visitez<br>
         w3.org/WAI/perspectives<br>
-        pour plus d'informations sur<br>
-        la compatibilité avec le clavier.<br>
+        pour plus d'informations concernant<br>
+        <em>Compatibilité avec le clavier</em>.<br>
         Logo de l'Initiative pour l'accessibilité du Web de W3C</td>
     </tr>
   </tbody>
