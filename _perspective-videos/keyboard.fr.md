@@ -2,14 +2,15 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "La compatibilité du clavier"
-nav_title: "La compatibilité du clavier"
+title: "Compatibilité avec le clavier"
+nav_title: "Compatibilité avec le clavier"
 lang: fr
-last_updated: 2020-12-31
+last_updated: 2023-10-12
 order: 1
 
 translators:
     - name: "Sofia Ahmed"
+    - name: "Rémi Bétin"
 contributors:
     - name: "Sandra Velarde Gonzalez (ETNIC)"
 
@@ -36,9 +37,9 @@ footer: >
 {% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
 {:/}
 
-L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
+L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les bénéfices pour tous dans diverses situations.
 
-## Vidéo sur la compatibilité du clavier
+## Vidéo sur la compatibilité avec le clavier
 {:#film.no-display}
 
 {% include video-player.html
@@ -53,29 +54,29 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     descriptions-ad=descriptions-ad
 %}
 
-Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
+Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-## Qu'est-ce que la "compatibilité du clavier" ?
+## Qu'est-ce que la «&nbsp;compatibilité avec le clavier&nbsp;» ?
 {:#what}
 
-Toutes les fonctionnalités doivent être accessibles au clavier. L'utilisateur doit donc pouvoir accéder et naviguer entre les liens, les boutons, les formulaires, et les autres commandes en utilisant la touche de tabulation et les autres touches. Les sites Web ne devraient pas nécessiter de souris ; par exemple, les calendriers devraient aussi permettre aux utilisateurs d'entrer une date.  
+Toutes les fonctionnalités doivent être accessibles au clavier. L'utilisateur doit donc pouvoir accéder et naviguer entre les liens, les boutons, les formulaires, et les autres composants d'interface en utilisant la touche de tabulation et les autres touches. Les sites Web ne devraient pas nécessiter l'utilisation d'une souris&nbsp;; par exemple, les calendriers devraient aussi permettre aux utilisateurs de saisir une date.
 
-## Qui en bénéficie ?
+## Qui dépend de cette fonctionnalité ?
 {:#who}
 
 -   Les personnes porteuses de handicaps physiques qui ne peuvent pas utiliser la souris.
--   Les personnes aveugles, et qui ne peuvent pas voir le curseur sur l'écran.
--   Les personnes souffrant de maladies chroniques, telles que les traumatismes liés au stress répétitif (RSI), qui devraient limiter ou éviter l'utilisation d'une souris.
+-   Les personnes aveugles, et qui ne peuvent pas voir le curseur de la souris sur l'écran.
+-   Les personnes souffrant de maladies chroniques, telles que des troubles musculo-squelettiques (TMS), qui devraient limiter ou éviter l'utilisation d'une souris.
 
-## Quels sont les autres avantages ?
+## Quels sont les autres bénéfices ?
 {:#others}
 
--   Le contenu est utile aux personnes faisant face à des limitations temporaires, telles qu'un bras cassé ou une souris cassée.
+-   Le contenu est utilisable pour les personnes en situation de handicap temporaire, telle qu'un bras cassé ou une souris cassée.
 
 ## Comment mettre cela en pratique ?
 {:#action}
 
-Les commandes HTML natives, comme les liens, les boutons, et les éléments de formulaire, fonctionnent par défaut avec le clavier et devraient être utilisées quand c'est possible. Les commandes personnalisées, les styles CSS, et les scripts qui contrôlent l'interaction pourraient nécessiter du codage supplémentaire pour la compatibilité du clavier. Assurez-vous que l'ordre de tabulation est logique pour permettre la navigation avec le clavier au sein du contenu et des commandes. Prévoyez un moyen pour que les utilisateurs puissent passer des blocs de contenu aux commandes. Les problèmes de clavier arrivent surtout dans les formulaires, les menus, et les applications contenant de nombreuses commandes.
+Les composants d'interface HTML natifs, comme les liens, les boutons, et les éléments de formulaire, fonctionnent nativement avec le clavier et devraient être utilisés dans la mesure du possible. Les composants d'interface personnalisés, les styles CSS, et les scripts qui contrôlent l'interaction pourraient nécessiter du codage supplémentaire pour assurer leur compatibilité avec le clavier. Assurez-vous que l'ordre de tabulation soit logique pour permettre la navigation avec le clavier au sein du contenu et des composants d'interface. Fournissez un moyen aux utilisateurs de se déplacer rapidement entre les blocs de contenu et les composants d'interface. Les problèmes de clavier surviennent particulièrement dans les formulaires, les menus, et les applications contenant de nombreux composants d'interface.
 
 ## Plus d'informations
 {:#resources}
@@ -83,22 +84,22 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
 -   **Principe d'accessibilité :**
     -   [Des fonctionnalités disponibles au clavier](/fundamentals/accessibility-principles/#keyboard) 
 -   **Pour démarrer :**
-    -   [S'assurer que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible) 
+    -   [Assurez-vous que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible) 
 -   **Vérification simple :**
-    -   [Accès depuis le clavier et attention apportée au visuel](/test-evaluate/preliminary/#interaction) 
+    -   [Accès au clavier et focus visible](/test-evaluate/preliminary/#interaction) 
 -   **Témoignages d'utilisateurs :**
-    -   [Alex, journaliste atteint d'un trouble musculosquelettique](/people-use-web/user-stories/#reporter)
+    -   [Alex, journaliste avec un trouble musculosquelettique](/people-use-web/user-stories/#reporter)
     -   [Ilya, cadre supérieure, aveugle](/people-use-web/user-stories/#accountant)
-    -   [Kasseem, adolescente sourde et aveugle](/people-use-web/user-stories/#teenager)
--   **Règles pour l'accessibilité des contenus Web([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 
-    -   [Critères de réussite liés au "clavier"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard) 
--   **Règles pour appareils mobiles :**
-    -   [Souris requise pour l'interaction et la navigation](/standards-guidelines/shared-experiences/#mouse) 
+    -   [Kaseem, adolescente sourde et aveugle](/people-use-web/user-stories/#teenager)
+-   **Règles pour l'accessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 
+    -   [Critères de succès relatifs au « clavier »](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard) 
+-   **Applicabilité aux appareils mobiles :**
+    -   [La souris est requise pour l'interaction et la navigation](/standards-guidelines/shared-experiences/#mouse) 
 -   **Tutoriel :**
     -   [Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/)
-        (plusieurs sujets relatifs)
+        (plusieurs sujets à ce propos)
 
-## Transcription avec description visuelle {#transcript}
+## Transcription avec description des visuels {#transcript}
 
 <table>
   <thead>
@@ -109,16 +110,16 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
   </thead>
   <tbody>
     <tr>
-      <td>Perspectives d'accessibilité Web : la compatibilité du clavier</td>
-      <td>Perspectives d'accessibilité Web :<br>
-        La compatibilité du clavier</td>
+      <td>L'accessibilité Web illustrée : la compatibilité avec le clavier</td>
+      <td>L'accessibilité Web illustrée :<br>
+        La compatibilité avec le clavier</td>
     </tr>
     <tr>
-      <td>Il est frustrant de ne pas être capable d'utiliser votre ordinateur parce que votre souris ne fonctionne pas.</td>
+      <td>Il est frustrant de ne pas pouvoir utiliser son ordinateur parce que la souris ne fonctionne pas.</td>
       <td>Un homme fait tomber sa souris de son bureau. La souris ne fonctionne plus.</td>
     </tr>
     <tr>
-      <td>De nombreuses personnes n'utilisent le clavier que pour naviguer sur des sites Web &mdash; soit par préférence, soit en fonction des circonstances.<br></td>
+      <td>De nombreuses personnes utilisent uniquement le clavier pour naviguer sur des sites Web &mdash; soit par préférence, soit en fonction des circonstances.<br></td>
       <td>&nbsp;</td>
     </tr>
     <tr>
@@ -127,7 +128,7 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
     </tr>
     <tr>
       <td>d'un handicap physique permanent,</td>
-      <td>Un homme en fauteuil roulant utilise un bâton bucal pour taper.</td>
+      <td>Un homme en fauteuil roulant utilise une baguette buccale pour taper au clavier.</td>
     </tr>
     <tr>
       <td>ou simplement d'une souris cassée,<br>
@@ -135,20 +136,20 @@ Les commandes HTML natives, comme les liens, les boutons, et les éléments de f
       <td>L'homme en fauteuil roulant ne peut pas non plus naviguer sur le site.</td>
     </tr>
     <tr>
-      <td>Les sites et les applications Web doivent pouvoir fonctionner au clavier.</td>
-      <td>Il se rend sur un autre site qui permet d'entrer la date.</td>
+      <td>Les sites Web et applications Web doivent fonctionner au clavier.</td>
+      <td>Il se rend sur un autre site qui permet de saisir la date au clavier.</td>
     </tr>
     <tr>
       <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur la compatibilité du clavier</td>
+      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur la compatibilité avec le clavier</td>
       <td>Visitez<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
-        La compatibilité du clavier.<br>
-        Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
+        la compatibilité avec le clavier.<br>
+        Logo de l'Initiative pour l'accessibilité du Web de W3C</td>
     </tr>
   </tbody>
 </table>
