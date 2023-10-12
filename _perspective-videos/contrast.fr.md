@@ -52,9 +52,9 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     descriptions-ad=descriptions-ad
 %}
 
-Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
+Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-## Que signifie des "couleurs bien contrastées" ?
+## Que signifie des «&nbsp;couleurs bien contrastées&nbsp;» ?
 {:#what}
 
 Les couleurs utilisées doivent avoir un contraste suffisant (appelé techniquement <em>rapport de contraste de luminance</em>), par exemple entre la couleur du texte et la couleur d'arrière-plan. Cela inclut le texte sur des images, des icônes, et des boutons. Les couleurs utilisées pour communiquer des informations sur les diagrammes, les cartes, et d'autres types d'images doivent également être perceptibles.
@@ -91,7 +91,7 @@ Choisissez des couleurs de texte et d'arrière-plan qui fournissent suffisamment
 -   **Besoins des utilisateurs :**
     -   [Exigences d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) 
 -   **Régles pour l'accessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 
-    -   [Critères de réussite liés au "contraste"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast) 
+    -   [Critères de succès liés au "contraste"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast) 
 -   **Applicabilité aux appareils mobiles :**
     -   [Informations transmises seulement par la couleur](/standards-guidelines/shared-experiences/#color) 
 
@@ -140,11 +140,11 @@ Choisissez des couleurs de texte et d'arrière-plan qui fournissent suffisamment
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur l'utilisation de couleurs bien contrastées</td>
+      <td>Visitez w3.org/WAI/perspectives pour plus d'informations concernant <em>Des couleurs bien contrastées</em></td>
       <td>Visitez<br>
         w3.org/WAI/perspectives<br>
-        pour plus d'informations sur<br>
-        l'utilisation de couleurs bien contrastées. <br>
+        pour plus d'informations concernant<br>
+        <em>Des couleurs bien contrastées.</em><br>
         Logo de l'Initiative pour l'accessibilité du Web de W3C</td>
     </tr>
   </tbody>
