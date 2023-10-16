@@ -5,11 +5,12 @@
 title: "Un texte personnalisable"
 nav_title: "Un texte personnalisable"
 lang: fr
-last_updated: 2020-12-31
+last_updated: 2023-10-16
 order: 7
 
 translators: 
 - name: "Sofia Ahmed"
+- name: "Rémi Bétin"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 
@@ -35,7 +36,7 @@ footer: >
 {% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
 {:/}
 
-L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
+L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les bénéfices pour tous dans diverses situations.
 
 
 ## Vidéo sur le texte personnalisable
@@ -53,30 +54,30 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     descriptions-ad=descriptions-ad
 %}
 
-Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
+Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Qu'est-ce que le "texte personnalisable" ? {#what}
+Qu'est-ce que du "texte personnalisable" ? {#what}
 ----------------------------
 
-Certains utilisateurs ont besoin de changer l'affichage d'un texte pour pouvoir le lire. Cela inclut la taille, l'interligne, la police, la couleur, et d'autres propriétés du texte. Lorsque les utilisateurs changent ces propriétés, aucune information ou fonctionnalité ne devrait être perdue, et le texte devrait se réajuster pour éviter aux utilisateurs de devoir faire défiler le texte horizontalement pour lire les phrases. La personnalisation du texte va au-delà de la fonctionnalité de zoom, qui ne sert qu'à modifier la taille du texte.  
+Certains utilisateurs ont besoin de changer la manière dont le texte est présenté pour pouvoir le lire. Notamment la taille, l'espacement, la police de caractères, la couleur, et d'autres propriétés du texte. Lorsque les utilisateurs changent ces propriétés, aucune information ou fonctionnalité ne devrait être perdue, et le texte devrait se réajuster pour éviter aux utilisateurs de devoir faire défiler le texte horizontalement pour lire les phrases. La personnalisation du texte va au-delà de la fonctionnalité de zoom, qui ne modifie que la taille du texte.  
 
 Qui en bénéficie ? {#who}
 ----------------------------
 
 -   Les personnes malvoyantes qui n'utilisent pas d'agrandisseurs d'écran.
--   Les personnes souffrant de certaines formes de dyslexie et d'autres troubles cognitifs et d'apprentissage qui nécessitent une présentation particulière du texte pour le lire.
+-   Les personnes avec certaines formes de dyslexie et d'autres troubles troubles cognitifs et d'apprentissage qui ont besoin d'une présentation particulière du texte pour le lire.
 
-Quels sont les autres avantages ? {#others}
+Quels sont les autres bénéfices ? {#others}
 ---------------------------------
 
--   Le contenu est plus adapté aux tailles d'écrans plus grands et plus petits.
--   Le contenu est plus adapté aux préférences et au confort personnels.
--   Le contenu est plus adapté à la traduction, étant donné que la longueur des mots et des phrases varie en fonction de la langue.
+-   Le contenu est plus adaptable aux petites et aux grandes tailles d'écrans.
+-   Le contenu est plus adaptable aux préférences et au confort personnels.
+-   Le contenu est plus adaptable après traduction, étant donné que la longueur des mots et des phrases varie en fonction de la langue.
 
 Comment mette cela en pratique ? {#action}
 --------------------------------------
 
-Le contenu doit être codé et conçu correctement afin de s'adapter à différents paramètres de personnalisation. Cela inclut l'utilisation d'unités relatives plutôt que d'unités absolues pour la taille des polices, des commandes, et autres composants. Les applications devraient utiliser les paramètres de texte du système d'exploitation et du navigateur Web. Les sites et les applications Web pourraient également fournir des consignes pour aider les utilisateurs à modifier leurs paramètres. Les navigateurs Web et les autres outils Web devraient fournir à leurs utilisateurs une fonctionnalité de personnalisation de texte.
+Le contenu doit être codé et conçu correctement pour s'adapter à différents paramètres de personnalisation. Cela inclut l'utilisation d'unités relatives plutôt que d'unités absolues pour la taille des caractères, des composants d'interface, et d'autres objets. Les applications devraient utiliser les paramètres du système d'exploitation et du navigateur Web relatifs au texte. Les sites Web et les applications pourraient également fournir des consignes pour aider les utilisateurs à modifier leurs paramètres. Les navigateurs Web et les autres outils Web doivent fournir à leurs utilisateurs une fonctionnalité de personnalisation du texte.
 
 Plus d'informations {#resources}
 ----------
@@ -84,22 +85,22 @@ Plus d'informations {#resources}
 -   **Principe d'accessibilité :**
     -   [Du contenu qui peut être présenté de différentes façons](/fundamentals/accessibility-principles/#adaptable)
 -   **Pour démarrer :**
-    -   [Du code qui s'adapte à la technologie des utilisateurs](/tips/developing/#write-code-that-adapts-to-the-users-technology) 
+    -   [Créez un code qui s'adapte aux technologies des utilisateurs](/tips/developing/#write-code-that-adapts-to-the-users-technology) 
 -   **Vérification facile :**
-    -   [Modifier la taille du texte](/test-evaluate/preliminary/#resize)
+    -   [Modifiez la taille du texte](/test-evaluate/preliminary/#resize)
 -   **Témoignages d'utilisateurs :**
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
     -   [Preety, élève de collège avec un trouble du déficit de l'attention avec hyperactivité et dyslexique](/people-use-web/user-stories/#classroomstudent)
--   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :**
-    -   [Critères de réussite liés au "texte"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text) 
+-   **Règles pour l'accessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :**
+    -   [Critères de succès liés au "texte"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text) 
 -   **Règles pour l'accessibilité des agents utilisateurs ([Vue d'ensemble des UAGG](/standards-guidelines/uaag/)) :**
-    -   [Founir la configuration du texte](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/#gl-text-config) 
+    -   [Permettez le paramétrage du texte](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/#gl-text-config) 
     -   [Réajustement du texte présenté en plusieurs colonnes](https://www.w3.org/TR/UAAG20/#sc_1813) 
     -   [Linéarisation du contenu](https://www.w3.org/TR/UAAG20/#sc_1815)
 -   **Besoins utilisateurs :**
-    -   [Critères d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) 
+    -   [Exigences d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) 
     
-## Transcription avec description visuelle {#transcript}
+## Transcription avec description des visuels {#transcript}
 <table>
   <thead>
     <tr>
@@ -110,34 +111,34 @@ Plus d'informations {#resources}
   <tbody>
     <tr>
       <td>L'accessibilité Web illustrée : un texte personnalisable</td>
-      <td>L'accessibilité Web illustrée : <br>un texte personnalisable</td>
+      <td>L'accessibilité Web illustrée : <br>Un texte personnalisable</td>
     </tr>
     <tr>
-      <td>Ce qui vous convient ne convient pas forcément à d'autres.</td>
-      <td>Tranches de pain grillé avec différentes cuissons.</td>
+      <td>Ce qui vous convient ne convient pas forcément à quelqu'un d'autre.</td>
+      <td>Des tranches de pain grillé avec différentes cuissons.</td>
     </tr>
     <tr>
-      <td>La personnalisation n'est toutefois pas qu'une question de préférence. Parfois, c'est une nécessité.</td>
-      <td>Deux hommes sont assis devant un grille-pain. L'un d'eux tourne le bouton de réglage.</td>
+      <td>Toutefois, la personnalisation n'est pas qu'une question de préférence. Parfois, c'est une nécessité.</td>
+      <td>Deux hommes sont assis face à un grille-pain. L'un d'eux tourne le bouton de réglage.</td>
     </tr>
     <tr>
-      <td>Il est essentiel pour les personnes malvoyantes et dyslexiques de pouvoir ajuster le texte.</td>
-      <td>Une dame met ses lunettes pour consulter un site Web sur son ordinateur portable. Elle plisse les yeux en lisant le texte de petite taille et dont la police est inhabituelle. </td>
+      <td>Pouvoir ajuster le texte est crucial pour les personnes malvoyantes et dyslexiques.</td>
+      <td>Une femme met ses lunettes pour consulter un site Web sur son ordinateur portable. Elle plisse les yeux pour lire le texte, qui est écrit petit et avec une police d'écriture inhabituelle. </td>
     </tr>
     <tr>
-      <td>Les sites et les applications Web correctement codés rendent le texte personnalisable. Pour, par exemple, modifier sa taille, son interligne, sa police, et ses couleurs sans perdre de fonctionnalités et sans nuir à la compréhension du texte.</td>
-      <td>La dame utilise les paramètres de ses navigateurs Web pour ajuster la taille et le style du texte. Le texte devient plus lisible et la dame est soulagée.</td>
+      <td>Les sites Web et les applications correctement codés permettent au texte d'être personnalisé. Par exemple, pour modifier sa taille, son espacement, sa police de caractères et ses couleurs, sans perdre en fonctionnalités et en clarté.</td>
+      <td>La femme utilise les paramètres de son navigateur Web pour ajuster la taille et le style du texte. Le texte devient plus lisible et la femme est soulagée.</td>
     </tr>
     <tr>
       <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
       <td>Retour sur les deux hommes : l'un d'eux remet une tranche de pain grillé dans le grille-pain.</td>
     </tr>
     <tr>
-      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur le Texte personnalisable </td>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur <em>Un texte personnalisable</em> </td>
       <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
-        pour plus d'informations sur le<br>
-        Texte personnalisable.<br>
+        pour plus d'informations sur<br>
+        <em>Un texte personnalisable</em>.<br>
         Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>
