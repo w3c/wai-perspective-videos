@@ -4,8 +4,8 @@
 
 title: "Keyboard Compatibility"
 nav_title: "Keyboard Compatibility"
-lang: en
-last_updated: 2019-01-23
+lang: en    # Change "en" to the translated-language shortcode
+last_updated: 2019-01-23    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 1
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -91,9 +91,9 @@ Native HTML controls, like links, buttons, and form elements, work with the keyb
 -   **Easy Check:**
     -   [Keyboard access and visual focus](/test-evaluate/preliminary/#interaction)
 -   **User Story:**
-    -   [Mr. Jones, Reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
-    -   [Ms. Laitinen, Accountant with blindness](/people-use-web/user-stories/#accountant)
-    -   [Ms. Kaseem, Teenager with deaf-blindness](/people-use-web/user-stories/#teenager)
+    -   [Alex, reporter with repetitive stress injury](/people-use-web/user-stories/#reporter)
+    -   [Ilya, senior staff member who is blind](/people-use-web/user-stories/#accountant)
+    -   [Kaseem, teenager who is deaf and blinc](/people-use-web/user-stories/#teenager)
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to

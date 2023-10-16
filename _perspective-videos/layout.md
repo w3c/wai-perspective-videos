@@ -4,8 +4,8 @@
 
 title: "Clear Layout and Design"
 nav_title: "Clear Layout and Design"
-lang: en
-last_updated: 2019-01-23
+lang: en    # Change "en" to the translated-language shortcode
+last_updated: 2019-01-23    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 3
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -111,13 +111,13 @@ across a website.
     -   [Forms, labels, and
         errors](/test-evaluate/preliminary/#forms)
 -   **User Story:**
-    -   [Ms. Olsen, Classroom student with attention deficit
+    -   [Preety, classroom student with attention deficit
         hyperactivity disorder (ADHD) and
         dyslexia](/people-use-web/user-stories/#classroomstudent)
-    -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
+    -   [Yun, retiree with low vision, hand tremor, and mild
         short-term memory
         loss](/people-use-web/user-stories/#retiree)
-    -   [Mr. Sands, Supermarket assistant with Down
+    -   [Luis, supermarket assistant with Down
         syndrome](/people-use-web/user-stories/#supermarketassistant)
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview](/standards-guidelines/wcag/)):**
@@ -125,7 +125,7 @@ across a website.
         "layout"](https://www.w3.org/WAI/WCAG21/quickref/?tags=layout)
 -   **Tutorial:**
     -   [Page Structure - Web Accessibility
-        Tutorials](https://www.w3.org/WAI/tutorials/page-structure/)
+        Tutorials](/tutorials/page-structure/)
         (draft)
 
 ## Text Transcript with Description of Visuals {#transcript}

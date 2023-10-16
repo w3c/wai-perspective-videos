@@ -4,8 +4,8 @@
 
 title: "Text to Speech"
 nav_title: "Text to Speech"
-lang: en
-last_updated: 2019-01-23
+lang: en    # Change "en" to the translated-language shortcode
+last_updated: 2019-01-23    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 4
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -118,12 +118,12 @@ Learn more {#resources}
     -   [Basic Structure
         Check](/test-evaluate/preliminary/#structure)
 -   **User Story:**
-    -   [Ms. Laitinen, Accountant with
-        blindness](/people-use-web/user-stories/#accountant)
-    -   [Ms. Kaseem, Teenager with
-        deaf-blindness](/people-use-web/user-stories/#teenager)
-    -   [Ms. Olsen, Classroom student with attention deficit
-        hyperactivity disorder (ADHD) and
+    -   [Ilya, senior staff member who is
+        blind](/people-use-web/user-stories/#accountant)
+    -   [Kaseem, teenager who is
+        deaf and blind](/people-use-web/user-stories/#teenager)
+    -   [Preety, middle school student with attention deficit
+        hyperactivity disorder and
         dyslexia](/people-use-web/user-stories/#classroomstudent)
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview](/standards-guidelines/wcag/)):**
@@ -137,7 +137,7 @@ Learn more {#resources}
     -   [Non-descriptive link
         label](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutorial:**
-    -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+    -   [Web Accessibility Tutorials](/tutorials/)
         (several related topics)
 
 ## Text Transcript with Description of Visuals {#transcript}

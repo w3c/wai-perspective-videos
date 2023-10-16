@@ -4,8 +4,8 @@
 
 title: "Speech Recognition"
 nav_title: "Speech Recognition"
-lang: en
-last_updated: 2021-02-26
+lang: en    # Change "en" to the translated-language shortcode
+last_updated: 2021-02-26    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 8
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -114,7 +114,7 @@ Learn more {#resources}
     -   [Forms, labels, and
         errors](/test-evaluate/preliminary/#forms)
 -   **User Story:**
-    -   [Mr. Jones, Reporter with repetitive stress
+    -   [Alex, reporter with repetitive stress
         injury](/people-use-web/user-stories/#reporter)
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview](/standards-guidelines/wcag/)):**
@@ -126,7 +126,7 @@ Learn more {#resources}
     -   [Non descriptive link
         label](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutorial:**
-    -   [Web Accessibility Tutorials](https://www.w3.org/WAI/tutorials/)
+    -   [Web Accessibility Tutorials](/tutorials/)
         (several related topics)
 
 ## Text Transcript with Description of Visuals {#transcript}

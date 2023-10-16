@@ -4,8 +4,8 @@
 
 title: "Colors with Good Contrast"
 nav_title: "Colors with Good Contrast"
-lang: en
-last_updated: 2021-11-29
+lang: en    # Change "en" to the translated-language shortcode
+last_updated: 2021-11-29    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 2
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -99,8 +99,8 @@ sensitive to brightness and need to [change the colors](/perspective-videos/cust
     -   [Contrast ratio ("color
         contrast")](/test-evaluate/preliminary/#contrast)
 -   **User Story:**
-    -   [Mr. Lee, Online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories/#shopper)
-    -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
+    -   [Lee, online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories/#shopper)
+    -   [Yun, retiree with low vision, hand tremor, and mild
         short-term memory
         loss](/people-use-web/user-stories/#retiree)
 -   **User Needs:**

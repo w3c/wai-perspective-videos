@@ -4,8 +4,8 @@
 
 title: "Video Captions"
 nav_title: "Video Captions"
-lang: en   # Change "en" to the translated-language shortcode
-last_updated: 2019-01-23   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+lang: en      # Change "en" to the translated-language shortcode
+last_updated: 2019-01-23      # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 6
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -108,18 +108,18 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Captions and other alternatives for
-        multimedia](https://www.w3.org/WAI/intro/people-use-web/principles#captions)
+        multimedia](/fundamentals/accessibility-principles/#captions)
 -   **Getting Started:**
     -   [Create transcripts and captions for
-        multimedia](https://www.w3.org/WAI/gettingstarted/tips/writing.html#create-transcripts-and-captions-for-multimedia)
+        multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
 -   **Easy Check:**
     -   [Multimedia (video, audio)
-        alternatives](https://www.w3.org/WAI/eval/preliminary#media)
+        alternatives](/test-evaluate/preliminary/#media)
 -   **User Story:**
-    -   [Ms. Martinez, Online student who is hard of
-        hearing](https://www.w3.org/WAI/intro/people-use-web/stories.html#onlinestudent)
+    -   [Martine, online student who is hard of
+        hearing](/people-use-web/user-stories/#onlinestudent)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "captions"](https://www.w3.org/WAI/WCAG21/quickref/?tags=captions)
 -   **Mobile Applicability:**

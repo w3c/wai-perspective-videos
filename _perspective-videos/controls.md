@@ -4,8 +4,8 @@
 
 title: "Large Links, Buttons, and Controls"
 nav_title: "Large Links, Buttons, and Controls"
-lang: en
-last_updated: 2019-01-23
+lang: en    # Change "en" to the translated-language shortcode
+last_updated: 2019-01-23    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 5
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -107,7 +107,7 @@ Learn more {#resources}
     -   [Forms, labels, and
         errors](/test-evaluate/preliminary/#forms)
 -   **User Story:**
-    -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
+    -   [Yun, retiree with low vision, hand tremor, and mild
         short-term memory
         loss](/people-use-web/user-stories/#retiree)
 -   **Web Content Accessibility Guidelines ([WCAG

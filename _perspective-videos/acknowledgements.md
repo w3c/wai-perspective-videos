@@ -5,7 +5,7 @@
 title: "Acknowledgements - Web Accessibility Perspectives Videos"
 nav_title: "Acknowledgements"
 lang: en
-last_updated: 2019-01-22
+last_updated: 2019-01-22    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
