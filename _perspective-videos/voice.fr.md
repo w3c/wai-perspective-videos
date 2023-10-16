@@ -5,11 +5,12 @@
 title: "La reconnaissance vocale"
 nav_title: "La reconnaissance vocale"
 lang: fr
-last_updated: 2020-12-31
+last_updated: 2023-10-16
 order: 8
 
 translators:
 - name: "Sofia Ahmed"
+- name: "Rémi Bétin"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 
@@ -28,15 +29,16 @@ vtt: voice # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 26 février 2021. Première publication en mai 2016. <a href="../changelog/">Changelog</a>.<br><strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}
 {% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
 {:/}
 
-L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les avantages pour tous dans diverses situations.
+L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les bénéfices pour tous dans diverses situations.
 
+La «&nbsp; reconnaissance vocale&nbsp;» (ou «&nbsp; reconnaissance automatique de la parole&nbsp;») concerne la reconnaissance des mots pour la transcription de la parole en texte, les assistants virtuels et les autres interfaces de commande vocale. La «&nbsp;reconnaissance des voix&nbsp;» ou «&nbsp; reconnaissance des locuteurs&nbsp;» est une technologie qui identifie qui est le locuteur, et non les mots qu'il prononce.
 
 ## Vidéo sur la reconnaissance vocale
 {:#film.no-display}
@@ -53,30 +55,30 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     descriptions-ad=descriptions-ad
 %}
 
-Les informations relatives à cette vidéo sont disponibles sous forme de [Transcription avec description visuelle](#transcript) en bas de la page.
+Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Qu'est-ce que la "reonnaissance vocale" ? {#what}
+Qu'est-ce que la «&nbsp;reconnaissance vocale&nbsp;» ? {#what}
 ----------------------------
 
-La reconnaissance vocale peut être utilisée pour dicter du texte dans un champ de formulaire, mais également pour naviguer et activer des liens, des boutons, et d'autres commandes. La plupart des ordinateurs et des appareils mobiles possède une fonctionnalité de reconnaissance vocale intégrée. Certains outils de reconnaissance vocale permettent un contrôle complet sur l'interaction avec l'ordinateur, les utilisateurs pouvant, de cette manière, faire défiler l'écran, copier et coller du texte, activer des menus, et utiliser d'autres fonctions.
+La reconnaissance vocale peut être utilisée pour dicter du texte dans un champ de formulaire, mais également pour naviguer et activer des liens, des boutons, et d'autres composants d'interface. La plupart des ordinateurs et des appareils mobiles possèdent une fonctionnalité de reconnaissance vocale intégrée. Certains outils de reconnaissance vocale permettent un contrôle complet sur l'interaction avec l'ordinateur&nbsp;; les utilisateurs pouvant, de cette manière, faire défiler l'écran, copier et coller du texte, activer des menus, et utiliser d'autres fonctions.
 
-Qui en bénéficie ? {#who}
+Qui dépend de cette fonctionnalité ? {#who}
 ----------------------------
 
--   Les personnes handicapées qui ne peuvent pas utiliser le clavier ou la souris.
--   Les personnes souffrant de maladies chroniques, telles que les traumatismes liés au stress répétitif (RSI), qui ont besoin de limiter ou d'éviter l'utilisation d'un clavier ou d'une souris.
--   Les personnes souffrant de troubles cognitifs et d'apprentissage qui ont besoin d'utiliser la voix plutôt que le clavier.
+-   Les personnes en situation de handicap physique qui ne peuvent pas utiliser le clavier ou la souris.
+-   Les personnes souffrant de maladies chroniques, telles que des troubles musculo-squelettiques (TMS), qui ont besoin de limiter ou d'éviter l'utilisation du clavier ou de la souris.
+-   Les personnes avec des troubles cognitifs et d'apprentissage qui ont besoin d'utiliser la parole plutôt que taper au clavier.
 
-Quels sont les autres avantages ? {#others}
+Quels sont les autres bénéfices ? {#others}
 ---------------------------------
 
--   Le contenu est utile aux personnes ayant des limitations temporaires, comme un bras cassé.
--   Le contenu est plus facile à utiliser pour les personnes qui préfèrent parler plutôt que de taper, par exemple, lorsqu'elles sont occupées à autre chose.
+-   Le contenu est utilisable par les personnes en situation de handicap temporaire, telle qu'un bras cassé.
+-   Le contenu est plus utilisable par les personnes qui préfèrent parler plutôt que taper au clavier&nbsp;; par exemple, en faisant autre chose.
 
 Comment mettre cela en pratique ? {#action}
 --------------------------------------
 
-Le code et le design du contenu doivent être clairs pour pouvoir le contrôler par la voix. La [Compatibilité du clavier](/perspective-videos/keyboard/) est fondamentale pour un tel codage. De plus, les libellés (labels) et les identifiants pour les commandes dans le code source doivent correspondre à leur présentation visuelle, pour savoir clairement quelle instruction vocale va activer une commande.
+Le contenu doit être conçu et codé correctement pour pouvoir être contrôlé par la voix. La [compatibilité avec le clavier](/perspective-videos/keyboard/) est la base d'un tel codage. De plus, les étiquettes et les identifiants des composants d'interface dans le code source doivent correspondre à leur présentation visuelle, de manière à clarifier quelle instruction vocale activera un composant d'interface.
 
 Plus d'informations {#resources}
 ----------
@@ -85,24 +87,24 @@ Plus d'informations {#resources}
     -   [Des fonctionnalités sont accessibles au clavier](/fundamentals/accessibility-principles/#keyboard) 
     -   [Le contenu apparaît et fonctionne de façon prévisible](/fundamentals/accessibility-principles/#predictable)
 -   **Pour démarrer :**
-    -   [S'assurer que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible) 
-    -   [Fournir une explication pour les éléments intéractifs non standards](/tips/developing/#provide-meaning-for-non-standard-interactive-elements) 
-    -   [Fournir une alternative textuelle pour les images](/tips/designing/#include-image-and-media-alternatives-in-your-design) 
--   **Vérification facile :**
-    -   [Accès au clavier et "focus" visuel](/test-evaluate/preliminary/#interaction) 
-    -   [Formulaires, libellés, et erreurs](/test-evaluate/preliminary/#forms)
+    -   [Assurez-vous que tous les éléments interactifs sont accessibles au clavier](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible) 
+    -   [Transmettez une signification pour les éléments interactifs non standards](/tips/developing/#provide-meaning-for-non-standard-interactive-elements) 
+    -   [Incluez des équivalents aux images](/tips/designing/#include-image-and-media-alternatives-in-your-design) 
+-   **Vérifications faciles :**
+    -   [Accès au clavier et visibilité du focus](/test-evaluate/preliminary/#interaction) 
+    -   [Formulaires, étiquettes, et erreurs](/test-evaluate/preliminary/#forms)
 -   **Témoignages d'utilisateurs :**
-    -   [Alex, journaliste atteint d'un trouble musculosquelettique](/people-use-web/user-stories/#reporter)
--   **Règles d'accessibilité Web pour les contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
-    -   [Critères de réussite liés au "clavier" et aux "commandes"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols) 
--   **Règles pour appareils mobiles :**
-    -   [Utilisation requise de la souris pour les interactions et la navigation](/standards-guidelines/shared-experiences/#mouse) 
+    -   [Alex, journaliste avec un trouble musculo-squelettique](/people-use-web/user-stories/#reporter)
+-   **Règles pour l'accessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)):**
+    -   [Critères de succès liés au "clavier" et aux "commandes"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols) 
+-   **Applicabilité aux appareils mobiles :**
+    -   [La souris est requise pour l'interaction et la navigation](/standards-guidelines/shared-experiences/#mouse) 
     -   [Etiquette de lien non descriptive](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutoriel :**
-    -   [Tutoriels sur l'accessiblité Web](https://www.w3.org/WAI/tutorials/)
-        (plusieurs sujets relatifs)
+    -   [Tutoriels sur l'accessiblité Web](/tutorials/)
+        (plusieurs sujets à ce propos)
 
-## Transcription avec description visuelle {#transcript}
+## Transcription avec description des visuels {#transcript}
 
 <table>
   <thead>
@@ -118,62 +120,62 @@ Plus d'informations {#resources}
         la reconnaissance vocale</td>
     </tr>
     <tr>
-      <td>Imaginez si vous ne pouvions communiquer avec votre famille que par écrit.<br></td>
-      <td>Une jeune femme écrit :&quot;que veux-tu manger pour le petit-déjeuner ?&quot;, et donne le papier à l'homme assis à côté d'elle.<br></td>
+      <td>Imaginez si vous ne pouviez communiquer avec votre famille que par écrit.<br></td>
+      <td>Une femme écrit : «&nbsp; Que veux-tu manger pour le petit-déjeuner ?&nbsp;», et donne le papier à l'homme assis à côté d'elle.<br></td>
     </tr>
     <tr>
-      <td>Parfois, il est simplement plus facile de parler.<br>
-        Une des avancées technologiques est la reconnaissance vocale.<br>
-        Que ce soit pour effectuer une recherche sur le Web :</td>
-      <td>Un homme utilise une tablette vocalement.</td>
+      <td>Parfois, il est juste plus facile de parler.<br>
+        Un des progrès de la technologie est la reconnaissance vocale.<br>
+        Que ce soit pour effectuer une recherche sur le Web&nbsp;:</td>
+      <td>Un homme utilise une tablette grâce à sa voix.</td>
     </tr>
     <tr>
-      <td>(Utilisateur de la tablette) &quot;Architecture du dix-neuvième siècle.&quot;</td>
+      <td>(Un utilisateur de tablette) «&nbsp;Architecture du dix-neuvième siècle&nbsp;»,</td>
       <td>Des résultats de recherche apparaissent à l'écran.</td>
     </tr>
     <tr>
-      <td>Dicter des e-mails.</td>
-      <td>Un homme âgé utilise également une tablette vocalement.</td>
+      <td>dicter des e-mails,</td>
+      <td>Un homme âgé utilise également une tablette grâce à sa voix.</td>
     </tr>
     <tr>
-      <td>Ou contrôler votre application de navigation.</td>
-      <td>Une jeune femme parle à son téléphone mobile et suit la direction sur son écran.</td>
+      <td>ou contrôler votre application de navigation.</td>
+      <td>Une femme parle à son téléphone mobile et suit les instructions de navigation sur l'écran.</td>
     </tr>
     <tr>
-      <td><p>De nombreuses personnes atteintes de handicaps dépendent de la reconnaissance vocale pour utiliser un ordinateur.<br>
-          (Un homme dans un fauteuil roulant) &quot;Passer commande.&quot;<br>
+      <td><p>De nombreuses personnes en situation de handicap physique dépendent de la reconnaissance vocale pour utiliser un ordinateur.<br>
+          (Un homme dans un fauteuil roulant) «&nbsp;Passer commande.&nbsp;»<br>
         </p></td>
       <td>Un homme en fauteuil roulant utilise un casque pour l'ordinateur.</td>
     </tr>
     <tr>
-      <td>Mais pour que cela soit possible, les sites et les applications Web doivent être codés correctement.<br>
-(Un homme dans un fauteuil roulant)                     &quot;Annuler ?&quot;</td>
+      <td>Mais pour que cela soit possible, les sites Web et les applications doivent être codés correctement.<br>
+(Un homme dans un fauteuil roulant) «&nbsp;Annuler&nbsp;?&nbsp;»</td>
       <td>Rien ne se passe sur l'ordinateur.</td>
     </tr>
     <tr>
-      <td> La reconnaissance vocale peut également aider de nombreuses autres personnes avec des limitations temporaires, telles qu'un bras cassé.<br>
-(Une jeune femme)                     &quot;Passer commande.&quot;</td>
-      <td>Une jeune femme avec un bras dans une écharpe utilise la fonctionnalité vocale avec succès.</td>
+      <td> La reconnaissance vocale peut également aider de nombreuses autres personnes en situation de handicap temporaire, telle qu'un bras cassé.<br>
+(Une jeune femme) «&nbsp;Passer commande.&nbsp;»</td>
+      <td>Une femme avec un bras dans une écharpe utilise la reconnaissance vocale avec succès.</td>
     </tr>
     <tr>
-      <td>Cela peut aussi aider à prévenir l'aggravation d'un trouble, tel que les traumatisme liés au stress répétitif (RSI).</td>
-      <td>Un homme est dehors avec son chien et prend des notes vocalement sur son téléphone mobile.</td>
+      <td>Cela peut aussi prévenir l'aggravation d'un trouble, tel les troubles musculo-squelettiques (TMS).</td>
+      <td>Un homme est dehors avec son chien et dicte des notes sur son téléphone mobile.</td>
     </tr>
     <tr>
-      <td>Ou simplement pour les personnes préférant utiliser la voix.<br>
-        (Un homme dans un fauteuil roulant) &quot;Passer commande.&quot;</td>
-      <td>L'homme dans le fauteuil roulant navigue désormais sur un site Web qui fonctionne.</td>
+      <td>Ou simplement être utile aux personnes qui préfèrent utiliser la voix.<br>
+        (Un homme dans un fauteuil roulant) «&nbsp;Passer commande.&nbsp;»</td>
+      <td>L'homme dans le fauteuil roulant utilise désormais un site Web qui fonctionne.</td>
     </tr>
     <tr>
       <td>L'accessiblité Web : essentielle pour certains, utile à tous.</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'information sur la reconnaissance vocale</td>
+      <td>Visitez w3.org/WAI/perspectives pour plus d'information sur <em>La reconnaissance vocale.</em></td>
       <td>Visitez<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
-        La reconnaissance vocale. <br>
+        <em>La reconnaissance vocale.</em> <br>
         Logo de l'Initiative pour l'accessibilié du Web du W3C</td>
     </tr>
   </tbody>
