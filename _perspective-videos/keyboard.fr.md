@@ -5,7 +5,7 @@
 title: "Compatibilité avec le clavier"
 nav_title: "Compatibilité avec le clavier"
 lang: fr
-last_updated: 2023-10-12
+last_updated: 2023-10-12    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 1
 
 translators:
@@ -30,7 +30,8 @@ vtt: keyboard # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019. <br><strong>Auteur et direction du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE). ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour 23 janvier 2019.<br>
+    <strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}
@@ -96,7 +97,7 @@ Les composants d'interface HTML natifs, comme les liens, les boutons, et les él
 -   **Applicabilité aux appareils mobiles :**
     -   [La souris est requise pour l'interaction et la navigation](/standards-guidelines/shared-experiences/#mouse) 
 -   **Tutoriel :**
-    -   [Tutoriels sur l'accessibilité Web](https://www.w3.org/WAI/tutorials/)
+    -   [Tutoriels sur l'accessibilité Web](/tutorials/)
         (plusieurs sujets à ce propos)
 
 ## Transcription avec description des visuels {#transcript}

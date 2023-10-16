@@ -2,10 +2,10 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "Liens, boutons, et composants d'interface assez grands"
+title: "Des liens, boutons, et composants d'interface assez grands"
 nav_title: "Liens, boutons, et composants assez grands"
 lang: fr
-last_updated: 2023-10-12
+last_updated: 2023-10-12    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 5
 
 translators:
@@ -29,7 +29,8 @@ vtt: controls # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019.<br>
+    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}
@@ -105,9 +106,9 @@ Plus d'informations {#resources}
   </thead>
   <tbody>
     <tr>
-      <td>L'accessibilité Web illustrée : Liens, boutons, et composants d'interface assez grands</td>
+      <td>L'accessibilité Web illustrée : Des liens, boutons, et composants d'interface assez grands</td>
       <td>L'accessibilité Web illustrée :<br>
-        Liens, boutons, et composants d'interface assez grands</td>
+        des liens, boutons, et composants d'interface assez grands</td>
     </tr>
     <tr>
       <td>Essayer d'atteindre une petite cible demande beaucoup d'efforts.</td>
@@ -135,11 +136,11 @@ Plus d'informations {#resources}
       <td>Les boutons deviennent plus grands et la femme atteinte de tremblements est maintenant capable de cliquer dessus.</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur <em>Liens, des boutons, et des commandes assez grands</em>.</td>
+      <td>Visitez w3.org/WAI/perspectives pour plus d'informations sur <em>Des liens, des boutons, et des commandes assez grands</em>.</td>
       <td>Visitez<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
-        <em>Liens, des boutons, et des commandes assez grands</em>.<br>
+        <em>Des liens, des boutons, et des commandes assez grands</em>.<br>
         Logo de l'Initiative pour l'accessibilité du Web de W3C</td>
     </tr>
   </tbody>

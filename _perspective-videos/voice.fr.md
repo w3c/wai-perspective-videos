@@ -3,9 +3,9 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
 title: "La reconnaissance vocale"
-nav_title: "La reconnaissance vocale"
+nav_title: "Reconnaissance vocale"
 lang: fr
-last_updated: 2023-10-16
+last_updated: 2023-10-16    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 8
 
 translators:
@@ -16,6 +16,7 @@ contributors:
 
 permalink: /perspective-videos/voice/fr # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/voice/ # Do not change this
+changelog: /perspective-videos/changelog/ # Do not change this
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 description: Courte vidéo à propos de la reconnaissance vocale pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
@@ -29,7 +30,8 @@ vtt: voice # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 26 février 2021. Première publication en mai 2016. <a href="../changelog/">Changelog</a>.<br><strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 26 février 2021. Première publication en mai 2016. CHANGELOG.<br>
+    <strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}

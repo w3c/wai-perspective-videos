@@ -1,10 +1,11 @@
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
-# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".lang: en
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
 title: Des couleurs bien contrastées
+nav_title: Couleurs bien contrastées
 lang: fr
-last_updated: 2023-10-12
+last_updated: 2023-10-12    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 
 translators: 
 - name: "Sofia Ahmed"
@@ -28,7 +29,8 @@ vtt: contrast # Do not change this
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-    <p><strong>Statut :</strong> Mise à jour : 29 novembre 2021. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne. Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
+    <p><strong>Statut :</strong> Mise à jour : 29 novembre 2021.<br>
+    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne. Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}

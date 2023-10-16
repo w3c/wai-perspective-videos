@@ -3,9 +3,9 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
 title: "Une mise en page et une conception claires"
-nav_title: "Une mise en page et une conception claires"
+nav_title: "Mise en page et conception claires"
 lang: fr
-last_updated: 2023-10-12
+last_updated: 2023-10-12    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 3
 
 translators:
@@ -29,7 +29,8 @@ vtt: layout # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019.<br>
+    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}

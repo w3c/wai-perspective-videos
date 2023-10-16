@@ -2,10 +2,10 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "Du contenu compréhensible"
-nav_title: "Du contenu compréhensible"
+title: "Un contenu compréhensible"
+nav_title: "Contenu compréhensible"
 lang: fr
-last_updated: 2023-10-16
+last_updated: 2023-10-16    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 9
 
 translators: 
@@ -29,7 +29,8 @@ vtt: understandable # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019.<br>
+    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}
@@ -55,7 +56,7 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Qu'est-ce que du "contenu compréhensible" ? {#what}
+Qu'est-ce qu'un «&nbsp;contenu compréhensible&nbsp;»" ? {#what}
 ---------------------------------
 
 Le contenu doit être facile à suivre et à comprendre pour de nombreux utilisateurs. Pour la plupart des contenus, il suffit d'éviter les phrases trop complexes et le jargon, et de fournir une mise en page et un design clairs. Pour certains contenus plus complexes tels que de l'information médicale, des informations supplémentaires, faciles à lire, peuvent être nécessaires.
@@ -111,7 +112,7 @@ Plus d'informations {#resources}
   </thead>
   <tbody>
     <tr>
-      <td>L'accessibilité Web illustrée : du contenu compréhensible</td>
+      <td>L'accessibilité Web illustrée : un contenu compréhensible</td>
       <td>L'accessibilité Web illustrée :<br>
         Du contenu compréhensible</td>
     </tr>
@@ -133,11 +134,11 @@ Plus d'informations {#resources}
       <td>Elles cherchent et trouvent un site Web de cuisine différent avec un texte plus structuré et des illustrations.</td>
     </tr>
     <tr>
-      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur <em>"Du contenu compréhensible"</em></td>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur <em>"Un contenu compréhensible"</em></td>
       <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
-        <em>"Du contenu compréhensible"</em>.<br>
+        <em>"Un contenu compréhensible"</em>.<br>
         Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>

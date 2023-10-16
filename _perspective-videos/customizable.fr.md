@@ -3,9 +3,9 @@
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
 title: "Un texte personnalisable"
-nav_title: "Un texte personnalisable"
+nav_title: "Texte personnalisable"
 lang: fr
-last_updated: 2023-10-16
+last_updated: 2023-10-16    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 7
 
 translators: 
@@ -29,7 +29,8 @@ vtt: customizable # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019.<br>
+    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}
@@ -56,12 +57,12 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Qu'est-ce que du "texte personnalisable" ? {#what}
+Qu'est-ce que du «&nbsp;texte personnalisable&nbsp;» ? {#what}
 ----------------------------
 
 Certains utilisateurs ont besoin de changer la manière dont le texte est présenté pour pouvoir le lire. Notamment la taille, l'espacement, la police de caractères, la couleur, et d'autres propriétés du texte. Lorsque les utilisateurs changent ces propriétés, aucune information ou fonctionnalité ne devrait être perdue, et le texte devrait se réajuster pour éviter aux utilisateurs de devoir faire défiler le texte horizontalement pour lire les phrases. La personnalisation du texte va au-delà de la fonctionnalité de zoom, qui ne modifie que la taille du texte.  
 
-Qui en bénéficie ? {#who}
+Qui dépend de cette fonctionnalité ? {#who}
 ----------------------------
 
 -   Les personnes malvoyantes qui n'utilisent pas d'agrandisseurs d'écran.

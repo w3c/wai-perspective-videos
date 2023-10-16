@@ -6,7 +6,7 @@ title: "L'accessibilité Web illustrée : explorez ses effets et ses bénéfices
 title_html: "L'accessibilité Web illustrée :<br>explorez ses effets et ses bénéfices pour tous"
 nav_title: "Vue d'ensemble : vidéos d'illustration"
 lang: fr
-last_updated: 2023-10-11
+last_updated: 2023-10-11    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 0
 
 translators:
@@ -29,21 +29,22 @@ image: /perspective-videos/img/overview.jpg
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 5 juin 2023. CHANGELOG.<br><strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> co-financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 5 juin 2023. CHANGELOG.<br>
+  <strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). ACKNOWLEDGEMENTS.</p>
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap, et utile à tous. Découvrez les effets de l'accessibilité et ses bénéfices pour tous dans diverses situations.
 
 ## Vidéos d'illustration
 
--   [![](img/thumbnails/keyboard.jpg)<br>Compatibilité du clavier]({{ "/perspective-videos/keyboard/fr" | relative_url }})
+-   [![](img/thumbnails/keyboard.jpg)<br>Compatibilité avec le clavier]({{ "/perspective-videos/keyboard/fr" | relative_url }})
 -   [![](img/thumbnails/contrast.jpg)<br>Des couleurs bien contrastées]({{ "/perspective-videos/contrast/fr" | relative_url }})
 -   [![](img/thumbnails/layout.jpg)<br>Une mise en page et une conception claires]({{ "/perspective-videos/layout/fr" | relative_url }})
--   [![](img/thumbnails/speech.jpg)<br>Synthèse vocale]({{ "/perspective-videos/speech/fr" | relative_url }})
+-   [![](img/thumbnails/speech.jpg)<br>La synthèse vocale]({{ "/perspective-videos/speech/fr" | relative_url }})
 -   [![](img/thumbnails/controls.jpg)<br>Des liens, boutons et commandes assez grands]({{ "/perspective-videos/controls/fr" | relative_url }})
 -   [![](img/thumbnails/captions.jpg)<br>Les sous-titres]({{ "/perspective-videos/captions/fr" | relative_url }})
 -   [![](img/thumbnails/customizable.jpg)<br>Un texte personnalisable]({{ "/perspective-videos/customizable/fr" | relative_url }})
--   [![](img/thumbnails/voice.jpg)<br>Reconnaissance de la parole]({{ "/perspective-videos/voice/fr" | relative_url }})
+-   [![](img/thumbnails/voice.jpg)<br>La reconnaissance vocale]({{ "/perspective-videos/voice/fr" | relative_url }})
 -   [![](img/thumbnails/understandable.jpg)<br>Un contenu compréhensible]({{ "/perspective-videos/understandable/fr" | relative_url }})
 -   [![](img/thumbnails/notifications.jpg)<br>Les notifications et les feedbacks]({{ "/perspective-videos/notifications/fr" | relative_url }})
 {:.two.columns.linklist}

@@ -2,10 +2,10 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "Synthèse vocale"
+title: "La synthèse vocale"
 nav_title: "Synthèse vocale"
 lang: fr
-last_updated: 2023-10-12
+last_updated: 2023-10-12    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 4
 
 translators: 
@@ -29,7 +29,8 @@ vtt: speech # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019.<br>
+    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}
@@ -55,12 +56,12 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Qu'est-ce que la "synthèse vocale" ? {#what}
+Qu'est-ce que la «&nbsp;synthèse vocale&nbsp;" ? {#what}
 -------------------------
 
 De nombreux ordinateurs et appareils mobiles intègrent aujourd'hui un logiciel de conversion du texte en parole. Certaines personnes en situation de handicap, notamment les personnes aveugles, utilisent des logiciels spécialisés appelés lecteurs d'écran. Les lecteurs d'écran fournissent des fonctionnalités importantes telles que naviguer à travers les en-têtes, prononcer les équivalents textuels des images, et identifier les liens internes et externes. Ils peuvent également mettre le texte en subrillance au fur et à mesure de la lecture à haute voix du texte, pour les personnes qui souhaitent voir et entendre le contenu en même temps. Le contenu doit être codé correctement pour que toutes les fonctionnalités du logiciel de conversion de texte en parole fonctionnent pour le contenu en question.
 
-Qui en bénéficie ? {#who}
+Qui dépend de cette fonctionnalité ? {#who}
 ----------------------------
 
 -   Les personnes aveugles qui ne peuvent pas voir ce qui est affiché à l'écran.
@@ -155,11 +156,11 @@ Plus d'informations {#resources}
       <td>L'homme avec le chien-guide utilise son appareil mobile dehors avec un casque à conduction osseuse. La vidéo montre les personnes précédentes utiliser la synthèse vocale.</td>
     </tr>
     <tr>
-      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations concernant la <em>Synthèse vocale</em>.</td>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations concernant <em>La synthèse vocale</em>.</td>
       <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
-        la <em>Synthèse vocale</em>. <br>
+        <em>La synthèse vocale</em>. <br>
         Logo de l'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>

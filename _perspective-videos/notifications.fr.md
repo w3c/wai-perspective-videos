@@ -2,10 +2,10 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "Notifications et retour d'information"
-nav_title: "Notifications et retour d'information"
+title: "Notifications et retours d'information"
+nav_title: "Notifications et retours d'information"
 lang: fr
-last_updated: 2023-10-16
+last_updated: 2023-10-16    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 10
 
 translators: 
@@ -29,7 +29,8 @@ vtt: notifications # Do not change this
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019. <br><strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>.  Développé par l' <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a> financé par la Commission européenne (CE) ACKNOWLEDGEMENTS.</p>
+  <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019.<br>
+    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par l' <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
 {::nomarkdown}
@@ -55,7 +56,7 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Que signifie "Notifications et retour d'information" ? {#what}
+Qu'est-ce que des «&nbsp;notifications et retours d'information&nbsp» ? {#what}
 -------------------------------------
 
 Les utilisateurs ont besoin de savoir ce qu'il se passe, et de recevoir un retour d'information approprié lors de l'interaction. Par exemple, les utilisateurs ont besoin de messages de confirmation quand les actions sont terminées&nbsp;; par exemple, lorsqu'un formulaire est soumis. De plus, les messages d'erreur doivent fournir des instructions claires plutôt que créer de la confusion chez les utilisateurs.
@@ -109,9 +110,9 @@ Plus d'informations {#resources}
   </thead>
   <tbody>
     <tr>
-      <td>L'accessibilité Web illustrée : notifications et retour d'information</td>
+      <td>L'accessibilité Web illustrée : des notifications et retour d'information</td>
       <td>L'accessibilité Web illustrée :<br>
-        Notifications and retour d'information</td>
+        Des notifications and retour d'information</td>
     </tr>
     <tr>
       <td>Tous les bons mécanismes peuvent être en mouvement. Les aiguilles peuvent être exactement là où elles doivent être.</td>
@@ -151,11 +152,11 @@ Plus d'informations {#resources}
       <td>Le coucou surgit de l'horloge.</td>
     </tr>
     <tr>
-      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur <em>"Notifications et retour d'information"</em></td>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d'informations sur <em>"Des notifications et retours d'information"</em></td>
       <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d'informations sur<br>
-        <em>"Notifications et retour d'information"</em>.<br>
+        <em>"Des notifications et retours d'information"</em>.<br>
         Logo d'Initiative pour l'accessibilité du Web du W3C</td>
     </tr>
   </tbody>

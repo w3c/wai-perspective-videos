@@ -31,7 +31,7 @@ vtt: captions # Do not change this
 footer: >
   <p><strong>Statut :</strong> Mise à jour : 23 janvier 2019.</p>
   <p><strong>Rédacteur et chef du projet : </strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. ACKNOWLEDGEMENTS liste les contributions.
-  <p>Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (822245)</p>
+  <p>Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour dans le cadre du projet <a href="https://www.w3.org/WAI/DEV/" lang="en">WAI Expanding Access Project</a>, soutenu par la Fondation Ford.</p>
 ---
 
 {::nomarkdown}
@@ -57,13 +57,13 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Qu'est-ce que des "sous-titres de vidéo" ? {#what}
+Qu'est-ce que des «&nbsp;sous-titres de vidéo&nbsp» ? {#what}
 -------------------------
 
 Les sous-titres sont une version texte des informations audio d'une vidéo ou animation.
 Cela inclut les mots prononcés, l'identification de qui parle lorsque ce n'est pas clair, et les sons importants comme la musique, les rires et les bruits. Les sous-titres doivent être synchronisés avec le contenu visuel pour les contextualiser.
 
-Qui en bénéfice ? {#who}
+Qui dépend de cette fonctionnalité ? {#who}
 ----------------------------
 
 -   Les personnes sourdes qui ne peuvent pas entendre l'audio.
