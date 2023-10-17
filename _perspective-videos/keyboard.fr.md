@@ -22,8 +22,6 @@ description: Courte vidéo à propos de la compatibilité du clavier pour l'acce
 image: /perspective-videos/img/keyboard.jpg
 teaser_text: Toutes les fonctionnalités doivent être faciles d'utilisation au clavier. Cela signifie que les utilisateurs doivent pouvoir accéder aux liens, aux boutons, aux formulaires, et aux autres commandes en utilisant la touche Tab et les autres touches. Les sites Web ne devraient pas nécessiter de souris. L'accessibilité Web est essentielle pour les personnes atteintes de handicaps et avantageuse pour tous dans diverses situations.
 
-vtt: keyboard # Do not change this
-
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -34,25 +32,18 @@ footer: >
     <strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
-{::nomarkdown}
-{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
-{:/}
-
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les bénéfices pour tous dans diverses situations.
 
 ## Vidéo sur la compatibilité avec le clavier
 {:#film.no-display}
 
-{% include video-player.html
+{% include video-player-data.html
     yt-id="93UgG72os8M"
     yt-id-ad="1rBwxGMT9ZM"
     path="/perspective-videos/cc/"
-    captions=captions
-    captions-ad=captions-ad
-    subtitles=subtitles
-    subtitles-ad=subtitles-ad
-    descriptions=descriptions
-    descriptions-ad=descriptions-ad
+    lang-folder=true
+    vtt-data-location="wai-perspective-videos"
+    vtt-name="keyboard"
 %}
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.

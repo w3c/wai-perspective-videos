@@ -22,8 +22,6 @@ acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 description: Courte vidéo à propos de la reconnaissance vocale pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/voice.jpg
 
-vtt: voice # Do not change this
-
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -34,10 +32,6 @@ footer: >
     <strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 ---
 
-{::nomarkdown}
-{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
-{:/}
-
 L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les bénéfices pour tous dans diverses situations.
 
 La «&nbsp; reconnaissance vocale&nbsp;» (ou «&nbsp; reconnaissance automatique de la parole&nbsp;») concerne la reconnaissance des mots pour la transcription de la parole en texte, les assistants virtuels et les autres interfaces de commande vocale. La «&nbsp;reconnaissance des voix&nbsp;» ou «&nbsp; reconnaissance des locuteurs&nbsp;» est une technologie qui identifie qui est le locuteur, et non les mots qu'il prononce.
@@ -45,16 +39,13 @@ La «&nbsp; reconnaissance vocale&nbsp;» (ou «&nbsp; reconnaissance automatiqu
 ## Vidéo sur la reconnaissance vocale
 {:#film.no-display}
 
-{% include video-player.html
+{% include video-player-data.html
     yt-id="7RHG_XiQ0ck"
     yt-id-ad="21yWr7evHTs"
     path="/perspective-videos/cc/"
-    captions=captions
-    captions-ad=captions-ad
-    subtitles=subtitles
-    subtitles-ad=subtitles-ad
-    descriptions=descriptions
-    descriptions-ad=descriptions-ad
+    lang-folder=true
+    vtt-data-location="wai-perspective-videos"
+    vtt-name="voice"
 %}
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.

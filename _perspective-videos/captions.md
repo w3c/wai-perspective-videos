@@ -22,8 +22,6 @@ acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 description: Short video about captions for web accessibility - what are they, who depends on them, how they help everyone, and what needs to happen to make them work.
 image: /perspective-videos/img/captions.jpg
 
-vtt: captions # Do not change this
-
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -35,10 +33,6 @@ footer: >
    <p>Developed by the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated as part of the <a href="https://www.w3.org/WAI/DEV/">WAI Expanding Access Project</a>, supported by the Ford Foundation.</p>
 ---
 
-{::nomarkdown}
-{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
-{:/}
-
 Web accessibility is essential for people with disabilities and useful
 for all. Learn about the impact of accessibility and the benefits for
 everyone in a variety of situations.
@@ -46,16 +40,13 @@ everyone in a variety of situations.
 ## Video on Video Captions
 {:#film.no-display}
 
-{% include video-player.html
+{% include video-player-data.html
     yt-id="iWO5N3n1DXU"
     yt-id-ad="4qIordU8vT8"
     path="/perspective-videos/cc/"
-    captions=captions
-    captions-ad=captions-ad
-    subtitles=subtitles
-    subtitles-ad=subtitles-ad
-    descriptions=descriptions
-    descriptions-ad=descriptions-ad
+    lang-folder=true
+    vtt-data-location="wai-perspective-videos"
+    vtt-name="captions"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

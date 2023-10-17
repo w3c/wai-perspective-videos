@@ -22,8 +22,6 @@ acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 description: Short video about notifications and feedback for web accessibility - what are they, who depends on them, and what needs to happen to make them work.
 image: /perspective-videos/img/notifications.jpg
 
-vtt: notifications # Do not change this
-
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -33,10 +31,6 @@ footer: >
   <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
 ---
 
-{::nomarkdown}
-{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
-{:/}
-
 Web accessibility is essential for people with disabilities and useful
 for all. Learn about the impact of accessibility and the benefits for
 everyone in a variety of situations.
@@ -44,16 +38,13 @@ everyone in a variety of situations.
 ## Video on Notifications and Feedback
 {:#film.no-display}
 
-{% include video-player.html
+{% include video-player-data.html
     yt-id="E1fEv4Vpexg"
     yt-id-ad="jtteu0ilDXk"
     path="/perspective-videos/cc/"
-    captions=captions
-    captions-ad=captions-ad
-    subtitles=subtitles
-    subtitles-ad=subtitles-ad
-    descriptions=descriptions
-    descriptions-ad=descriptions-ad
+    lang-folder=true
+    vtt-data-location="wai-perspective-videos"
+    vtt-name="notifications"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

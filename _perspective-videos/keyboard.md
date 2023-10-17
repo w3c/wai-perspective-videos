@@ -23,8 +23,6 @@ description: Short video about keyboard compatibility for web accessibility - wh
 image: /perspective-videos/img/keyboard.jpg
 teaser_text: All functionality must be usable with the keyboard. That is, users can access links, buttons, forms, and other controls using the Tab key and other keystrokes. Websites should not require a mouse. Keyboard accessibility is essential for people with disabilities and benefits everyone in a variety of situations.
 
-vtt: keyboard # Do not change this
-
 # In the footer below:
 # Do not change the dates
 # Do not translate or change ACKNOWLEDGEMENTS
@@ -34,10 +32,6 @@ footer: >
   <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
 ---
 
-{::nomarkdown}
-{% include vtt.html module="wai-perspective-videos" name=page.vtt l=page.lang langfolder=true %}
-{:/}
-
 Web accessibility is essential for people with disabilities and useful
 for all. Learn about the impact of accessibility and the benefits for
 everyone in a variety of situations.
@@ -45,16 +39,13 @@ everyone in a variety of situations.
 ## Video on Keyboard Compatibility
 {:#film.no-display}
 
-{% include video-player.html
+{% include video-player-data.html
     yt-id="93UgG72os8M"
     yt-id-ad="1rBwxGMT9ZM"
     path="/perspective-videos/cc/"
-    captions=captions
-    captions-ad=captions-ad
-    subtitles=subtitles
-    subtitles-ad=subtitles-ad
-    descriptions=descriptions
-    descriptions-ad=descriptions-ad
+    lang-folder=true
+    vtt-data-location="wai-perspective-videos"
+    vtt-name="keyboard"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
