@@ -31,6 +31,8 @@ image: /perspective-videos/img/overview.jpg
 footer: >
   <p><strong>Statut :</strong> Mise à jour : 5 juin 2023. CHANGELOG.<br>
   <strong>Rédacteur et chef de projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne (CE). ACKNOWLEDGEMENTS.</p>
+
+# Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
 
 L'accessibilité Web est essentielle pour les personnes en situation de handicap, et utile à tous. Découvrez les effets de l'accessibilité et ses bénéfices pour tous dans diverses situations.

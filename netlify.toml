@@ -12,3 +12,4 @@ RUBY_VERSION = "2.6.2"
 [dev]
 publish = "_site"
 framework = "#static"
+  

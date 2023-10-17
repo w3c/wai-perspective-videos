@@ -31,6 +31,8 @@ image: /perspective-videos/img/overview.jpg
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
   <p><strong>Status:</strong> Updated 5 June 2023. CHANGELOG.<br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. ACKNOWLEDGEMENTS.</p>
+
+# Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
 
 Web accessibility is essential for people with disabilities and useful for all. Learn about the impact of accessibility and the benefits for everyone in a variety of situations.

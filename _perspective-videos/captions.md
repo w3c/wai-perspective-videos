@@ -31,6 +31,8 @@ footer: >
    <p><strong>Date:</strong> Updated 23 January 2019.</p>
    <p><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. ACKNOWLEDGEMENTS lists contributors.</p>
    <p>Developed by the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated as part of the <a href="https://www.w3.org/WAI/DEV/">WAI Expanding Access Project</a>, supported by the Ford Foundation.</p>
+
+# Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
 
 Web accessibility is essential for people with disabilities and useful
