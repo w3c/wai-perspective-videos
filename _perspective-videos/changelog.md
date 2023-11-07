@@ -1,4 +1,5 @@
 ---
+# Do not translate Changelog
 lang: en
 permalink: /perspective-videos/changelog/
 ref: /perspective-videos/changelog/
@@ -7,6 +8,7 @@ title_html: Changelog for <a href="/perspective-videos/">Web Accessibility Persp
 nosidenav: true
 image: /perspective-videos/img/overview.jpg
 
+# Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
 
 **_Pending updates:_ frontmatter for translations.**

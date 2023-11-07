@@ -1,12 +1,36 @@
 ---
-lang: en
-permalink: /perspective-videos/contrast/
-title: Colors with Good Contrast
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
+title: "Colors with Good Contrast"
+nav_title: "Colors with Good Contrast"
+lang: en    # Change "en" to the translated-language shortcode
+last_updated: 2021-11-29    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 2
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
+permalink: /perspective-videos/contrast/    # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/contrast/  # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
 description: Short video about colors with good contrast for web accessibility - what is it, who depends on it, and what needs to happen to make it work.
 image: /perspective-videos/img/contrast.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below.
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Status:</strong> Updated 29 November 2021. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 29 November 2021. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
+
+# Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -16,13 +40,13 @@ everyone in a variety of situations.
 ## Video on Colors with Good Contrast
 {:#film.no-display}
 
-{% include video-player.html
+{% include video-player-data.html
     yt-id="Hui87z2Vx8o"
     yt-id-ad="a9kNUv6N8Rk"
-    captions="/perspective-videos/cc/contrast-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/contrast_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="/perspective-videos/cc/contrast_ad_desc-en.vtt|en|Descriptions"
+    path="/perspective-videos/cc/"
+    lang-folder=true
+    vtt-data-location="wai-perspective-videos"
+    vtt-name="contrast"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
@@ -68,8 +92,8 @@ sensitive to brightness and need to [change the colors](/perspective-videos/cust
     -   [Contrast ratio ("color
         contrast")](/test-evaluate/preliminary/#contrast)
 -   **User Story:**
-    -   [Mr. Lee, Online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories/#shopper)
-    -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
+    -   [Lee, online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories/#shopper)
+    -   [Yun, retiree with low vision, hand tremor, and mild
         short-term memory
         loss](/people-use-web/user-stories/#retiree)
 -   **User Needs:**

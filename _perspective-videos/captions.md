@@ -4,33 +4,35 @@
 
 title: "Video Captions"
 nav_title: "Video Captions"
+lang: en      # Change "en" to the translated-language shortcode
+last_updated: 2019-01-23      # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 6
 
-lang: en   # Change "en" to the translated-language shortcode from https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
-last_updated: 2019-01-23   # Put the date of this translation YYYY-MM-DD (with month in the middle)
-
-# translators:   # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
 # contributors:
 # - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
-github:
-  repository: w3c/wai-perspective-videos
-  path: _perspective-videos/captions.md    # Add the language shortcode to the middle of the filename, for example: perspective-videos/captions.md
-permalink: /perspective-videos/captions/   # Add the language shortcode to the end, with no slash at end, for example: /perspective-videos/captions/fr
-
-ref: /perspective-videos/captions/   # Translators, do not change this
+permalink: /perspective-videos/captions/  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/captions/   # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 description: Short video about captions for web accessibility - what are they, who depends on them, how they help everyone, and what needs to happen to make them work.
 image: /perspective-videos/img/captions.jpg
 
-footer: >   # Translate words below, including "Date:" and "Editor:" Translate the Working Group name. Leave the Working Group acronym in English. Do *not* change the dates in the footer below.
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below, including "Date:" and "Editor and project lead:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+footer: >
    <p><strong>Date:</strong> Updated 23 January 2019.</p>
-   <p><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. <a href="https://www.w3.org/WAI/perspective-videos/acknowledgements/">Acknowledgements</a> lists contributors.</p>
+   <p><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. ACKNOWLEDGEMENTS lists contributors.</p>
    <p>Developed by the Accessibility Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed as part of the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated as part of the <a href="https://www.w3.org/WAI/DEV/">WAI Expanding Access Project</a>, supported by the Ford Foundation.</p>
 
+# Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -40,13 +42,13 @@ everyone in a variety of situations.
 ## Video on Video Captions
 {:#film.no-display}
 
-{% include video-player.html
+{% include video-player-data.html
     yt-id="iWO5N3n1DXU"
     yt-id-ad="4qIordU8vT8"
-    captions="/perspective-videos/cc/captions-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/captions_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="/perspective-videos/cc/captions_ad_desc-en.vtt|en|Descriptions"
+    path="/perspective-videos/cc/"
+    lang-folder=true
+    vtt-data-location="wai-perspective-videos"
+    vtt-name="captions"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
@@ -99,18 +101,18 @@ Learn more {#resources}
 
 -   **Accessibility Principle:**
     -   [Captions and other alternatives for
-        multimedia](https://www.w3.org/WAI/intro/people-use-web/principles#captions)
+        multimedia](/fundamentals/accessibility-principles/#captions)
 -   **Getting Started:**
     -   [Create transcripts and captions for
-        multimedia](https://www.w3.org/WAI/gettingstarted/tips/writing.html#create-transcripts-and-captions-for-multimedia)
+        multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
 -   **Easy Check:**
     -   [Multimedia (video, audio)
-        alternatives](https://www.w3.org/WAI/eval/preliminary#media)
+        alternatives](/test-evaluate/preliminary/#media)
 -   **User Story:**
-    -   [Ms. Martinez, Online student who is hard of
-        hearing](https://www.w3.org/WAI/intro/people-use-web/stories.html#onlinestudent)
+    -   [Martine, online student who is hard of
+        hearing](/people-use-web/user-stories/#onlinestudent)
 -   **Web Content Accessibility Guidelines ([WCAG
-    Overview](https://www.w3.org/WAI/intro/wcag)):**
+    Overview](/standards-guidelines/wcag/)):**
     -   [Success Criteria relating to
         "captions"](https://www.w3.org/WAI/WCAG21/quickref/?tags=captions)
 -   **Mobile Applicability:**

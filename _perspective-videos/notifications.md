@@ -1,13 +1,36 @@
 ---
-lang: en
-permalink: /perspective-videos/notifications/
-ref: /perspective-videos/notifications/
-title: Notifications and Feedback
+# Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
+# In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
+
+title: "Notifications and Feedback"
+nav_title: "Notifications and Feedback"
+lang: en    # Change "en" to the translated-language shortcode
+last_updated: 2019-01-23    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 10
+
+# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+# - name: "Jan Doe"   # Replace Jan Doe with translator name
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
+# contributors:
+# - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
+# - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
+
+permalink: /perspective-videos/notifications/   # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+ref: /perspective-videos/notifications/ # Do not change this
+acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
 description: Short video about notifications and feedback for web accessibility - what are they, who depends on them, and what needs to happen to make them work.
 image: /perspective-videos/img/notifications.jpg
+
+# In the footer below:
+# Do not change the dates
+# Do not translate or change ACKNOWLEDGEMENTS
+# Translate the other words below.
+# Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. <a href="../acknowledgements/">Acknowledgements</a>.</p>
+  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
+
+# Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
 
 Web accessibility is essential for people with disabilities and useful
@@ -17,13 +40,13 @@ everyone in a variety of situations.
 ## Video on Notifications and Feedback
 {:#film.no-display}
 
-{% include video-player.html
+{% include video-player-data.html
     yt-id="E1fEv4Vpexg"
     yt-id-ad="jtteu0ilDXk"
-    captions="/perspective-videos/cc/notifications-en.vtt|en|Captions"
-    captions-ad="/perspective-videos/cc/notifications_ad-en.vtt|en|Captions"
-    descriptions=""
-    descriptions-ad="/perspective-videos/cc/notifications_ad_desc-en.vtt|en|Descriptions"
+    path="/perspective-videos/cc/"
+    lang-folder=true
+    vtt-data-location="wai-perspective-videos"
+    vtt-name="notifications"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
@@ -80,13 +103,13 @@ Learn more {#resources}
     -   [Forms, labels, and errors (including Search
         fields)](/test-evaluate/preliminary/#forms)
 -   **User Story:**
-    -   [Ms. Olsen, Classroom student with attention deficit
+    -   [Preety, middle school student with attention deficit
         hyperactivity disorder (ADHD) and
         dyslexia](/people-use-web/user-stories/#classroomstudent)
-    -   [Mr. Yunus, Retiree with low vision, hand tremor, and mild
+    -   [Yun, retiree with low vision, hand tremor, and mild
         short-term memory
         loss](/people-use-web/user-stories/#retiree)
-    -   [Mr. Sands, Supermarket assistant with Down
+    -   [Luis, supermarket assistant with Down
         syndrome](/people-use-web/user-stories/#supermarketassistant)
 -   **Web Content Accessibility Guidelines ([WCAG
     Overview](/standards-guidelines/wcag/)):**
@@ -94,7 +117,7 @@ Learn more {#resources}
         "errors"](https://www.w3.org/WAI/WCAG21/quickref/?tags=errors)
 -   **Tutorial:**
     -   [Forms - Web Accessibility
-        Tutorials](https://www.w3.org/WAI/tutorials/)
+        Tutorials](/tutorials/)
 
 ## Text Transcript with Description of Visuals {#transcript}
 
