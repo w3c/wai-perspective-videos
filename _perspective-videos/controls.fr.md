@@ -47,7 +47,7 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
     vtt-name="controls"
 %}
 
-Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuelles](#transcript) en bas de la page.
+Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
 Que signifie «&nbsp;des liens, des boutons, et des composants d'interface assez grands&nbsp;» ? {#what}
 ---------------------------------------------
