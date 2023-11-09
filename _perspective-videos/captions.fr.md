@@ -16,6 +16,10 @@ contributors:
 
 permalink: /perspective-videos/captions/fr  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/captions/  # Do not change this
+
+resource:
+    ref: /perspective-videos/ # Do not change this
+
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 description: Courte vidéo à propos des sous-titres de vidéos pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, comment ils aident chacun, et comment mettre cela en pratique.

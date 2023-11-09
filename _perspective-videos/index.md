@@ -18,6 +18,11 @@ order: 0
 
 permalink: /perspective-videos/ # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/  # Do not change this
+
+resource:
+  title: "Web Accessibility Perspectives Videos: Explore the Impact and Benefits for Everyone"
+  ref: /perspective-videos/ # Do not change this
+
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 changelog: /perspective-videos/changelog/ # Do not change this
 

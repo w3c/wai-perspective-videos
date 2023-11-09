@@ -18,6 +18,11 @@ contributors:
 permalink: /perspective-videos/fr # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/ # Do not change this
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
+
+resource:
+  title: "L'accessibilité Web illustrée : explorez ses effets et ses bénéfices pour tous"
+  ref: /perspective-videos/ # Do not change this
+
 changelog: /perspective-videos/changelog/ # Do not change this
 
 description: Courtes vidéos montrant en quoi l'accessibilité Web est essentielle pour les personnes en situation de handicap et utile pour tous dans diverses situations.

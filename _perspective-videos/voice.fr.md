@@ -17,6 +17,10 @@ contributors:
 permalink: /perspective-videos/voice/fr # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/voice/ # Do not change this
 changelog: /perspective-videos/changelog/ # Do not change this
+
+resource:
+    ref: /perspective-videos/ # Do not change this
+
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 description: Courte vidéo à propos de la reconnaissance vocale pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
