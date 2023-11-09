@@ -17,6 +17,10 @@ order: 10
 
 permalink: /perspective-videos/notifications/   # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/notifications/ # Do not change this
+
+resource:
+    ref: /perspective-videos/ # Do not change this
+
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 description: Short video about notifications and feedback for web accessibility - what are they, who depends on them, and what needs to happen to make them work.

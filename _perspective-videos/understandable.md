@@ -17,6 +17,10 @@ order: 9
 
 permalink: /perspective-videos/understandable/  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/understandable/    # Do not change this
+
+resource:
+    ref: /perspective-videos/ # Do not change this
+
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 description: Short video about understandable content for web accessibility - what is it, who depends on it, and what needs to happen to make it work.

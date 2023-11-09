@@ -15,6 +15,10 @@ contributors:
 
 permalink: /perspective-videos/contrast/fr # Add the language shortcode to the end, with no / at the end. For example /standards-guidelines/fr
 ref: /perspective-videos/contrast/  # Do not change this
+
+resource:
+    ref: /perspective-videos/ # Do not change this
+
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 order: 2
