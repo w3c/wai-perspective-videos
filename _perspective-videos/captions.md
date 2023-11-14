@@ -43,12 +43,9 @@ everyone in a variety of situations.
 {:#film.no-display}
 
 {% include video-player-data.html
+    video-id="captions"
     yt-id="iWO5N3n1DXU"
     yt-id-ad="4qIordU8vT8"
-    path="/perspective-videos/cc/"
-    lang-folder=true
-    vtt-data-location="wai-perspective-videos"
-    vtt-name="captions"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

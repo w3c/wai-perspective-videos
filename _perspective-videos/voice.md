@@ -43,12 +43,9 @@ Update: The video uses "voice recognition". This page is updated to use "speech 
 {:#film.no-display}
 
 {% include video-player-data.html
+    video-id="voice"
     yt-id="7RHG_XiQ0ck"
     yt-id-ad="21yWr7evHTs"
-    path="/perspective-videos/cc/"
-    lang-folder=true
-    vtt-data-location="wai-perspective-videos"
-    vtt-name="voice"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.

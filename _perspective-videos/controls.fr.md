@@ -39,12 +39,9 @@ L'accessibilité Web est essentielle pour les personnes en situation de handicap
 {:#film.no-display}
 
 {% include video-player-data.html
+    video-id="controls"
     yt-id="CzfKB3PuuIY"
     yt-id-ad="65G_twR47OQ"
-    path="/perspective-videos/cc/"
-    lang-folder=true
-    vtt-data-location="wai-perspective-videos"
-    vtt-name="controls"
 %}
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuelles](#transcript) en bas de la page.
