@@ -112,7 +112,7 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
     </tr>
     <tr>
       <td>Ada sesuatu tentang desain hebat yang memungkinkannya tersembunyi dari perhatian.</td>
-      <td>Tanda-tanda petunjuk arah ditampilkan. Seorang wanita sedang berjalan dengan gembira di jalan.</td>
+      <td>Tanda-tanda penunjuk arah ditampilkan. Seorang wanita sedang berjalan dengan gembira di jalan.</td>
     </tr>
     <tr>
       <td>Tapi tidak perlu banyak hal untuk membuat segalanya membingungkan dan membuat frustrasi.</td>
@@ -134,7 +134,7 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
     </tr>
     <tr>
       <td>Dengan warna yang bagus, situs web dan aplikasi dapat lebih mudah digunakan di lebih banyak situasi. Seperti dalam kondisi pencahayaan yang tidak mendukung.</td>
-      <td>Sinar atahari menyilaukan layar telepon tetapi teksnya masih terbaca.</td>
+      <td>Sinar matahari menyilaukan layar ponsel tetapi teksnya masih terbaca.</td>
     </tr>
     <tr>
       <td>Aksesibilitas web: Penting bagi sebagian orang, berguna bagi semua orang.</td>
