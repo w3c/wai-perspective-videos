@@ -119,11 +119,11 @@ Pelajari lebih jauh {#resources}
     </tr>
     <tr>
       <td>[tidak ada suara]</td>
-      <td>Video di komputernya menunjukkan seseorang berbicara ke kamera. Video diputar tanpa audio.</td>
+      <td>Video di komputernya menunjukkan seseorang berbicara ke kamera. Video tersebut diputar tanpa audio.</td>
     </tr>
     <tr>
-      <td>Mengesalkan bukan? Tidak mengetahui apa yang sedang terjadi. Itulah situasi bagi semua orang yang tidak dapat mendengar.</td>
-      <td>Pria yang menonton video tersebut memiliki alat bantu dengar.</td>
+      <td>Mengesalkan bukan? Tidak mengetahui apa yang sedang terjadi. Itulah yang dialami semua orang yang tidak dapat mendengar.</td>
+      <td>Pria yang menonton video tersebut menggunakan alat bantu dengar.</td>
     </tr>
     <tr>
       <td>Sulih teks membuat video menjadi aksesibel.</td>
@@ -131,7 +131,7 @@ Pelajari lebih jauh {#resources}
     </tr>
     <tr>
       <td>Sulih teks berguna juga bagi orang yang ingin menonton video di tempat yang bising.</td>
-      <td>Pria lain sedang menonton video dengan teks di sebelah sekelompok orang yang sedang mengobrol.</td>
+      <td>Pria lain sedang menonton video dengan teks di dekat sekelompok orang yang sedang mengobrol.</td>
     </tr>
     <tr>
       <td>Atau di tempat yang sangat, sangat memerlukan ketenangan.</td>
