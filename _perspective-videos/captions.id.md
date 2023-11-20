@@ -80,7 +80,7 @@ Apa manfaat lainnya? {#others}
 Apa yang perlu dilakukan agar ini bekerja? {#action}
 --------------------------------------
 
-Sulih teks harus tersedia dengan konten video siaran langsung dan video prarekam. Perangkat lunak pengenalan suara dapat membantu membuat sulih teks untuk beberapa jenis video. Terkadang perangkat lunak pengenalan suara tersebut sudah dibangun di dalam komputer atau platform media sosial. Sulih teks yang dibuat secara otomatis sering kali perlu diedit. Kini terdapat penyedia layanan sulih teks untuk berbagai bahasa, banyak juga penyedia layanan remot.
+Sulih teks harus tersedia dengan konten video siaran langsung dan video prarekam. Perangkat lunak pengenalan suara dapat membantu membuat sulih teks untuk beberapa jenis video. Terkadang perangkat lunak pengenalan suara tersebut sudah dibangun di dalam komputer atau platform media sosial. Sulih teks yang dibuat secara otomatis sering kali perlu diedit. Kini terdapat penyedia layanan sulih teks untuk berbagai bahasa, banyak juga penyedia layanan jarak jauh.
 
 Pelajari lebih jauh {#resources}
 ----------
@@ -98,7 +98,7 @@ Pelajari lebih jauh {#resources}
 -   **Penerapan pada Perangkat Seluler:**
     -   [Multimedia tanpa sulih teks](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
 
-## Text Transcript with Description of Visuals {#transcript}
+## Transkripsi dengan Deskripsi Visual {#transcript}
 
  <table>
   <thead>
@@ -110,7 +110,7 @@ Pelajari lebih jauh {#resources}
   <tbody>
     <tr>
       <td>Perspektif Aksesibilitas Web: Sulih Teks Video</td>
-      <td>erspektif Aksesibilitas Web:<br>
+      <td>Perspektif Aksesibilitas Web:<br>
         Sulih Teks Video</td>
     </tr>
     <tr>
