@@ -89,7 +89,7 @@ Pelajari lebih lanjut {#resources}
     -   [Mengubah ukuran teks](/test-evaluate/preliminary/#resize)
 -   **Kisah Pengguna:**
     -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
-    -   [Preety, siswa sekolah menengah yang memiliki gangguan pemusatan perhatian hiperaktivitas (ADHD) dan disleksia](/people-use-web/user-stories/#classroomstudent)
+    -   [Preety, siswa sekolah menengah yang memiliki Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) serta disleksia](/people-use-web/user-stories/#classroomstudent)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
     -   [Kriteria Sukses terkait "teks"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
 -   **[Gambaran Umum Pedoman Aksesibilitas Agen Pengguna (UAAG)](/standards-guidelines/uaag/):**
