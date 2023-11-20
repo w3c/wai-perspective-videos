@@ -4,7 +4,7 @@
 
 title: "Sulih Teks Video"
 nav_title: "Sulih Teks Video"
-lang: en      # Change "en" to the translated-language shortcode
+lang: id      # Change "en" to the translated-language shortcode
 last_updated: 2023-11-20      # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 6
 
