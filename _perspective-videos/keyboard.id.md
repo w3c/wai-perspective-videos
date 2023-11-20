@@ -62,8 +62,8 @@ Semua fungsionalitas harus dapat digunakan dengan kibor. Artinya, pengguna dapat
 ## Siapa yang membutuhkan fitur ini?
 {:#who}
 
--   Penyandang disabilitas fisik yang tidak bisa menggunakan mouse.
--   Penyandang tunanetra, dan yang tidak dapat melihat penunjuk tetikus di layar.
+-   Penyandang disabilitas fisik yang tidak bisa menggunakan tetikus.
+-   Penyandang tunanetra, dan yang tidak dapat melihat penunjuk tetikus pada layar.
 -   Orang dengan kondisi kronis, seperti cedera regangan berulang (RSI), yang perlu membatasi atau menghindari penggunaan tetikus.
 
 ## Apa manfaat lainnya?
@@ -82,7 +82,7 @@ Kontrol HTML natif, seperti tautan, tombol, dan elemen isian, dapat berfungsi de
 -   **Prinsip Aksesibilitas:**
     -   [Fungsionalitas tersedia melalui Kibor](/fundamentals/accessibility-principles/#keyboard)
 -   **Memulai:**
-    -   [Ensure that all interactive elements are keyboard accessible](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+    -   [Memastikan semua elemen interaktif dapat diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
 -   **Pengecekan Sederhana:**
     -   [Akses kibor dan fokus visual](/test-evaluate/preliminary/#interaction)
 -   **User Story:**
