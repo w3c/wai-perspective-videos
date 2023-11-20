@@ -70,7 +70,7 @@ Apa manfaat lainnya? {#others}
 -   Konten lebih mudah digunakan bagi orang yang tidak berpengalaman dengan tetikus atau papan sentuh pada komputer yang mereka gunakan.
 -   Konten lebih mudah digunakan dalam situasi di mana perangkat tidak dapat digunakan dengan stabil.
 
-Apa yang perlu dilakukan agar ini bekerja? {#action}
+Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
 Desain kontrol dengan ukuran atau area aktivasi di sekitarnya yang besar (hanya meningkatkan ukuran font kontrol terkadang tidak cukup.) Berikan jarak pemisah yang cukup antara tiap kontrol yang dapat dipilih. Berikan label pada kontrol, karena di banyak browser label untuk kotak centang dan tombol opsi akan memperbesar area aktivasi.

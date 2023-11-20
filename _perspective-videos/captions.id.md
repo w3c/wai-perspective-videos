@@ -77,7 +77,7 @@ Apa manfaat lainnya? {#others}
 -   Konten dalam bentuk teks, seperti berkas sulih teks dan transkripsi, diindeks dengan lebih baik oleh mesin pencarian.
 -   Konten dapat dikonsumsi tanpa perlu mengunduh berkas video, misalnya untuk menghemat data di ponsel.
 
-Apa yang perlu dilakukan agar ini bekerja? {#action}
+Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
 Sulih teks harus tersedia dengan konten video siaran langsung dan video prarekam. Perangkat lunak pengenalan suara dapat membantu membuat sulih teks untuk beberapa jenis video. Terkadang perangkat lunak pengenalan suara tersebut sudah dibangun di dalam komputer atau platform media sosial. Sulih teks yang dibuat secara otomatis sering kali perlu diedit. Kini terdapat penyedia layanan sulih teks untuk berbagai bahasa, banyak juga penyedia layanan jarak jauh.

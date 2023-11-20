@@ -71,7 +71,7 @@ Warna harus memiliki kontras yang cukup, misalnya, antara warna teks dan warna l
 -   Konten tetap bekerja dalam kondisi pencahayaan tidak mendukung, seperti saat ada sinar matahari dan silau.
 -   Konten lebih mudah dibaca oleh semua orang, termasuk mereka yang tidak mempunyai kondisi visual tertentu.
 
-## Apa yang perlu dilakukan agar ini bekerja?
+## Apa yang perlu dilakukan agar ini bekerja dengan baik?
 {:#action}
 
 Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada alat yang bisa membantu memeriksa dan memilih kombinasi warna yang sesuai. Idealnya hal ini dilakukan pada tahap awal desain dan pemilihan palet warna. Meskipun sebagian orang memerlukan kontras tinggi, ada sebagian orang yang sensitif terhadap tingkat kecerahan dan perlu bisa [mengubah warna](/perspective-videos/customizable/).

@@ -51,7 +51,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
     vtt-name="customizable"
 %}
 
-This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
+Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcript) di bawah.
 
 Apa itu "Teks yang Dapat Disesuaikan"? {#what}
 ----------------------------
@@ -63,7 +63,7 @@ ukuran teks.
 Siapa yang membutuhkan fitur ini? {#who}
 ----------------------------
 
--   Penhyandang rabun dan tidak menggunakan perangkat lunak untuk memperbesar layar.
+-   Penyandang rabun dan tidak menggunakan perangkat lunak untuk memperbesar layar.
 -   Penyandang beberapa tipe disleksia, tunagrahita, dan kesulitan belajar lainnya yang memerlukan tampilan teks tertentu untuk bisa membacanya.
 
 Apa manfaat lainnya? {#others}
@@ -73,7 +73,7 @@ Apa manfaat lainnya? {#others}
 -   Konten lebih mudah disesuaikan dengan preferensi dan kenyamanan pribadi.
 -   Konten lebih mudah disesuaikan ketika diterjemahkan, karena kata dan kalimat pada bahasa yang berbeda-beda memiliki panjang yang berbeda-beda pula.
 
-Apa yang perlu dilakukan agar ini bekerja? {#action}
+Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
 Konten harus dirancang dan dikode dengan benar agar dapat berubah dengan pengaturan penyesuaian yang berbeda. Hal ini mencakup penggunaan satuan relatif dan bukan absolut untuk ukuran font, kontrol, dan objek lainnya. Aplikasi harus menggunakan sistem operasi dan pengaturan teks pada browser web. Situs web dan aplikasi juga dapat memberikan informasi untuk membantu pengguna mengubah pengaturan mereka. Browser web dan perangkat web lainnya perlu menyediakan fungsionalitas penyesuaian teks kepada pengguna.
@@ -89,7 +89,7 @@ Pelajari lebih lanjut {#resources}
     -   [Mengubah ukuran teks](/test-evaluate/preliminary/#resize)
 -   **Kisah Pengguna:**
     -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
-    -   [Preety, siswa sekolah menengah yang memiliki Gangguan pemusatan perhatian dan hiperaktivitas serta disleksia](/people-use-web/user-stories/#classroomstudent)
+    -   [Preety, siswa sekolah menengah yang memiliki gangguan pemusatan perhatian dan hiperaktivitas serta disleksia](/people-use-web/user-stories/#classroomstudent)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
     -   [Kriteria Sukses terkait "teks"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
 -   **[Gambaran Umum Pedoman Aksesibilitas Agen Pengguna (UAAG)](/standards-guidelines/uaag/):**
@@ -99,7 +99,7 @@ Pelajari lebih lanjut {#resources}
 -   **Kebutuhan Pengguna:**
     -   [Persyaratan Aksesibilitas bagi Penyandang Rabun](http://www.w3.org/TR/low-vision-needs/)
         
-## Text Transcript with Description of Visuals {#transcript}
+## Transkripsi dan Deskripsi Visual {#transcript}
 <table>
   <thead>
     <tr>
@@ -126,7 +126,7 @@ Pelajari lebih lanjut {#resources}
     </tr>
     <tr>
       <td>Situs web dan aplikasi yang dikode dengan benar memungkinkan penyesuaian teks. Misalnya untuk mengubah ukuran, spasi, font, dan warna tanpa kehilangan fungsi atau kejelasan.</td>
-      <td>Wanita tersebut menggunakan pengaturan pada browser web untuk menyesuaikan ukuran dan gaya teks. Teks tampak lebih terbaca dan wanita itu merasa lega.</td>
+      <td>Wanita tersebut menggunakan pengaturan pada browser web untuk menyesuaikan ukuran dan gaya teks. Sekarang lebih terbaca dan wanita tersebut merasa lega.</td>
     </tr>
     <tr>
       <td>Aksesibilitas web: Penting bagi sebagian orang, berguna bagi semua orang.</td>
