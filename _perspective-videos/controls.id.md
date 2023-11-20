@@ -8,7 +8,7 @@ lang: id   # Change "en" to the translated-language shortcode
 last_updated: 2023-11-20    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 5
 
-# translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+translators: Fri Rasyidi # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
 # - name: "Jan Doe"   # Replace Jan Doe with translator name
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
 # contributors:
@@ -88,7 +88,7 @@ Pelajari lebih lanjut {#resources}
 -   **Kisah Pengguna:**
     -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
-    -   [Kriteria sukses terkait "label"](https://www.w3.org/WAI/WCAG21/quickref/?tags=labels)
+    -   [Kriteria Sukses terkait "label"](https://www.w3.org/WAI/WCAG21/quickref/?tags=labels)
 
 ## Transkripsi dan Deskripsi Visual {#transcript}
 

@@ -90,7 +90,7 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
     -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
 -   **Kebutuhan Pengguna:**
     -   [Persyaratan Aksesibilitas bagi Penderita Rabun](http://www.w3.org/TR/low-vision-needs/)
--   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/)):**
+-   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
     -   [Kriteria Sukses terkait "kontras"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast)
 -   **Penerapan pada Perangkat Seluler:**
     -   [Penyampaian informasi hanya dari warna](/standards-guidelines/shared-experiences/#color)
