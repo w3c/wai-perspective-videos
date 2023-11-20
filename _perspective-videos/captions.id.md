@@ -15,7 +15,7 @@ order: 6
 # - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple contributors
 
-permalink: /perspective-videos/captions/  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
+permalink: /perspective-videos/captions/id  # Add the language shortcode to the end, with no slash at the end. For example /path/to/file/fr
 ref: /perspective-videos/captions/   # Do not change this
 
 resource:
