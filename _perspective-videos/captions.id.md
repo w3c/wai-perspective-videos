@@ -41,7 +41,7 @@ footer: >
 
 Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang. Pelajari tentang dampak aksesibilitas dan manfaatnya bagi semua orang dalam berbagai situasi.
 
-## Video Mengenai Sulih Teks Video
+## Video tentang Sulih Teks Video
 {:#film.no-display}
 
 {% include video-player-data.html
@@ -89,7 +89,7 @@ Pelajari lebih jauh {#resources}
     -   [Sulih teks dan alternatif lain untuk multimedia](/fundamentals/accessibility-principles/#captions)
 -   **Memulai:**
     -   [Membuat transkripsi dan sulih teks untuk multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
--   **Pemeriksaan Mudah:**
+-   **Pengecekan Sederhana:**
     -   [Alternatif multimedia (video, audio)](/test-evaluate/preliminary/#media)
 -   **Kisah Pengguna:**
     -   [Martine, siswa daring dengan kesulitan pendengaran](/people-use-web/user-stories/#onlinestudent)

@@ -83,7 +83,7 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
     -   [Konten lebih mudah dilihat dan didengar](/fundamentals/accessibility-principles/#distinguishable)
 -   **Memulai:**
     -   [Menyediakan kontras yang cukup antara latar depan dan latar belakang](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
--   **Pemeriksaan Mudah:**
+-   **Pengecekan Sederhana:**
     -   [Rasio Kontras ("kontras warna")](/test-evaluate/preliminary/#contrast)
 -   **Kisah Pengguna:**
     -   [Lee, pembeli daring yang tidak bisa membedakan warna tertentu (buta warna)](/people-use-web/user-stories/#shopper)

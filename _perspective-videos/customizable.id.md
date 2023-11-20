@@ -39,7 +39,7 @@ footer: >
 
 Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang. Pelajari tentang dampak aksesibilitas dan manfaatnya bagi semua orang dalam berbagai situasi.
 
-## Video on Teks yang Dapat Disesuaikan
+## Video tentang Teks yang Dapat Disesuaikan
 {:#film.no-display}
 
 {% include video-player-data.html
@@ -63,7 +63,7 @@ ukuran teks.
 Siapa yang membutuhkan fitur ini? {#who}
 ----------------------------
 
--   Penyandang rabun dan tidak menggunakan perangkat lunak untuk memperbesar layar.
+-   Penyandang rabun yang tidak menggunakan perangkat lunak untuk memperbesar layar.
 -   Penyandang beberapa tipe disleksia, tunagrahita, dan kesulitan belajar lainnya yang memerlukan tampilan teks tertentu untuk bisa membacanya.
 
 Apa manfaat lainnya? {#others}
@@ -85,7 +85,7 @@ Pelajari lebih lanjut {#resources}
     -   [Konten bisa disajikan dengan berbagai cara](/fundamentals/accessibility-principles/#adaptable)
 -   **Memulai:**
     -   [Menulis kode yang menyesuaikan dengan teknologi pengguna](/tips/developing/#write-code-that-adapts-to-the-users-technology)
--   **Pemeriksaan Mudah:**
+-   **Pengecekan Sederhana:**
     -   [Mengubah ukuran teks](/test-evaluate/preliminary/#resize)
 -   **Kisah Pengguna:**
     -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)

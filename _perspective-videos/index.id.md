@@ -44,7 +44,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 
 ## Perspectives Videos
 
-- [![](img/thumbnails/keyboard.jpg)<br>Kompatibilitas Kibor]({{ "/perspective-videos/keyboard/id" | relative_url }})
+- [![](img/thumbnails/keyboard.jpg)<br>Kompatibilitas dengan Kibor]({{ "/perspective-videos/keyboard/id" | relative_url }})
 - [![](img/thumbnails/contrast.jpg)<br>Warna dengan Kontras yang Baik]({{ "/perspective-videos/contrast/id" | relative_url }})
 - [![](img/thumbnails/layout.jpg)<br>Tata Letak dan Desain yang Jelas]({{ "/perspective-videos/layout/id" | relative_url }})
 - [![](img/thumbnails/speech.jpg)<br>Teks ke Suara]({{ "/perspective-videos/speech/id" | relative_url }})

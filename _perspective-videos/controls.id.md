@@ -39,7 +39,7 @@ footer: >
 
 Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang. Pelajari tentang dampak aksesibilitas dan manfaatnya bagi semua orang dalam berbagai situasi.
 
-## Video on Large Links, Buttons, and Controls
+## Video tentang Large Links, Buttons, and Controls
 {:#film.no-display}
 
 {% include video-player-data.html
@@ -83,7 +83,7 @@ Pelajari lebih lanjut {#resources}
 -   **Memulai:**
     -   [Buat desain untuk ukuran layar yang berbeda-beda](/tips/designing/#create-designs-for-different-viewport-sizes)
     -   [Pastikan elemen isian disertai dengan label yang jelas](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
--   **Pemeriksaan Mudah:**
+-   **Pengecekan Sederhana:**
     -   [Isian, label, dan eror](/test-evaluate/preliminary/#forms)
 -   **Kisah Pengguna:**
     -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
