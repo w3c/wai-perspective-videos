@@ -5,14 +5,18 @@
     - en
   subtitles:
     - fr
+    - id
   subtitles-ad:
     - fr
+    - id
   descriptions:
     - en
     - fr
+    - id
   descriptions-ad:
     - en
     - fr
+    - id
 - name: contrast
   captions:
     - en
