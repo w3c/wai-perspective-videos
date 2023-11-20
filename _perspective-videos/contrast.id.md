@@ -52,7 +52,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 %}
 
 
-Informasi video ini tersedia sebagai [Transkripsi Teks dengan Deskripsi Visual](#transcript) di bawah.
+Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcript) di bawah.
 
 ## Apa itu "Warna dengan Kontras yang Baik"?
 {:#what}

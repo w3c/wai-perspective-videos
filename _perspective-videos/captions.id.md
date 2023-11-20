@@ -53,7 +53,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
     vtt-name="captions"
 %}
 
-Informasi video ini tersedia sebagai [Transkripsi Teks dengan Deskripsi Visual](#transcript) di bawah.
+Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcript) di bawah.
 
 Apa itu "Sulih Teks Video"? {#what}
 -------------------------
