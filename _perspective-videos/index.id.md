@@ -35,7 +35,7 @@ image: /perspective-videos/img/overview.jpg
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Status:</strong> Diperbarui 5 Juni 2023. CHANGELOG.<br><strong>Editor dan pimpinan proyek:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Dikembangkan oleh <a href="https://www.w3.org/WAI/EO/">Kelompok Kerja Edukasi dan Pendampingan (EOWG)</a> dengan dukungan dari <a href="https://www.w3.org/WAI/DEV/">proyek WAI-DEV</a>, didanai bersama dengan Komisi Eropa. ACKNOWLEDGEMENTS.</p>
+  <p><strong>Status:</strong> Diperbarui 5 Juni 2023. CHANGELOG.<br><strong>Editor dan pimpinan proyek:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Dikembangkan oleh <a href="https://www.w3.org/WAI/EO/">Kelompok Kerja Edukasi dan Pendampingan (EOWG)</a> dengan dukungan dari <a href="https://www.w3.org/WAI/DEV/">proyek WAI-DEV</a>, didanai bersama oleh Komisi Eropa. ACKNOWLEDGEMENTS.</p>
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
@@ -49,7 +49,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 - [![](img/thumbnails/layout.jpg)<br>Tata Letak dan Desain yang Jelas]({{ "/perspective-videos/layout/id" | relative_url }})
 - [![](img/thumbnails/speech.jpg)<br>Teks ke Suara]({{ "/perspective-videos/speech/id" | relative_url }})
 - [![](img/thumbnails/controls.jpg)<br>Tautan, Tombol, dan Kontrol yang Besar]({{ "/perspective-videos/controls/id" | relative_url }})
-- [![](img/thumbnails/captions.jpg)<br>Keterangan Video]({{ "/perspective-videos/captions/id" | relative_url }})
+- [![](img/thumbnails/captions.jpg)<br>Sulih Teks Video]({{ "/perspective-videos/captions/id" | relative_url }})
 - [![](img/thumbnails/customizable.jpg)<br>Teks yang Dapat Disesuaikan]({{ "/perspective-videos/customizable/id" | relative_url }})
 - [![](img/thumbnails/voice.jpg)<br>Pengenalan Suara]({{ "/perspective-videos/voice/id" | relative_url }})
 - [![](img/thumbnails/understandable.jpg)<br>Konten yang Mudah Dipahami]({{ "/perspective-videos/understandable/id" | relative_url }})
