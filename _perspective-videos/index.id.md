@@ -54,7 +54,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 - [![](img/thumbnails/voice.jpg)<br>Pengenalan Suara]({{ "/perspective-videos/voice/" | relative_url }})
 - [![](img/thumbnails/understandable.jpg)<br>Konten yang Mudah Dipahami]({{ "/perspective-videos/understandable/" | relative_url }})
 - [![](img/thumbnails/notifications.jpg)<br>Notifikasi dan Umpan Balik]({{ "/perspective-videos/notifications/" | relative_url }})
-  {:.two.columns.linklist}
+{:.two.columns.linklist}
 
 **Kompilasi semua 10 video (7:36 menit): [kompilasi di YouTube {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://www.youtube.com/watch?v=3f31oufqFSM)**, [kompilasi di server W3C (format berkas: MP4, file size: 73MB) {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://media.w3.org/wai/perspective-videos/compilation.mp4), [berkas subtitel (SRT) {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://media.w3.org/wai/perspective-videos/compilation.srt)
 
