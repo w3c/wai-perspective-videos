@@ -56,7 +56,7 @@ Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcr
 Apa itu "Tautan, Tombol, dan Kontrol yang Besar"? {#what}
 ---------------------------------------------
 
-Area untuk klik dan sentuh untuk kontrol harus cukup luas agar orang dapat menggunakannya. Ini termasuk tautan, tombol, kotak centang, dan kontrol lainnya. Kontrol kecil, dan kontrol yang ditempatkan terlalu berdekatan, sulit digunakan oleh banyak orang. Hal ini terutama relevan pada perangkat seluler dengan layar kecil.
+Area klik dan sentuh untuk kontrol harus cukup luas agar orang dapat menggunakannya. Ini termasuk tautan, tombol, kotak centang, dan kontrol lainnya. Kontrol kecil, dan kontrol yang ditempatkan terlalu berdekatan, sulit digunakan oleh banyak orang. Hal ini terutama relevan pada perangkat seluler yang memiliki layar kecil.
 
 Siapa yang membutuhkan fitur ini? {#who}
 ----------------------------
@@ -68,18 +68,18 @@ Apa manfaat lainnya? {#others}
 
 -   Konten lebih mudah digunakan pada layar sentuh, terutama pada perangkat seluler yang lebih kecil.
 -   Konten lebih mudah digunakan bagi orang yang tidak berpengalaman dengan tetikus atau papan sentuh pada komputer yang mereka gunakan.
--   Konten lebih mudah digunakan dalam situasi di mana perangkat tidak dapat dipegang dengan stabil.
+-   Konten lebih mudah digunakan dalam situasi di mana perangkat tidak dapat digunakan dengan stabil.
 
 Apa yang perlu dilakukan agar ini bekerja? {#action}
 --------------------------------------
 
-Rancang kontrol dengan ukuran atau area aktivasi di sekitar kontrol yang besar (Hanya meningkatkan ukuran font kontrol terkadang tidak cukup.) Berikan pemisahan yang memadai antara kontrol yang dapat dipilih. Berikan label untuk kontrol, yang akan memperbesar area aktivasi di banyak browser karena label untuk kotak centang dan tombol opsi juga bisa diklik.
+Desain kontrol dengan ukuran atau area aktivasi di sekitarnya yang besar (hanya meningkatkan ukuran font kontrol terkadang tidak cukup.) Berikan jarak pemisah yang cukup antara tiap kontrol yang dapat dipilih. Berikan label pada kontrol, karena di banyak browser label untuk kotak centang dan tombol opsi akan memperbesar area aktivasi.
 
 Pelajari lebih lanjut {#resources}
 ----------
 
 -   **Prinsip Aksesibilitas:**
-    -   [Pengguna bisa menavigasi, mencari konten, dan menentukan dimana dia berada](/fundamentals/accessibility-principles/#navigable)
+    -   [Pengguna bisa menavigasi, mencari konten, dan menentukan di mana dia berada](/fundamentals/accessibility-principles/#navigable)
 -   **Memulai:**
     -   [Buat desain untuk ukuran layar yang berbeda-beda](/tips/designing/#create-designs-for-different-viewport-sizes)
     -   [Pastikan elemen isian disertai dengan label yang jelas](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
