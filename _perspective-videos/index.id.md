@@ -44,19 +44,19 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 
 ## Perspectives Videos
 
-- [![](img/thumbnails/keyboard.jpg)<br>Kompatibilitas Kibor]({{ "/perspective-videos/keyboard/" | relative_url }})
-- [![](img/thumbnails/contrast.jpg)<br>Warna dengan Kontras yang Baik]({{ "/perspective-videos/contrast/" | relative_url }})
-- [![](img/thumbnails/layout.jpg)<br>Tata Letak dan Desain yang Jelas]({{ "/perspective-videos/layout/" | relative_url }})
-- [![](img/thumbnails/speech.jpg)<br>Teks ke Suara]({{ "/perspective-videos/speech/" | relative_url }})
-- [![](img/thumbnails/controls.jpg)<br>Tautan, Tombol, dan Kontrol yang Besar]({{ "/perspective-videos/controls/" | relative_url }})
-- [![](img/thumbnails/captions.jpg)<br>Keterangan Video]({{ "/perspective-videos/captions/" | relative_url }})
-- [![](img/thumbnails/customizable.jpg)<br>Teks yang Dapat Disesuaikan]({{ "/perspective-videos/customizable/" | relative_url }})
-- [![](img/thumbnails/voice.jpg)<br>Pengenalan Suara]({{ "/perspective-videos/voice/" | relative_url }})
-- [![](img/thumbnails/understandable.jpg)<br>Konten yang Mudah Dipahami]({{ "/perspective-videos/understandable/" | relative_url }})
-- [![](img/thumbnails/notifications.jpg)<br>Notifikasi dan Umpan Balik]({{ "/perspective-videos/notifications/" | relative_url }})
+- [![](img/thumbnails/keyboard.jpg)<br>Kompatibilitas Kibor]({{ "/perspective-videos/keyboard/id" | relative_url }})
+- [![](img/thumbnails/contrast.jpg)<br>Warna dengan Kontras yang Baik]({{ "/perspective-videos/contrast/id" | relative_url }})
+- [![](img/thumbnails/layout.jpg)<br>Tata Letak dan Desain yang Jelas]({{ "/perspective-videos/layout/id" | relative_url }})
+- [![](img/thumbnails/speech.jpg)<br>Teks ke Suara]({{ "/perspective-videos/speech/id" | relative_url }})
+- [![](img/thumbnails/controls.jpg)<br>Tautan, Tombol, dan Kontrol yang Besar]({{ "/perspective-videos/controls/id" | relative_url }})
+- [![](img/thumbnails/captions.jpg)<br>Keterangan Video]({{ "/perspective-videos/captions/id" | relative_url }})
+- [![](img/thumbnails/customizable.jpg)<br>Teks yang Dapat Disesuaikan]({{ "/perspective-videos/customizable/id" | relative_url }})
+- [![](img/thumbnails/voice.jpg)<br>Pengenalan Suara]({{ "/perspective-videos/voice/id" | relative_url }})
+- [![](img/thumbnails/understandable.jpg)<br>Konten yang Mudah Dipahami]({{ "/perspective-videos/understandable/id" | relative_url }})
+- [![](img/thumbnails/notifications.jpg)<br>Notifikasi dan Umpan Balik]({{ "/perspective-videos/notifications/id" | relative_url }})
 {:.two.columns.linklist}
 
-**Kompilasi semua 10 video (7:36 menit): [kompilasi di YouTube {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://www.youtube.com/watch?v=3f31oufqFSM)**, [kompilasi di server W3C (format berkas: MP4, file size: 73MB) {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://media.w3.org/wai/perspective-videos/compilation.mp4), [berkas subtitel (SRT) {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://media.w3.org/wai/perspective-videos/compilation.srt)
+**Kompilasi semua 10 video (7:36 menit): [kompilasi di YouTube {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://www.youtube.com/watch?v=3f31oufqFSM)**, [kompilasi di server W3C (format berkas: MP4, ukuran berkas: 73MB) {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://media.w3.org/wai/perspective-videos/compilation.mp4), [berkas subtitel (SRT) {% include icon.html name="external-link" label="Tautan Eksternal" %}](https://media.w3.org/wai/perspective-videos/compilation.srt)
 
 ## Pelajari Lebih Lanjut tentang Aksesibilitas Web
 
