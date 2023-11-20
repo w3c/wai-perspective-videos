@@ -98,7 +98,7 @@ Pelajari lebih jauh {#resources}
 -   **Penerapan pada Perangkat Seluler:**
     -   [Multimedia tanpa sulih teks](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
 
-## Transkripsi dengan Deskripsi Visual {#transcript}
+## Transkripsi dan Deskripsi Visual {#transcript}
 
  <table>
   <thead>

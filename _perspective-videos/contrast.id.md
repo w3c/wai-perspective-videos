@@ -74,7 +74,7 @@ Warna harus memiliki kontras yang cukup, misalnya, antara warna teks dan warna l
 ## Apa yang perlu dilakukan agar ini bekerja?
 {:#action}
 
-Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada alat untuk membantu memeriksa dan memilih kombinasi warna yang sesuai. Idealnya hal ini dilakukan pada tahap awal desain dan pemilihan palet warna. Meskipun sebagian orang memerlukan kontras tinggi, ada sebagian orang yang sensitif terhadap kecerahan dan perlu bisa [mengubah warna](/perspective-videos/customizable/).
+Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada alat yang bisa membantu memeriksa dan memilih kombinasi warna yang sesuai. Idealnya hal ini dilakukan pada tahap awal desain dan pemilihan palet warna. Meskipun sebagian orang memerlukan kontras tinggi, ada sebagian orang yang sensitif terhadap tingkat kecerahan dan perlu bisa [mengubah warna](/perspective-videos/customizable/).
 
 ## Pelajari lebih lanjut
 {:#resources}
@@ -87,15 +87,15 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
     -   [Rasio Kontras ("kontras warna")](/test-evaluate/preliminary/#contrast)
 -   **Kisah Pengguna:**
     -   [Lee, pembeli daring yang tidak bisa membedakan warna tertentu (buta warna)](/people-use-web/user-stories/#shopper)
-    -   [Yun, pensiunan dengan gangguan penglihatan, tangan gemetar, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
+    -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
 -   **Kebutuhan Pengguna:**
     -   [Persyaratan Aksesibilitas bagi Penderita Rabun](http://www.w3.org/TR/low-vision-needs/)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/)):**
     -   [Kriteria Sukses terkait "kontras"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast)
 -   **Penerapan pada Perangkat Seluler:**
-    -   [Penyampaian information hanya dari warna](/standards-guidelines/shared-experiences/#color)
+    -   [Penyampaian informasi hanya dari warna](/standards-guidelines/shared-experiences/#color)
 
-## Transkripsi dengan Deskripsi Visual {#transcript}
+## Transkripsi dan Deskripsi Visual {#transcript}
 
 <table>
   <thead>
@@ -106,9 +106,9 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
   </thead>
   <tbody>
     <tr>
-      <td>Perspektif Aksesibilitas Web: Waena dan Kontras yang Baik</td>
+      <td>Perspektif Aksesibilitas Web: Warna dan Kontras yang Baik</td>
       <td>Perspektif Aksesibilitas Web:<br>
-        Waena dan Kontras yang Baik</td>
+        Warna dan Kontras yang Baik</td>
     </tr>
     <tr>
       <td>Ada sesuatu tentang desain hebat yang memungkinkannya tersembunyi dari perhatian.</td>
