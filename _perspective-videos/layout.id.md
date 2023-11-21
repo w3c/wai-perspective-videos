@@ -145,7 +145,7 @@ Desain struktur yang jelas, baik secara visual maupun dengan menggunakan penanda
       <td>Kunjungi w3.org/WAI/perspectives untuk informasi lebih lanjut terkait Tata Letak dan Desain yang Jelas</td>
       <td>Kunjungi<br>
         w3.org/WAI/perspectives<br>
-        for more information on<br>
+        untuk informasi lebih lanjut terkait<br>
         Tata Letak dan Desain yang Jelas. <br>
         Logo Inisiatif Aksesibilitas Web W3C</td>
     </tr>
