@@ -135,7 +135,7 @@ Pelajari lebih lanjut {#resources}
       <td>Pesan kesalahan berubah menjadi: &quot;Format tidak valid, format yang diperlukan adalah 'hari/bulan/tahun'&quot;.</td>
     </tr>
     <tr>
-      <td>Membuat situs web dan aplikasi yang dapat diprediksi dan dimengerti menjadikannya aksesibel bagi orang-orang dengan disabilitas kognitif dan belajar...<br></td>
+      <td>Membuat situs web dan aplikasi yang dapat diprediksi dan dipahami menjadikannya aksesibel bagi orang-orang dengan disabilitas kognitif dan belajar...<br></td>
       <td>Seorang wanita mencoba masuk ke Wi-Fi sebuah kafe dan menerima pesan kesalahan yang tidak jelas.</td>
     </tr>
     <tr>
