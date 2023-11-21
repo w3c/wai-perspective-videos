@@ -91,13 +91,13 @@ Pelajari lebih lanjut {#resources}
 -   **Pengecekan Sederhana:**
     -   [Akses kibor dan fokus visual](/test-evaluate/preliminary/#interaction)
     -   [Isian, label, dan eror](/test-evaluate/preliminary/#forms)
--   **User Story:**
+-   **Kisah Pengguna:**
     -   [Alex, reporter dengan cedera regangan berulang (RSI)](/people-use-web/user-stories/#reporter)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
     -   [Kriteria Sukses terkait "kibor" dan "kontrol"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols)
 -   **Penerapan pada Perangkat Seluler:**
     -   [Tetikus dibutuhkan untuk interaksi dan navigasi](/standards-guidelines/shared-experiences/#mouse)
-    -   [Label tautan yang tidak descriptif](/standards-guidelines/shared-experiences/#link-label)
+    -   [Label tautan yang tidak deskriptif](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutorial:**
     -   [Tutorial Aksesibilitas Web](/tutorials/)
         (beberapa topik terkait)
