@@ -47,7 +47,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 - [![](img/thumbnails/keyboard.jpg)<br>Kompatibilitas dengan Kibor]({{ "/perspective-videos/keyboard/id" | relative_url }})
 - [![](img/thumbnails/contrast.jpg)<br>Warna dengan Kontras yang Baik]({{ "/perspective-videos/contrast/id" | relative_url }})
 - [![](img/thumbnails/layout.jpg)<br>Tata Letak dan Desain yang Jelas]({{ "/perspective-videos/layout/id" | relative_url }})
-- [![](img/thumbnails/speech.jpg)<br>Teks ke Suara]({{ "/perspective-videos/speech/id" | relative_url }})
+- [![](img/thumbnails/speech.jpg)<br>Sulih Suara]({{ "/perspective-videos/speech/id" | relative_url }})
 - [![](img/thumbnails/controls.jpg)<br>Tautan, Tombol, dan Kontrol yang Besar]({{ "/perspective-videos/controls/id" | relative_url }})
 - [![](img/thumbnails/captions.jpg)<br>Sulih Teks Video]({{ "/perspective-videos/captions/id" | relative_url }})
 - [![](img/thumbnails/customizable.jpg)<br>Teks yang Dapat Disesuaikan]({{ "/perspective-videos/customizable/id" | relative_url }})
