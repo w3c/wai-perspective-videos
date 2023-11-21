@@ -122,7 +122,7 @@ Kontrol HTML natif, seperti tautan, tombol, dan elemen isian, dapat berfungsi de
     </tr>
     <tr>
       <td>Entah itu keterbatasan mobilitas sementara,</td>
-      <td>Seorang wanita yang menggunakan sling lengan sedang mengetik di kibor &mdash; namun situs web memerlukan penggunaan tetikus untuk memilih tanggal.</td>
+      <td>Seorang wanita yang menggunakan gendongan lengan sedang mengetik di kibor &mdash; namun situs web memerlukan penggunaan tetikus untuk memilih tanggal.</td>
     </tr>
     <tr>
       <td>disabilitas fisik permanen,</td>

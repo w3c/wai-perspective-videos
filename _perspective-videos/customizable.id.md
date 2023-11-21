@@ -57,7 +57,7 @@ Apa itu "Teks yang Dapat Disesuaikan"? {#what}
 ----------------------------
 
 Beberapa pengguna perlu bisa mengubah bagaimana teks ditampilkan agar
-mereka dapat membaca teks tersebut. Ini termasuk mengubah ukuran, spasi, font, warna, dan properti teks lainnya. Saat pengguna mengubah properti ini, seharusnya tidak ada informasi atau fungsi yang hilang, dan teks seharusnya menyesuaikan tempatnya sehingga pengguna tidak perlu menggeser layar secara horizontal untuk membaca sebuah kalimat. Penyesuaian teks lebih dari sekadar fungsi zoom, yang hanya akan mengubah
+mereka dapat membaca teks tersebut. Ini termasuk mengubah ukuran, spasi, font, warna, dan properti teks lainnya. Saat pengguna mengubah properti ini, seharusnya tidak ada informasi atau fungsi yang hilang, dan teks seharusnya menyesuaikan tempatnya sehingga pengguna tidak perlu menggulirkan layar secara horizontal untuk membaca sebuah kalimat. Penyesuaian teks lebih dari sekadar fungsi zoom, yang hanya akan mengubah
 ukuran teks.
 
 Siapa yang membutuhkan fitur ini? {#who}
