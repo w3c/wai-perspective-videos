@@ -52,7 +52,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 - [![](img/thumbnails/captions.jpg)<br>Sulih Teks Video]({{ "/perspective-videos/captions/id" | relative_url }})
 - [![](img/thumbnails/customizable.jpg)<br>Teks yang Dapat Disesuaikan]({{ "/perspective-videos/customizable/id" | relative_url }})
 - [![](img/thumbnails/voice.jpg)<br>Pengenalan Suara]({{ "/perspective-videos/voice/id" | relative_url }})
-- [![](img/thumbnails/understandable.jpg)<br>Konten yang Dapat Dipahami]({{ "/perspective-videos/understandable/id" | relative_url }})
+- [![](img/thumbnails/understandable.jpg)<br>Konten yang Dapat Dimengerti]({{ "/perspective-videos/understandable/id" | relative_url }})
 - [![](img/thumbnails/notifications.jpg)<br>Notifikasi dan Umpan Balik]({{ "/perspective-videos/notifications/id" | relative_url }})
 {:.two.columns.linklist}
 
