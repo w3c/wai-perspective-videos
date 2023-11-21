@@ -23,7 +23,7 @@ resource:
 
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
-description: SVideo singkat tentang tata letak dan desain yang jelas untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
+description: Video singkat tentang tata letak dan desain yang jelas untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
 
 # In the footer below:
 # Do not change the dates
@@ -52,7 +52,7 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 
 Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcript) di bawah.
 
-## What is "Tata Letak dan Desain yang Jelas"? {#what}
+## Apa itu "Tata Letak dan Desain yang Jelas"? {#what}
 
 Berbagai bagian dari halaman web harus mudah ditemukan dan diidentifikasi. Ini termasuk menu navigasi, tautan, dan bagian teks. Mereka harus berada di lokasi yang mudah diprediksi dan diidentifikasi secara konsisten. Label isian dan instruksi juga harus dikaitkan secara jelas dengan kontrolnya.
 
@@ -77,13 +77,13 @@ Desain struktur yang jelas, baik secara visual maupun dengan menggunakan penanda
 -   **Prinsip Aksesibilitas:**
     -   [Pengguna bisa menavigasi, mencari konten, dan menentukan di mana dia berada](/fundamentals/accessibility-principles/#navigable)
     -   [Konten muncul dan beroperasi dengan cara yang dapat diprediksi](/fundamentals/accessibility-principles/#predictable)
--   **Getting Started:**
+-   **Memulai:**
     -   [Sediakan opsi navigasi yang konsisten dan jelas](/tips/designing/#provide-clear-and-consistent-navigation-options)
     -   [Pastikan elemen interaktif mudah diidentifikasi](/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
     -   [Pastikan elemen isian disertai dengan label yang jelas](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
 -   **Pengecekan Sederhana:**
     -   [Isian, label, dan eror](/test-evaluate/preliminary/#forms)
--   **User Story:**
+-   **Kisah Pengguna:**
     -   [Preety, csiswa sekolah menengah yang memiliki Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) serta disleksia](/people-use-web/user-stories/#classroomstudent)
     -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
     -   [Luis, asisten supermarket dengan Sindrom Down](/people-use-web/user-stories/#supermarketassistant)
