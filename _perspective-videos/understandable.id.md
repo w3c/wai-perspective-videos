@@ -115,7 +115,7 @@ Pelajari lebih lanjut {#resources}
         Konten yang Dapat Dimengerti</td>
     </tr>
     <tr>
-      <td>Daripada mengatakan: &quot;Dengan congkak mendalilkan terlebih memuakkan dibanding prosa bersintaksis muluk adalah hal yang mendugalkan&quot;,<br>
+      <td>Daripada mengatakan: &quot;Mengejawantahkan ujaran secara congkak menggunakan prosa bersintaksis muluk terang menetaskan rasa dugal&quot;,<br>
         lebih baik mengatakan: &quot;Diberitahu dengan bahasa yang terlalu panjang dan rumit itu menyebalkan&quot;..</td>
       <td>Dua orang mencoba mengikuti instruksi di situs memasak yang menggunakan banyak teks tanpa ilustrasi atau pun struktur.</td>
     </tr>
