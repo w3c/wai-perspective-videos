@@ -72,7 +72,7 @@ Apa manfaat lainnya? {#others}
 
 -   Konten dapat dikonsumsi di lingkungan bising di mana Anda tidak dapat mendengar audionya.
 -   Konten dapat digunakan di lingkungan senyap di mana Anda tidak boleh mengaktifkan suara.
--   Konten lebih mudah dipahami dengan mendengar dan melihat suatu informasi, misalnya orang yang kurang fasih dalam bahasa yang diucapkan.
+-   Konten lebih mudah dimengerti dengan mendengar dan melihat suatu informasi, misalnya orang yang kurang fasih dalam bahasa yang diucapkan.
 -   Konten bisa dibaca alih-alih ditonton, yang lebih cepat dan mudah dilakukan bagi sebagian orang.
 -   Konten dalam bentuk teks, seperti berkas sulih teks dan transkripsi, diindeks dengan lebih baik oleh mesin pencarian.
 -   Konten dapat dikonsumsi tanpa perlu mengunduh berkas video, misalnya untuk menghemat data di ponsel.
