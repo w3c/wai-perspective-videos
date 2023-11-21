@@ -131,7 +131,7 @@ Pelajari lebih lanjut {#resources}
     </tr>
     <tr>
       <td>Namun hal ini juga penting bagi banyak penderita disleksia.</td>
-      <td>Seorang wanita sedang membaca di tablet dan mendengarkan dengan *headphone*.</td>
+      <td>Seorang wanita sedang membaca di tablet dan mendengarkan dengan <i>headphone</i>.</td>
     </tr>
     <tr>
       <td>Dan sangat berguna bagi orang yang kesulitan membaca teks.</td>
@@ -143,7 +143,7 @@ Pelajari lebih lanjut {#resources}
     </tr>
     <tr>
       <td>Namun agar ini bisa bekerja, situs web dan aplikasi perlu dikode dengan benar.</td>
-      <td>Situs web tidak berfungsi dengan baik untuk wanita yang memakai *headphone*. Dia tampak kesal.</td>
+      <td>Situs web tidak berfungsi dengan baik untuk wanita yang memakai <i>headphone</i>. Dia tampak kesal.</td>
     </tr>
     <tr>
       <td>Yang memiliki manfaat tambahan membantu mesin pencarian mengindeks konten situs web tersebut dengan lebih baik.</td>
@@ -151,7 +151,7 @@ Pelajari lebih lanjut {#resources}
     </tr>
     <tr>
       <td>Aksesibilitas web: Penting bagi sebagian orang, berguna bagi semua orang.</td>
-      <td>Pria dengan anjing penolong menggunakan perangkat selulernya di luar dengan *headphone* konduksi tulang. Orang yang berbeda dari sebelumnya terlihat menggunakan teknologi sulih suara.</td>
+      <td>Pria dengan anjing penolong menggunakan perangkat selulernya di luar dengan <i>headphone</i> konduksi tulang. Orang yang berbeda dari sebelumnya terlihat menggunakan teknologi sulih suara.</td>
     </tr>
     <tr>
       <td>Kunjungi w3.org/WAI/perspectives untuk informasi lebih lanjut terkait Sulih Suara</td>
