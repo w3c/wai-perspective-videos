@@ -8,8 +8,8 @@ lang: id    # Change "en" to the translated-language shortcode
 last_updated: 2023-11-21    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 3
 
-translators: Fri Rasyidi # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
+translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+- name: "Fri Rasyidi"   # Replace Jan Doe with translator name
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
 # contributors:
 # - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
@@ -38,7 +38,7 @@ footer: >
 
 Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang. Pelajari tentang dampak aksesibilitas dan manfaatnya bagi semua orang dalam berbagai situasi.
 
-## Video on Tata Letak dan Desain yang Jelas
+## Video tentang Tata Letak dan Desain yang Jelas
 {:#film.no-display}
 
 {% include video-player-data.html
@@ -84,7 +84,7 @@ Desain struktur yang jelas, baik secara visual maupun dengan menggunakan penanda
 -   **Pengecekan Sederhana:**
     -   [Isian, label, dan eror](/test-evaluate/preliminary/#forms)
 -   **Kisah Pengguna:**
-    -   [Preety, csiswa sekolah menengah yang memiliki Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) serta disleksia](/people-use-web/user-stories/#classroomstudent)
+    -   [Preety, siswa sekolah menengah yang memiliki Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) serta disleksia](/people-use-web/user-stories/#classroomstudent)
     -   [Yun, pensiunan dengan gangguan penglihatan, tangan tremor, dan kehilangan ingatan jangka pendek ringan](/people-use-web/user-stories/#retiree)
     -   [Luis, asisten supermarket dengan Sindrom Down](/people-use-web/user-stories/#supermarketassistant)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**

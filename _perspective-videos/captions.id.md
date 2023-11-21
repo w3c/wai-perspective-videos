@@ -8,8 +8,8 @@ lang: id      # Change "en" to the translated-language shortcode
 last_updated: 2023-11-20      # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 6
 
-translators: Fri Rasyidi # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
-# - name: "Jan Doe"   # Replace Jan Doe with translator name
+translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
+- name: "Fri Rasyidi"   # Replace Jan Doe with translator name
 # - name: "Jan Doe"   # Replace Jan Doe with name, or delete this line if not multiple translators
 # contributors:
 # - name: "Jan Doe"   # Replace Jan Doe with contributor name, or delete this line if none
@@ -82,7 +82,7 @@ Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 
 Sulih teks harus tersedia dengan konten video siaran langsung dan video prarekam. Perangkat lunak pengenalan suara dapat membantu membuat sulih teks untuk beberapa jenis video. Terkadang perangkat lunak pengenalan suara tersebut sudah dibangun di dalam komputer atau platform media sosial. Sulih teks yang dibuat secara otomatis sering kali perlu diedit. Kini terdapat penyedia layanan sulih teks untuk berbagai bahasa, banyak juga penyedia layanan jarak jauh.
 
-Pelajari lebih jauh {#resources}
+Pelajari lebih lanjut {#resources}
 ----------
 
 -   **Prinsip Aksesibilitas:**
