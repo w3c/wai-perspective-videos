@@ -85,7 +85,7 @@ Pelajari lebih lanjut {#resources}
     -   [Konten muncul dan beroperasi dengan cara yang dapat diprediksi](/fundamentals/accessibility-principles/#predictable)
     -   [Pengguna dibantu untuk menghindari dan memperbaiki kesalahan](/fundamentals/accessibility-principles/#tolerant)
 -   **Memulai:**
-    -   [Berikan instruksi yang jelas](/tips/writing/#provide-clear-instructions)
+    -   [Sediakan instruksi yang jelas](/tips/writing/#provide-clear-instructions)
     -   [Bantu pengguna menghindari dan memperbaiki kesalahan](/tips/developing/#help-users-avoid-and-correct-mistakes)
 -   **Pengecekan Sederhana:**
     -   [Isian, label, and eror (termasuk Bidang Pencarian)](/test-evaluate/preliminary/#forms)
