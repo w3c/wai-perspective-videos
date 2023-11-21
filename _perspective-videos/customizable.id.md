@@ -64,7 +64,7 @@ Siapa yang membutuhkan fitur ini? {#who}
 ----------------------------
 
 -   Penyandang rabun yang tidak menggunakan perangkat lunak untuk memperbesar layar.
--   Penyandang beberapa tipe disleksia, tunagrahita, dan kesulitan belajar lainnya yang memerlukan tampilan teks tertentu untuk bisa membacanya.
+-   Penyandang beberapa tipe disleksia, disabilitas kognitif, dan kesulitan belajar lainnya yang memerlukan tampilan teks tertentu untuk bisa membacanya.
 
 Apa manfaat lainnya? {#others}
 ---------------------------------

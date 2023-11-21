@@ -63,9 +63,9 @@ Sulih teks merupakan bentuk teks dari informasi audio dalam video dan animasi. M
 Siapa yang membutuhkan fitur ini? {#who}
 ----------------------------
 
--   Penyandang tunanetra dan tidak dapat mendengar audionya.
+-   Penyandang disabilitas netra dan tidak dapat mendengar audionya.
 -   Yang mengalami gangguan pendengaran dan tidak dapat mendengar sebagian isinya.
--   Penyandang tunagrahita dan kesulitan belajar yang perlu melihat dan mendengar konten untuk lebih memahaminya.
+-   Penyandang disabilitas kognitif dan kesulitan belajar yang perlu melihat dan mendengar konten untuk lebih memahaminya.
 
 Apa manfaat lainnya? {#others}
 ---------------------------------

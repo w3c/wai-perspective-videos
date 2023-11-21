@@ -63,7 +63,7 @@ Semua fungsionalitas harus dapat digunakan dengan kibor. Artinya, pengguna dapat
 {:#who}
 
 -   Penyandang disabilitas fisik yang tidak bisa menggunakan tetikus.
--   Penyandang tunanetra, dan yang tidak dapat melihat penunjuk tetikus pada layar.
+-   Penyandang disabilitas netra, dan yang tidak dapat melihat penunjuk tetikus pada layar.
 -   Orang dengan kondisi kronis, seperti cedera regangan berulang (RSI), yang perlu membatasi atau menghindari penggunaan tetikus.
 
 ## Apa manfaat lainnya?
@@ -87,8 +87,8 @@ Kontrol HTML natif, seperti tautan, tombol, dan elemen isian, dapat berfungsi de
     -   [Akses kibor dan fokus visual](/test-evaluate/preliminary/#interaction)
 -   **User Story:**
     -   [Alex, reporter dengan cedera regangan berulang (RSI)](/people-use-web/user-stories/#reporter)
-    -   [Ilya, anggota staf senior yang tunanetra](/people-use-web/user-stories/#accountant)
-    -   [Kaseem, remaja yang tunarungu dan tunanetra](/people-use-web/user-stories/#teenager)
+    -   [Ilya, anggota staf senior yang disabilitas netra](/people-use-web/user-stories/#accountant)
+    -   [Kaseem, remaja yang disabilitas rungu dan disabilitas netra](/people-use-web/user-stories/#teenager)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
     -   [Kriteria Sukses terkait "kibor"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard)
 -   **Penerapan pada Perangkat Seluler:**
