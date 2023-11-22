@@ -73,7 +73,7 @@ Apa manfaat lainnya? {#others}
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Desain kontrol dengan ukuran atau area aktivasi di sekitarnya yang besar (hanya meningkatkan ukuran font kontrol terkadang tidak cukup.) Berikan jarak pemisah yang cukup antara tiap kontrol yang dapat dipilih. Berikan label pada kontrol, karena di banyak browser label untuk kotak centang dan tombol opsi akan memperbesar area aktivasi.
+Desain kontrol dengan ukuran atau area aktivasi di sekitarnya yang besar (hanya meningkatkan ukuran fon pada kontrol terkadang tidak cukup.) Berikan jarak pemisah yang cukup antara tiap kontrol yang dapat dipilih. Berikan label pada kontrol, karena di banyak browser label untuk kotak centang dan tombol opsi akan memperbesar area aktivasi.
 
 Pelajari lebih lanjut {#resources}
 ----------

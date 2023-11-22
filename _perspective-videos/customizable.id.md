@@ -57,7 +57,7 @@ Apa itu "Teks yang Dapat Disesuaikan"? {#what}
 ----------------------------
 
 Beberapa pengguna perlu bisa mengubah bagaimana teks ditampilkan agar
-mereka dapat membaca teks tersebut. Ini termasuk mengubah ukuran, spasi, font, warna, dan properti teks lainnya. Saat pengguna mengubah properti ini, seharusnya tidak ada informasi atau fungsi yang hilang, dan teks seharusnya menyesuaikan tempatnya sehingga pengguna tidak perlu menggulirkan layar secara horizontal untuk membaca sebuah kalimat. Penyesuaian teks lebih dari sekadar fungsi zoom, yang hanya akan mengubah
+mereka dapat membaca teks tersebut. Ini termasuk mengubah ukuran, spasi, fon, warna, dan properti teks lainnya. Saat pengguna mengubah properti ini, seharusnya tidak ada informasi atau fungsi yang hilang, dan teks seharusnya menyesuaikan tempatnya sehingga pengguna tidak perlu menggulirkan layar secara horizontal untuk membaca sebuah kalimat. Penyesuaian teks lebih dari sekadar fungsi zoom, yang hanya akan mengubah
 ukuran teks.
 
 Siapa yang membutuhkan fitur ini? {#who}
@@ -76,7 +76,7 @@ Apa manfaat lainnya? {#others}
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Konten harus dirancang dan dikode dengan benar agar dapat berubah dengan pengaturan penyesuaian yang berbeda. Hal ini mencakup penggunaan satuan relatif dan bukan absolut untuk ukuran font, kontrol, dan objek lainnya. Aplikasi harus menggunakan sistem operasi dan pengaturan teks pada browser web. Situs web dan aplikasi juga dapat memberikan informasi untuk membantu pengguna mengubah pengaturan mereka. Browser web dan perangkat web lainnya perlu menyediakan fungsionalitas penyesuaian teks kepada pengguna.
+Konten harus dirancang dan dikode dengan benar agar dapat berubah dengan pengaturan penyesuaian yang berbeda. Hal ini mencakup penggunaan satuan relatif dan bukan absolut untuk ukuran fon, kontrol, dan objek lainnya. Aplikasi harus menggunakan sistem operasi dan pengaturan teks pada browser web. Situs web dan aplikasi juga dapat memberikan informasi untuk membantu pengguna mengubah pengaturan mereka. Browser web dan perangkat web lainnya perlu menyediakan fungsionalitas penyesuaian teks kepada pengguna.
 
 Pelajari lebih lanjut {#resources}
 ----------
@@ -122,10 +122,10 @@ Pelajari lebih lanjut {#resources}
     </tr>
     <tr>
       <td>Mampu menyesuaikan teks sangat krusial bagi penderita rabun dan disleksia.</td>
-      <td>Seorang wanita memakai kacamata untuk membaca situs web di laptopnya. Wanita itu memicingkan mata untuk melihat teks kecil dan font yang tidak biasa pada sebuah situs web.</td>
+      <td>Seorang wanita memakai kacamata untuk membaca situs web di laptopnya. Wanita itu memicingkan mata untuk melihat teks kecil dan fon yang tidak biasa pada sebuah situs web.</td>
     </tr>
     <tr>
-      <td>Situs web dan aplikasi yang dikode dengan benar memungkinkan penyesuaian teks. Misalnya untuk mengubah ukuran, spasi, font, dan warna tanpa kehilangan fungsi atau kejelasan.</td>
+      <td>Situs web dan aplikasi yang dikode dengan benar memungkinkan penyesuaian teks. Misalnya untuk mengubah ukuran, spasi, fon, dan warna tanpa kehilangan fungsi atau kejelasan.</td>
       <td>Wanita tersebut menggunakan pengaturan pada browser web untuk menyesuaikan ukuran dan gaya teks. Sekarang lebih terbaca dan wanita tersebut merasa lega.</td>
     </tr>
     <tr>
