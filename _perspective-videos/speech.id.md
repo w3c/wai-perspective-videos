@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
 
-title: "Sulih Suara"
-nav_title: "Sulih Suara"
+title: "Teks-ke-Ucapan"
+nav_title: "Teks-ke-Ucapan"
 lang: id    # Change "en" to the translated-language shortcode
 last_updated: 2023-11-21    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 4
@@ -23,7 +23,7 @@ resource:
 
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
-description: Video singkat tentang sulih suara untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
+description: Video singkat tentang teks-ke-ucapan untuk aksesibilitas web - apa itu, siapa yang membutuhkannya, dan apa yang perlu dilakukan agar bekerja dengan semestinya.
 image: /perspective-videos/img/speech.jpg
 
 # In the footer below:
@@ -41,7 +41,7 @@ footer: >
 
 Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang. Pelajari tentang dampak aksesibilitas dan manfaatnya bagi semua orang dalam berbagai situasi.
 
-## Video tentang Sulih Suara
+## Video tentang Teks-ke-Ucapan
 {:#film.no-display}
 
 {% include video-player-data.html
@@ -55,10 +55,10 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 
 Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcript) di bawah.
 
-Apa itu "Sulih Suara"? {#what}
+Apa itu "Teks-ke-Ucapan"? {#what}
 -------------------------
 
-Banyak komputer dan perangkat seluler saat ini telah dilengkapi perangkat lunak sulih suara. Beberapa penyandang disabilitas, termasuk penyandang disabilitas netra, menggunakan perangkat lunak khusus yang disebut pembaca layar. Pembaca layar menyediakan fungsionalitas penting seperti menavigasi judul, mengucapkan alternatif gambar, dan mengidentifikasi tautan internal dan eksternal. Mereka juga dapat menyorot teks saat dibacakan agar pengguna bisa melihat dan mendengar kontennya pada saat yang bersamaan. Konten harus diberi kode dengan benar sehingga semua fungsi perangkat lunak sulih suara berfungsi pada konten tersebut.
+Banyak komputer dan perangkat seluler saat ini telah dilengkapi perangkat lunak teks-ke-ucapan. Beberapa penyandang disabilitas, termasuk penyandang disabilitas netra, menggunakan perangkat lunak khusus yang disebut pembaca layar. Pembaca layar menyediakan fungsionalitas penting seperti menavigasi judul, mengucapkan alternatif gambar, dan mengidentifikasi tautan internal dan eksternal. Mereka juga dapat menyorot teks saat dibacakan agar pengguna bisa melihat dan mendengar kontennya pada saat yang bersamaan. Konten harus diberi kode dengan benar sehingga semua fungsi perangkat lunak teks-ke-ucapan berfungsi pada konten tersebut.
 
 Siapa yang membutuhkan fitur ini? {#who}
 ----------------------------
@@ -116,9 +116,9 @@ Pelajari lebih lanjut {#resources}
   </thead>
   <tbody>
     <tr>
-      <td>Perspektif Aksesibilitas Web: Sulih Suara</td>
+      <td>Perspektif Aksesibilitas Web: Teks-ke-Ucapan</td>
       <td>Perspektif Aksesibilitas Web:<br>
-        Sulih Suara</td>
+        Teks-ke-Ucapan</td>
     </tr>
     <tr>
       <td>(Komputer) &quot;Beberapa orang tidak dapat melihat teks di layar ini.&quot;<br>
@@ -151,14 +151,14 @@ Pelajari lebih lanjut {#resources}
     </tr>
     <tr>
       <td>Aksesibilitas web: Penting bagi sebagian orang, berguna bagi semua orang.</td>
-      <td>Pria dengan anjing penolong menggunakan perangkat selulernya di luar dengan <i>headphone</i> konduksi tulang. Orang yang berbeda dari sebelumnya terlihat menggunakan teknologi sulih suara.</td>
+      <td>Pria dengan anjing penolong menggunakan perangkat selulernya di luar dengan <i>headphone</i> konduksi tulang. Orang yang berbeda dari sebelumnya terlihat menggunakan teknologi teks-ke-ucapan.</td>
     </tr>
     <tr>
-      <td>Kunjungi w3.org/WAI/perspectives untuk informasi lebih lanjut terkait Sulih Suara</td>
+      <td>Kunjungi w3.org/WAI/perspectives untuk informasi lebih lanjut terkait Teks-ke-Ucapan</td>
       <td>Kunjungi<br>
         w3.org/WAI/perspectives<br>
         untuk informasi lebih lanjut terkait<br>
-        Sulih Suara. <br>
+        Teks-ke-Ucapan. <br>
         Logo Inisiatif Aksesibilitas Web W3C</td>
     </tr>
   </tbody>

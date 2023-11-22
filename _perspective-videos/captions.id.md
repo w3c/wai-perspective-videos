@@ -2,8 +2,8 @@
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after #.
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:".
 
-title: "Sulih Teks Video"
-nav_title: "Sulih Teks Video"
+title: "Takarir Video"
+nav_title: "Takarir Video"
 lang: id      # Change "en" to the translated-language shortcode
 last_updated: 2023-11-20      # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 6
@@ -23,7 +23,7 @@ resource:
 
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
-description: Video singkat tentang sulih teks untuk aksesibilitas web - apa itu sulih teks, siapa yang membutuhkannya, bagaimana sulih teks membantu semua orang, dan apa yang perlu dilakukan agar teks tersebut bekerja dengan semestinya.
+description: Video singkat tentang takarir untuk aksesibilitas web - apa itu takarir, siapa yang membutuhkannya, bagaimana takarir membantu semua orang, dan apa yang perlu dilakukan agar teks tersebut bekerja dengan semestinya.
 image: /perspective-videos/img/captions.jpg
 
 # In the footer below:
@@ -41,7 +41,7 @@ footer: >
 
 Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi semua orang. Pelajari tentang dampak aksesibilitas dan manfaatnya bagi semua orang dalam berbagai situasi.
 
-## Video tentang Sulih Teks Video
+## Video tentang Takarir Video
 {:#film.no-display}
 
 {% include video-player-data.html
@@ -55,10 +55,10 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 
 Informasi video ini tersedia sebagai [Transkripsi dan Deskripsi Visual](#transcript) di bawah.
 
-Apa itu "Sulih Teks Video"? {#what}
+Apa itu "Takarir Video"? {#what}
 -------------------------
 
-Sulih teks merupakan bentuk teks dari informasi audio dalam video dan animasi. Mencakup kata-kata yang diucapkan, siapa yang berbicara ketika tidak jelas, dan suara-suara penting seperti musik, tawa, dan suara latar lainnya. Sulih teks harus disinkronkan dengan konten visual agar sesuai dengan konteksnya.
+Takarir merupakan bentuk teks dari informasi audio dalam video dan animasi. Mencakup kata-kata yang diucapkan, siapa yang berbicara ketika tidak jelas, dan suara-suara penting seperti musik, tawa, dan suara latar lainnya. Takarir harus disinkronkan dengan konten visual agar sesuai dengan konteksnya.
 
 Siapa yang membutuhkan fitur ini? {#who}
 ----------------------------
@@ -74,29 +74,29 @@ Apa manfaat lainnya? {#others}
 -   Konten dapat digunakan di lingkungan senyap di mana Anda tidak boleh mengaktifkan suara.
 -   Konten lebih mudah dimengerti dengan mendengar dan melihat suatu informasi, misalnya orang yang kurang fasih dalam bahasa yang diucapkan.
 -   Konten bisa dibaca alih-alih ditonton, yang lebih cepat dan mudah dilakukan bagi sebagian orang.
--   Konten dalam bentuk teks, seperti berkas sulih teks dan transkripsi, diindeks dengan lebih baik oleh mesin pencarian.
+-   Konten dalam bentuk teks, seperti berkas takarir dan transkripsi, diindeks dengan lebih baik oleh mesin pencarian.
 -   Konten dapat dikonsumsi tanpa perlu mengunduh berkas video, misalnya untuk menghemat data di ponsel.
 
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Sulih teks harus tersedia dengan konten video siaran langsung dan video prarekam. Perangkat lunak pengenalan suara dapat membantu membuat sulih teks untuk beberapa jenis video. Terkadang perangkat lunak pengenalan suara tersebut sudah dibangun di dalam komputer atau platform media sosial. Sulih teks yang dibuat secara otomatis sering kali perlu diedit. Kini terdapat penyedia layanan sulih teks untuk berbagai bahasa, banyak juga penyedia layanan jarak jauh.
+Takarir harus tersedia dengan konten video siaran langsung dan video prarekam. Perangkat lunak pengenalan suara dapat membantu membuat takarir untuk beberapa jenis video. Terkadang perangkat lunak pengenalan suara tersebut sudah dibangun di dalam komputer atau platform media sosial. Takarir yang dibuat secara otomatis sering kali perlu diedit. Kini terdapat penyedia layanan takarir untuk berbagai bahasa, banyak juga penyedia layanan jarak jauh.
 
 Pelajari lebih lanjut {#resources}
 ----------
 
 -   **Prinsip Aksesibilitas:**
-    -   [Sulih teks dan alternatif lain untuk multimedia](/fundamentals/accessibility-principles/#captions)
+    -   [Takarir dan alternatif lain untuk multimedia](/fundamentals/accessibility-principles/#captions)
 -   **Memulai:**
-    -   [Membuat transkripsi dan sulih teks untuk multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
+    -   [Membuat transkripsi dan takarir untuk multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
 -   **Pengecekan Sederhana:**
     -   [Alternatif multimedia (video, audio)](/test-evaluate/preliminary/#media)
 -   **Kisah Pengguna:**
     -   [Martine, siswa daring dengan kesulitan pendengaran](/people-use-web/user-stories/#onlinestudent)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
-    -   [Kriteria Sukses terkait "sulih teks"](https://www.w3.org/WAI/WCAG21/quickref/?tags=captions)
+    -   [Kriteria Sukses terkait "takarir"](https://www.w3.org/WAI/WCAG21/quickref/?tags=captions)
 -   **Penerapan pada Perangkat Seluler:**
-    -   [Multimedia tanpa sulih teks](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
+    -   [Multimedia tanpa takarir](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
 
 ## Transkripsi dan Deskripsi Visual {#transcript}
 
@@ -109,9 +109,9 @@ Pelajari lebih lanjut {#resources}
   </thead>
   <tbody>
     <tr>
-      <td>Perspektif Aksesibilitas Web: Sulih Teks Video</td>
+      <td>Perspektif Aksesibilitas Web: Takarir Video</td>
       <td>Perspektif Aksesibilitas Web:<br>
-        Sulih Teks Video</td>
+        Takarir Video</td>
     </tr>
     <tr>
       <td>Video bukan hanya tentang gambar, tetapi juga tentang suara. Tanpa audio, Anda akan perlu menebak film ini tentang apa.</td>
@@ -126,11 +126,11 @@ Pelajari lebih lanjut {#resources}
       <td>Pria yang menonton video tersebut menggunakan alat bantu dengar.</td>
     </tr>
     <tr>
-      <td>Sulih teks membuat video menjadi aksesibel.</td>
-      <td>Dia mengaktifkan sulih teks untuk video yang sedang diputar.</td>
+      <td>Takarir membuat video menjadi aksesibel.</td>
+      <td>Dia mengaktifkan takarir untuk video yang sedang diputar.</td>
     </tr>
     <tr>
-      <td>Sulih teks berguna juga bagi orang yang ingin menonton video di tempat yang bising.</td>
+      <td>Takarir berguna juga bagi orang yang ingin menonton video di tempat yang bising.</td>
       <td>Pria lain sedang menonton video dengan teks di dekat sekelompok orang yang sedang mengobrol.</td>
     </tr>
     <tr>
@@ -139,14 +139,14 @@ Pelajari lebih lanjut {#resources}
     </tr>
     <tr>
       <td>Aksesibilitas web: Penting bagi sebagian orang, berguna bagi semua orang.</td>
-      <td>Video ditampilkan sedang diputar dengan sulih teks menyala.</td>
+      <td>Video ditampilkan sedang diputar dengan takarir menyala.</td>
     </tr>
     <tr>
-      <td>Kunjungi w3.org/WAI/perspectives untuk informasi lebih lanjut tentang Sulih Teks Video</td>
+      <td>Kunjungi w3.org/WAI/perspectives untuk informasi lebih lanjut tentang Takarir Video</td>
       <td>Kunjungi<br>
         w3.org/WAI/perspectives<br>
         untuk informasi lebih lanjut tentang<br>
-        Sulih Teks Video. <br>
+        Takarir Video. <br>
         Logo Inisiatif Aksesibilitas Web W3C</td>
     </tr>
   </tbody>
