@@ -92,8 +92,8 @@ Pelajari lebih lanjut {#resources}
     -   [Alternatif teks gambar ("alt text")](/test-evaluate/preliminary/#images)
     -   [Pengecekan Struktur Dasar](/test-evaluate/preliminary/#structure)
 -   **Kisah Pengguna:**
-    -   [Ilya, anggota staf senior yang disabilitas netra](/people-use-web/user-stories/#accountant)
-    -   [Kaseem, remaja yang disabilitas rungu dan disabilitas netra](/people-use-web/user-stories/#teenager)
+    -   [Ilya, anggota staf senior penyandang disabilitas netra](/people-use-web/user-stories/#accountant)
+    -   [Kaseem, remaja penyandang disabilitas rungu dan disabilitas netra](/people-use-web/user-stories/#teenager)
     -   [Preety, siswa sekolah menengah yang memiliki Gangguan pemusatan perhatian dan hiperaktivitas (ADHD) serta disleksia](/people-use-web/user-stories/#classroomstudent)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
     -   [Kriteria Sukses terkait "gambar" dan "struktur"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)

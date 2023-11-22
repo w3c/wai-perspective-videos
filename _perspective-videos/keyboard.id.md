@@ -87,8 +87,8 @@ Kontrol HTML natif, seperti tautan, tombol, dan elemen isian, dapat berfungsi de
     -   [Akses kibor dan fokus visual](/test-evaluate/preliminary/#interaction)
 -   **User Story:**
     -   [Alex, reporter dengan cedera regangan berulang (RSI)](/people-use-web/user-stories/#reporter)
-    -   [Ilya, anggota staf senior yang disabilitas netra](/people-use-web/user-stories/#accountant)
-    -   [Kaseem, remaja yang disabilitas rungu dan disabilitas netra](/people-use-web/user-stories/#teenager)
+    -   [Ilya, anggota staf senior penyandang disabilitas netra](/people-use-web/user-stories/#accountant)
+    -   [Kaseem, remaja penyandang disabilitas rungu dan disabilitas netra](/people-use-web/user-stories/#teenager)
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
     -   [Kriteria Sukses terkait "kibor"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard)
 -   **Penerapan pada Perangkat Seluler:**
