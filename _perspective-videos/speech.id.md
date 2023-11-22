@@ -76,7 +76,7 @@ Apa manfaat lainnya? {#others}
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Gunakan markup HTML semantik untuk struktur seperti judul, paragraf, daftar, formulir, dan tabel. Memberikan alternatif teks untuk gambar, ikon, dan konten non-teks lainnya. Pastikan [kompatibilitas kibor](/perspective-videos/keyboard/), dan pastikan informasi teks dapat dimengerti tanpa konteks visualnya.
+Gunakan markah HTML semantik untuk struktur seperti judul, paragraf, daftar, formulir, dan tabel. Memberikan alternatif teks untuk gambar, ikon, dan konten non-teks lainnya. Pastikan [kompatibilitas kibor](/perspective-videos/keyboard/), dan pastikan informasi teks dapat dimengerti tanpa konteks visualnya.
 
 Pelajari lebih lanjut {#resources}
 ----------

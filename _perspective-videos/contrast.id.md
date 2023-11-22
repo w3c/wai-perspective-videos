@@ -62,7 +62,7 @@ Warna harus memiliki kontras yang cukup, misalnya, antara warna teks dan warna l
 ## Siapa yang membutuhkan fitur ini?
 {:#who}
 
--   Orang dengan sensitivitas pada kontras yang rendah, yang umum terjadi pada lansia.
+-   Orang dengan sensitivitas pada kontras yang rendah, yang umum terjadi pada lanjut usia.
 -   Orang yang tidak dapat membedakan warna tertentu (sering disebut “buta warna”).
 
 ## Apa manfaat lainnya?
