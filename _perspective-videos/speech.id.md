@@ -126,7 +126,7 @@ Pelajari lebih lanjut {#resources}
       <td>Seorang pria menggunakan laptop dengan teks tersorot pada layar seraya diucapkan.</td>
     </tr>
     <tr>
-      <td>Ini adalah teknologi yang diandalkan oleh banyak penyandang disabilitas netra selama bertahun-tahun.</td>
+      <td>Teknologi ini diandalkan oleh banyak penyandang disabilitas netra selama bertahun-tahun.</td>
       <td>Seekor anjing penjaga ada di sebelah pria itu. Dia mungkin penyandang disabilitas netra.</td>
     </tr>
     <tr>

@@ -111,11 +111,11 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
         Warna dan Kontras yang Baik</td>
     </tr>
     <tr>
-      <td>Ada sesuatu tentang desain hebat yang memungkinkannya tersembunyi dari perhatian.</td>
+      <td>Ada sesuatu tentang desain yang hebat yang memungkinkannya tersembunyi dari perhatian.</td>
       <td>Tanda-tanda penunjuk arah ditampilkan. Seorang wanita sedang berjalan dengan gembira di jalan.</td>
     </tr>
     <tr>
-      <td>Tapi tidak perlu banyak hal untuk membuat segalanya membingungkan dan membuat frustrasi.</td>
+      <td>Tapi tidak perlu banyak hal untuk membuat segalanya membingungkan dan membuat kesal.</td>
       <td>Kontras petunjuk arah berubah menjadi buruk. Wanita itu kini terlihat kebingungan.</td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
       <td>Dia melihat aplikasi navigasi di ponselnya.</td>
     </tr>
     <tr>
-      <td>Desain yang bagus berarti kontras yang cukup antara warna latar depan dan latar belakang. Bukan hanya teks dan gambar, tetapi juga tautan, ikon, dan tombol.</td>
+      <td>Desain yang baik memiliki kontras yang cukup antara warna latar depan dan latar belakang. Bukan hanya teks dan gambar, tetapi juga tautan, ikon, dan tombol.</td>
       <td>Tombol aplikasi dengan kontras rendah berubah menjadi lebih jelas.</td>
     </tr>
     <tr>

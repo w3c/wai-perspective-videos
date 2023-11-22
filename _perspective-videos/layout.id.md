@@ -121,7 +121,7 @@ Desain struktur yang jelas, baik secara visual maupun dengan menggunakan markah.
       <td>Pria itu sekarang menelusuri situs pengiriman pizza yang ditata dengan buruk dan menggelengkan kepalanya.</td>
     </tr>
     <tr>
-      <td>Setiap pengguna web akan merasa frustrasi dengan tata letak dan desain yang buruk.</td>
+      <td>Setiap pengguna web akan merasa jengkel dengan tata letak dan desain yang buruk.</td>
       <td>Seorang wanita menggunakan situs web kompleks yang sama dengan pembesar layar. Dia hanya melihat sebagian layar dalam satu waktu, sehingga situs webnya tampak semakin membingungkan.</td>
     </tr>
     <tr>

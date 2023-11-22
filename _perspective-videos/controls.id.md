@@ -106,12 +106,12 @@ Pelajari lebih lanjut {#resources}
         Tautan, Tombol, dan Kontrol yang Besar</td>
     </tr>
     <tr>
-      <td>Mencoba mengenai target yang kecil membutuhkan banyak usaha.</td>
+      <td>Mencoba mengenai target yang kecil membutuhkan usaha yang besar.</td>
       <td><p>Seorang wanita mencoba memasang benang pada jarum namun meleset.<br>
         </p></td>
     </tr>
     <tr>
-      <td>Banyak situs web dan aplikasi melakukan hal tersebut.</td>
+      <td>Banyak situs web dan aplikasi yang mencoba memasukkan benang ke lubang jarum.</td>
       <td>Wanita tersebut gagal menekan tautan kecil di situs web.</td>
     </tr>
     <tr>

@@ -124,7 +124,7 @@ Pelajari lebih lanjut {#resources}
     <tr>
       <td>Terkadang lebih mudah untuk berbicara.<br>
         Salah satu kemajuan teknologi adalah pengenalan [ucapan].<br>
-        Baik itu untuk menelusuri web:</td>
+        Baik itu untuk menelusuri Web:</td>
       <td>Seorang pria menggunakan tablet melalui ucapan.</td>
     </tr>
     <tr>

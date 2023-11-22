@@ -114,7 +114,7 @@ Pelajari lebih lanjut {#resources}
         Notifikasi dan Umpan Balik</td>
     </tr>
     <tr>
-      <td>Semua roda gigi bergerak dengan sesuai. Jarum penunjuk bisa berada di tempat yang tepat.</td>
+      <td>Semua roda gigi bergerak dengan semestinya. Jarum penunjuk bisa berada di tempat yang tepat.</td>
       <td>Jarum jam kukuk menyentuh angka dua belas...</td>
     </tr>
     <tr>
