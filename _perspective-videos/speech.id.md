@@ -76,13 +76,13 @@ Apa manfaat lainnya? {#others}
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Gunakan markah HTML semantik untuk struktur seperti judul, paragraf, daftar, formulir, dan tabel. Memberikan alternatif teks untuk gambar, ikon, dan konten non-teks lainnya. Pastikan [kompatibilitas kibor](/perspective-videos/keyboard/), dan pastikan informasi teks dapat dimengerti tanpa konteks visualnya.
+Gunakan markah HTML semantik untuk struktur seperti judul, paragraf, daftar, formulir, dan tabel. Memberikan alternatif teks untuk gambar, ikon, dan konten nonteks lainnya. Pastikan [kompatibilitas kibor](/perspective-videos/keyboard/), dan pastikan informasi teks dapat dimengerti tanpa konteks visualnya.
 
 Pelajari lebih lanjut {#resources}
 ----------
 
 -   **Prinsip Aksesibilitas:**
-    -   [Alternatif teks untuk konten non-teks](/fundamentals/accessibility-principles/#alternatives)
+    -   [Alternatif teks untuk konten nonteks](/fundamentals/accessibility-principles/#alternatives)
     -   [Konten bisa disajikan dengan berbagai cara](/fundamentals/accessibility-principles/#adaptable)
 -   **Memulai:**
     -   [Tulis Alternatif teks yang bermakna untuk gambar](/tips/writing/#write-meaningful-text-alternatives-for-images)
@@ -98,7 +98,7 @@ Pelajari lebih lanjut {#resources}
 -   **[Gambaran Umum Pedoman Aksesibilitas Konten Web (WCAG)](/standards-guidelines/wcag/):**
     -   [Kriteria Sukses terkait "gambar" dan "struktur"](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
 -   **Penerapan pada Perangkat Seluler:**
-    -   [Objek non-teks (gambar, suara, video) tanpa Alternatif teks](/standards-guidelines/shared-experiences/#non-text)
+    -   [Objek nonteks (gambar, suara, video) tanpa Alternatif teks](/standards-guidelines/shared-experiences/#non-text)
     -   [Informasi disampaikan hanya melalui CSS (format visual)](/standards-guidelines/shared-experiences/#visual-formatting)
     -   [Label tautan yang tidak descriptif](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutorial:**

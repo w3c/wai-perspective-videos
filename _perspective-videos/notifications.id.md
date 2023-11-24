@@ -76,7 +76,7 @@ Apa manfaat lainnya? {#others}
 Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 --------------------------------------
 
-Gunakan bahasa yang jelas dan sederhana untuk membuat pesan eror yang lebih dapat dimengerti. Misalnya, jelaskan cara memperbaiki kesalahan. Berikan pesan konfirmasi ketika isian dikirimkan. Saat ada perubahan pada layar, seperti ketika ada konten baru yang ditambahkan, beritahu pengguna akan perubahan tersebut.
+Gunakan bahasa yang jelas dan sederhana untuk membuat pesan eror yang lebih dapat dimengerti. Misalnya, jelaskan cara memperbaiki kesalahan. Berikan pesan konfirmasi ketika isian dikirimkan. Saat ada perubahan pada layar, seperti ketika ada konten baru yang ditambahkan, beri tahu pengguna akan perubahan tersebut.
 
 Pelajari lebih lanjut {#resources}
 ----------

@@ -82,7 +82,7 @@ Pilih warna teks dan latar belakang yang menghasilkan kontras yang cukup. Ada al
 -   **Prinsip aksesibilitas:**
     -   [Konten lebih mudah dilihat dan didengar](/fundamentals/accessibility-principles/#distinguishable)
 -   **Memulai:**
-    -   [Menyediakan kontras yang cukup antara latar depan dan latar belakang](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
+    -   [Sediakan kontras yang cukup antara latar depan dan latar belakang](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
 -   **Pengecekan Sederhana:**
     -   [Rasio Kontras ("kontras warna")](/test-evaluate/preliminary/#contrast)
 -   **Kisah Pengguna:**

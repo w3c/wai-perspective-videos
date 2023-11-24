@@ -96,7 +96,7 @@ Pelajari lebih lanjut {#resources}
     -   [Kriteria Sukses terkait "teks"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
 -   **Penerapan pada Perangkat Seluler:**
     -   [Kosa kata yang sulit, kalimat yang komleks dan panjang, jargon](/standards-guidelines/shared-experiences/#complex)
-    -   [Konten memanggil jendela baru tanpa ada pemberitahuan ke pengguna](/standards-guidelines/shared-experiences/#popups)
+    -   [Konten memanggil jendela baru tanpa ada pemberi tahuan ke pengguna](/standards-guidelines/shared-experiences/#popups)
     -   [Konten berkedip, bergerak, bergulir, atau berubah secara otomatis](/standards-guidelines/shared-experiences/#dynamic)
 
 ## Transkripsi dan Deskripsi Visual {#transcript}
@@ -116,7 +116,7 @@ Pelajari lebih lanjut {#resources}
     </tr>
     <tr>
       <td>Dibanding mengatakan: &quot;Mengejawantahkan ujaran secara congkak menggunakan prosa bersintaksis muluk terang menetaskan rasa dugal&quot;,<br>
-        lebih baik mengatakan: &quot;Diberitahu dengan bahasa yang terlalu panjang dan rumit itu menyebalkan&quot;..</td>
+        lebih baik mengatakan: &quot;Diberi tahu dengan bahasa yang terlalu panjang dan rumit itu menyebalkan&quot;..</td>
       <td>Dua orang mencoba mengikuti instruksi di situs memasak yang menggunakan banyak teks tanpa ilustrasi atau pun struktur.</td>
     </tr>
     <tr>

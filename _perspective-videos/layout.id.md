@@ -70,7 +70,7 @@ Berbagai bagian dari halaman web harus mudah ditemukan dan diidentifikasi. Ini t
 
 ## Apa yang perlu dilakukan agar ini bekerja dengan baik? {#action}
 
-Desain struktur yang jelas, baik secara visual mau pun dengan menggunakan markah. Misalnya, mempermudah dengan membedakan bagian-bagian situs seperti navigasi, mengelompokkan kontrol-kontrol yang berhubungan dalam sebuah isian, dan menyediakan judul untuk mengidentifikasi kelompok informasi. Menyediakan tampilan dan perilaku halaman web yang konsisten di seluruh bagian situs web.
+Desain struktur yang jelas, baik secara visual mau pun dengan menggunakan markah. Misalnya, mempermudah dengan membedakan bagian-bagian situs seperti navigasi, mengelompokkan kontrol-kontrol yang berhubungan dalam sebuah isian, dan menyediakan tajuk untuk mengidentifikasi kelompok informasi. Menyediakan tampilan dan perilaku halaman web yang konsisten di seluruh bagian situs web.
 
 ## Pelajari lebih lanjut {#resources}
 
