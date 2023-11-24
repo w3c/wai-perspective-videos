@@ -62,8 +62,8 @@ Aksesibilitas web sangat penting bagi penyandang disabilitas dan bermanfaat bagi
 
 Situs web ini menyediakan berbagai standar, pedoman, dan sumber informasi untuk membantu Anda dalam memulai:
 
-- [Pengantar Aksesibilitas Web](/fundamentals/accessibility-intro/)
-- [Cara Penyandang Disabilitas Menggunakan Web](/people-use-web/) - menguraikan kisah pengguna, teknologi pendukung, dan prinsip-prinsip aksesibilitas
+- [Pengenalan ke Aksesibilitas Web](/fundamentals/accessibility-intro/)
+- [Bagaimana Penyandang Disabilitas Menggunakan Web](/people-use-web/) - menguraikan kisah pengguna, teknologi pendukung, dan prinsip-prinsip aksesibilitas
 - [Kiat Memulai](/tips/) - langkah-langkah dasar awal untuk desainer, penulis, dan pengembang web
 - [Studi Kasus Bisnis](/business-case/) - menyoroti argumen-argumen termasuk faktor sosial, teknis, keuangan, dan hukum
 - [Tutorial Aksesibilitas Web](/tutorials/) - panduan yang lebih mendalam untuk mengembangkan konten web yang aksesibel
