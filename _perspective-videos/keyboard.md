@@ -46,12 +46,9 @@ everyone in a variety of situations.
 {:#film.no-display}
 
 {% include video-player-data.html
+    video-id="keyboard"
     yt-id="93UgG72os8M"
     yt-id-ad="1rBwxGMT9ZM"
-    path="/perspective-videos/cc/"
-    lang-folder=true
-    vtt-data-location="wai-perspective-videos"
-    vtt-name="keyboard"
 %}
 
 This video information is available as a [Text Transcript with Description of Visuals](#transcript) below.
