@@ -88,7 +88,7 @@ Pelajari lebih lanjut {#resources}
 -   **Prinsip Aksesibilitas:**
     -   [Takarir dan alternatif lain untuk multimedia](/fundamentals/accessibility-principles/#captions)
 -   **Memulai:**
-    -   [Membuat transkripsi dan takarir untuk multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
+    -   [Buat transkripsi dan takarir untuk multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
 -   **Pengecekan Sederhana:**
     -   [Alternatif multimedia (video, audio)](/test-evaluate/preliminary/#media)
 -   **Kisah Pengguna:**
