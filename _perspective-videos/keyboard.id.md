@@ -82,7 +82,7 @@ Kontrol HTML natif, seperti tautan, tombol, dan elemen isian, dapat berfungsi de
 -   **Prinsip Aksesibilitas:**
     -   [Fungsionalitas tersedia melalui Kibor](/fundamentals/accessibility-principles/#keyboard)
 -   **Memulai:**
-    -   [Memastikan semua elemen interaktif dapat diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+    -   [Pastikan semua elemen interaktif dapat diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
 -   **Pengecekan Sederhana:**
     -   [Akses kibor dan fokus visual](/test-evaluate/preliminary/#interaction)
 -   **User Story:**

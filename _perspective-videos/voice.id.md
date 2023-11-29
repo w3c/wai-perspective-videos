@@ -85,8 +85,8 @@ Pelajari lebih lanjut {#resources}
     -   [Fungsionalitas tersedia melalui Kibor](/fundamentals/accessibility-principles/#keyboard)
     -   [Konten muncul dan beroperasi dengan cara yang dapat diprediksi](/fundamentals/accessibility-principles/#predictable)
 -   **Memulai:**
-    -   [Memastikan semua elemen interaktif dapat diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
-    -   [Sediakan penjelasan dari elemen interaktif yang takstandar](/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
+    -   [Pastikan semua elemen interaktif dapat diakses melalui kibor](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+    -   [Sediakan makna untuk elemen interaktif yang nonstandar](/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
     -   [Sediakan alternatif teks untuk gambar](/tips/designing/#include-image-and-media-alternatives-in-your-design)
 -   **Pengecekan Sederhana:**
     -   [Akses kibor dan fokus visual](/test-evaluate/preliminary/#interaction)
