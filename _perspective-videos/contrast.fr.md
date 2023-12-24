@@ -22,7 +22,7 @@ resource:
 acknowledgements: /perspective-videos/acknowledgements/ # Do not change this
 
 order: 2
-description: Courte vidéo à propos des couleurs bien contrastées pour l'accessibilité Web - de quoi s'agit-il, qui en bénéficie, et comment mettre cela en pratique.
+description: Courte vidéo à propos des couleurs bien contrastées pour l’accessibilité Web – de quoi s’agit-il, qui en bénéficie, et comment mettre cela en pratique.
 image: /perspective-videos/img/contrast.jpg
 
 # In the footer below:
@@ -31,13 +31,13 @@ image: /perspective-videos/img/contrast.jpg
 # Translate the other words below, including "Date:" and "Editor:"
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-    <p><strong>Statut :</strong> Mise à jour : 29 novembre 2021.<br>
-    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne. Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
+    <p><strong>Statut :</strong> Mise à jour : 29 novembre 2021.<br>
+    <strong>Rédacteur et chef du projet :</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Développé par le <a href="https://www.w3.org/WAI/EO/">Groupe de travail Éducation et Promotion</a> avec le soutien du projet <a href="https://www.w3.org/WAI/DEV/">WAI-DEV</a>, co-financé par la Commission européenne. Mis à jour avec le soutien de la Fondation Ford. ACKNOWLEDGEMENTS.</p>
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
 
-L'accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l'accessibilité et les bénéfices pour tous dans diverses situations.
+L’accessibilité Web est essentielle pour les personnes en situation de handicap et utile à tous. Découvrez les effets de l’accessibilité et les bénéfices pour tous dans diverses situations.
 
 ## Vidéo sur des couleurs bien contrastées
 {:#film.no-display}
@@ -53,40 +53,40 @@ Les informations de cette vidéo sont disponibles sous forme de [Transcription a
 ## Que signifie des «&nbsp;couleurs bien contrastées&nbsp;» ?
 {:#what}
 
-Les couleurs utilisées doivent avoir un contraste suffisant (appelé techniquement <em>rapport de contraste de luminance</em>), par exemple entre la couleur du texte et la couleur d'arrière-plan. Cela inclut le texte sur des images, des icônes, et des boutons. Les couleurs utilisées pour communiquer des informations sur les diagrammes, les cartes, et d'autres types d'images doivent également être perceptibles.
+Les couleurs utilisées doivent avoir un contraste suffisant (appelé techniquement <em>rapport de contraste de luminance</em>), par exemple entre la couleur du texte et la couleur d’arrière-plan. Cela inclut le texte sur des images, des icônes, et des boutons. Les couleurs utilisées pour communiquer des informations sur les diagrammes, les cartes, et d’autres types d’images doivent également être perceptibles.
 
 ## Qui dépend de cette fonctionnalité ?
 {:#who}
 
 -   Les personnes avec une faible sensibilité au contraste, ce qui est courant chez les personnes âgées.
--   Les personnes qui ne peuvent pas distinguer certaines couleurs (souvent appellé « daltonisme »).
+-   Les personnes qui ne peuvent pas distinguer certaines couleurs (souvent appelé « daltonisme »).
 
 ## Quels sont les autres bénéfices ?
 {:#others}
 
--   Le contenu est utilisable dans différentes conditions de luminosité, comme l'exposition à la lumière du soleil ou à une lumière éblouissante.
--   Le contenu est plus facile à lire pour tout le monde, y compris pour ceux qui n'ont pas de problèmes visuels particuliers.
+-   Le contenu est utilisable dans différentes conditions de luminosité, comme l’exposition à la lumière du soleil ou à une lumière éblouissante.
+-   Le contenu est plus facile à lire pour tout le monde, y compris pour ceux qui n’ont pas de problèmes visuels particuliers.
 
 ## Comment mettre cela en pratique ?
 {:#action}
 
-Choisissez des couleurs de texte et d'arrière-plan qui fournissent suffisamment de contraste. Des outils existent pour vous aider à vérifier et sélectionner des combinaisons de couleurs adéquates. On réalise idéalement cette action tôt dans la phase de conception et de choix des palettes de couleurs. Si certaines personnes ont besoin d'un contraste élevé, d'autres sont sensibles à la luminosité et ont besoin de [modifier les couleurs](/perspective-videos/customizable/).
+Choisissez des couleurs de texte et d’arrière-plan qui fournissent suffisamment de contraste. Des outils existent pour vous aider à vérifier et sélectionner des combinaisons de couleurs adéquates. On réalise idéalement cette action tôt dans la phase de conception et de choix des palettes de couleurs. Si certaines personnes ont besoin d’un contraste élevé, d’autres sont sensibles à la luminosité et ont besoin de [modifier les couleurs](/perspective-videos/customizable/).
 
-## Plus d'informations
+## Plus d’informations
 {:#resources}
 
--   **Principe d'accessibilité :**
+-   **Principe d’accessibilité :**
     -   [Du contenu plus facile à voir et à entendre](/fundamentals/accessibility-principles/#distinguishable)
 -   **Pour démarrer :**
-    -   [Fournissez un contraste suffisant entre le premier plan et l'arrière-plan](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background) 
+    -   [Fournissez un contraste suffisant entre le premier plan et l’arrière-plan](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background) 
 -   **Vérification simple :**
     -   [Rapport de contraste ("contraste des couleurs")](/test-evaluate/preliminary/#contrast) 
--   **Témoignages d'utilisateurs :**
+-   **Témoignages d’utilisateurs :**
     -   [Lee, client de site Web marchand qui ne peut pas distinguer certaines couleurs (daltonisme)](/people-use-web/user-stories/#shopper)
     -   [Yun, retraité avec une mauvaise vue, un tremblement des mains, et une perte de mémoire à court terme](/people-use-web/user-stories/#retiree)
 -   **Besoins des utilisateurs :**
-    -   [Exigences d'accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) 
--   **Régles pour l'accessibilité des contenus Web ([Vue d'ensemble des WCAG](/standards-guidelines/wcag/)) :** 
+    -   [Exigences d’accessibilité pour les personnes malvoyantes](http://www.w3.org/TR/low-vision-needs/) 
+-   **Règles pour l’accessibilité des contenus Web ([Vue d’ensemble des WCAG](/standards-guidelines/wcag/)) :** 
     -   [Critères de succès liés au "contraste"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast) 
 -   **Applicabilité aux appareils mobiles :**
     -   [Informations transmises seulement par la couleur](/standards-guidelines/shared-experiences/#color) 
@@ -102,8 +102,8 @@ Choisissez des couleurs de texte et d'arrière-plan qui fournissent suffisamment
   </thead>
   <tbody>
     <tr>
-      <td>L'accessibilité Web illustrée : des couleurs bien contrastées</td>
-      <td>L'accessibilité Web illustrée : des couleurs bien contrastées</td>
+      <td>L’accessibilité Web illustrée : des couleurs bien contrastées</td>
+      <td>L’accessibilité Web illustrée : des couleurs bien contrastées</td>
     </tr>
     <tr>
       <td>Un bon design passe pratiquement inaperçu.</td>
@@ -114,34 +114,34 @@ Choisissez des couleurs de texte et d'arrière-plan qui fournissent suffisamment
       <td>Les panneaux changent et ont désormais un contraste insuffisant. La jeune femme semble perdue.</td>
     </tr>
     <tr>
-      <td>Choisir des couleurs peu contrastées rend la navigation, la lecture et l'interaction très pénibles.</td>
+      <td>Choisir des couleurs peu contrastées rend la navigation, la lecture et l’interaction très pénibles.</td>
       <td>Elle regarde une application de navigation sur son téléphone mobile.</td>
     </tr>
     <tr>
-      <td>Un bon design implique un contraste suffisant entre les couleurs au premier plan et à l'arrière plan. Cela ne concerne pas que le texte et les images, mais aussi les liens, les icônes, et les boutons.</td>
-      <td>L'application montre un bouton avec un mauvais contraste, qui se transforme peu à peu pour devenir lisible.</td>
+      <td>Un bon design implique un contraste suffisant entre les couleurs au premier plan et à l’arrière plan. Cela ne concerne pas que le texte et les images, mais aussi les liens, les icônes, et les boutons.</td>
+      <td>L’application montre un bouton avec un mauvais contraste, qui se transforme peu à peu pour devenir lisible.</td>
     </tr>
     <tr>
       <td>Toute chose suffisamment importante pour être vue doit apparaître clairement.<br>
-       C'est essentiel pour les personnes avec une faible sensibilité au contraste,<br>
-        qui devient courante avec l'âge.</td>
+       C’est essentiel pour les personnes avec une faible sensibilité au contraste,<br>
+        qui devient courante avec l’âge.</td>
       <td>Un homme âgé est assis sur un canapé et regarde une tablette. Il se lève pour aller lire un message sur son téléphone mobile.</td>
     </tr>
     <tr>
-      <td>Avec des couleurs bien choisies, l'utilisation des sites Web et des applications peut être facilitée dans plus de situations. Par exemple, dans différentes conditions de luminosité.</td>
-      <td>Le soleil se reflète sur l'écran du téléphone, mais le texte reste lisible.</td>
+      <td>Avec des couleurs bien choisies, l’utilisation des sites Web et des applications peut être facilitée dans plus de situations. Par exemple, dans différentes conditions de luminosité.</td>
+      <td>Le soleil se reflète sur l’écran du téléphone, mais le texte reste lisible.</td>
     </tr>
     <tr>
-      <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
+      <td>L’accessibilité Web : essentielle pour certains, utile à tous.</td>
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td>Visitez w3.org/WAI/perspectives pour plus d'informations concernant <em>Des couleurs bien contrastées</em></td>
+      <td>Visitez w3.org/WAI/perspectives pour plus d’informations concernant <em>Des couleurs bien contrastées</em></td>
       <td>Visitez<br>
         w3.org/WAI/perspectives<br>
-        pour plus d'informations concernant<br>
+        pour plus d’informations concernant<br>
         <em>Des couleurs bien contrastées.</em><br>
-        Logo de l'Initiative pour l'accessibilité du Web de W3C</td>
+        Logo de l’Initiative pour l’accessibilité du Web de W3C</td>
     </tr>
   </tbody>
 </table>
