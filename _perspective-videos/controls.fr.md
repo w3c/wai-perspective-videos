@@ -126,7 +126,7 @@ Plus d’informations {#resources}
       <td>Une autre femme dont la main tremble est incapable de naviguer de manière précise avec la souris et ne réussit pas à cliquer sur des petits boutons d’un site Web.<br></td>
     </tr>
     <tr>
-      <td>L'accessibilité Web : essentielle pour certains, utile à tous.</td>
+      <td>L’accessibilité Web : essentielle pour certains, utile à tous.</td>
       <td>Les boutons deviennent plus grands et la femme atteinte de tremblements est maintenant capable de cliquer dessus.</td>
     </tr>
     <tr>
