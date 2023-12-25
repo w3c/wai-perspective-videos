@@ -53,7 +53,7 @@ Les informations de cette vidéo sont disponibles sous forme de [Transcription a
 Qu’est-ce que la « synthèse vocale » ? {#what}
 -------------------------
 
-De nombreux ordinateurs et appareils mobiles intègrent aujourd’hui un logiciel de conversion du texte en parole. Certaines personnes en situation de handicap, notamment les personnes aveugles, utilisent des logiciels spécialisés appelés lecteurs d’écran. Les lecteurs d’écran fournissent des fonctionnalités importantes telles que naviguer à travers les en-têtes, prononcer les équivalents textuels des images, et identifier les liens internes et externes. Ils peuvent également mettre le texte en subrillance au fur et à mesure de la lecture à haute voix du texte, pour les personnes qui souhaitent voir et entendre le contenu en même temps. Le contenu doit être codé correctement pour que toutes les fonctionnalités du logiciel de conversion de texte en parole fonctionnent pour le contenu en question.
+De nombreux ordinateurs et appareils mobiles intègrent aujourd’hui un logiciel de conversion du texte en parole. Certaines personnes en situation de handicap, notamment les personnes aveugles, utilisent des logiciels spécialisés appelés lecteurs d’écran. Les lecteurs d’écran fournissent des fonctionnalités importantes telles que naviguer à travers les en-têtes, prononcer les équivalents textuels des images, et identifier les liens internes et externes. Ils peuvent également mettre le texte en surbrillance au fur et à mesure de la lecture à haute voix du texte, pour les personnes qui souhaitent voir et entendre le contenu en même temps. Le contenu doit être codé correctement pour que toutes les fonctionnalités du logiciel de conversion de texte en parole fonctionnent pour le contenu en question.
 
 Qui dépend de cette fonctionnalité ? {#who}
 ----------------------------
@@ -90,7 +90,7 @@ Plus d’informations {#resources}
 -   **Témoignages d’utilisateurs :**
     -   [Ilya, cadre supérieure, aveugle](/people-use-web/user-stories/#accountant)
     -   [Kasseem, adolescente sourde et aveugle](/people-use-web/user-stories/#teenager)
-    -   [Preety, élève de collège avec un trouble du déficit de l’attention avec hyepractivité et dyslexique](/people-use-web/user-stories/#classroomstudent)
+    -   [Preety, élève de collège avec un trouble du déficit de l’attention avec hyperactivité et dyslexique](/people-use-web/user-stories/#classroomstudent)
 -   **Règles pour l’accessibilité des contenus Web ([Vue d’ensemble des WCAG](/standards-guidelines/wcag/)):**
     -   [Critères de succès liés aux « images » et à la « structure »](https://www.w3.org/WAI/WCAG21/quickref/?tags=images%2Cstructure)
 -   **Applicabilité aux appareils mobiles :**
