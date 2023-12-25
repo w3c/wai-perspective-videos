@@ -50,7 +50,7 @@ L’accessibilité Web est essentielle pour les personnes en situation de handic
 
 Les informations de cette vidéo sont disponibles sous forme de [Transcription avec description des visuels](#transcript) en bas de la page.
 
-Qu’est-ce que des « notifications et retours d’nformation » ? {#what}
+Qu’est-ce que des « notifications et retours d’information » ? {#what}
 -------------------------------------
 
 Les utilisateurs ont besoin de savoir ce qu’il se passe, et de recevoir un retour d’information approprié lors de l’interaction. Par exemple, les utilisateurs ont besoin de messages de confirmation quand les actions sont terminées ; par exemple, lorsqu’un formulaire est soumis. De plus, les messages d’erreur doivent fournir des instructions claires plutôt que créer de la confusion chez les utilisateurs.
@@ -146,11 +146,11 @@ Plus d’informations {#resources}
       <td>Le coucou surgit de l’horloge.</td>
     </tr>
     <tr>
-      <td>Allez sur w3.org/WAI/perspectives pour plus d’nformations sur <em>"Des notifications et retours d’information"</em></td>
+      <td>Allez sur w3.org/WAI/perspectives pour plus d’informations sur <em>« Des notifications et retours d’information »</em></td>
       <td>Allez sur<br>
         w3.org/WAI/perspectives<br>
         pour plus d’informations sur<br>
-        <em>"Des notifications et retours d’information"</em>.<br>
+        <em>« Des notifications et retours d’information »</em>.<br>
         Logo d’Initiative pour l’accessibilité du Web du W3C</td>
     </tr>
   </tbody>
