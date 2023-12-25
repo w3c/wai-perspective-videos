@@ -118,7 +118,7 @@ Choisissez des couleurs de texte et d’arrière-plan qui fournissent suffisamme
       <td>Elle regarde une application de navigation sur son téléphone mobile.</td>
     </tr>
     <tr>
-      <td>Un bon design implique un contraste suffisant entre les couleurs au premier plan et à l’arrière plan. Cela ne concerne pas que le texte et les images, mais aussi les liens, les icônes, et les boutons.</td>
+      <td>Un bon design implique un contraste suffisant entre les couleurs au premier plan et à l’arrière-plan. Cela ne concerne pas que le texte et les images, mais aussi les liens, les icônes, et les boutons.</td>
       <td>L’application montre un bouton avec un mauvais contraste, qui se transforme peu à peu pour devenir lisible.</td>
     </tr>
     <tr>
