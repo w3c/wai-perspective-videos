@@ -6,7 +6,7 @@ title: "Videa o perspektivách webové přístupnosti: Prozkoumejte dopady a vý
 title_html: "Videa o perspektivách webové přístupnosti:<br>Prozkoumejte dopady a výhody pro všechny uživatele"
 nav_title: "Přehled videí o perspektivách"
 lang: cs    # Change "en" to the translated-language shortcode
-last_updated: 2023-01-06    # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-01-06    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 0
 
 translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
