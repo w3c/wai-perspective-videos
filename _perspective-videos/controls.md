@@ -88,26 +88,17 @@ because the label for checkboxes and option buttons is also clickable.
 Learn more {#resources}
 ----------
 
--   **Accessibility Principle:**
-    -   [Users can easily navigate, find content, and determine where
-        they
-        are](/fundamentals/accessibility-principles/#navigable)
--   **Getting Started:**
-    -   [Create designs for different viewport
-        sizes](/tips/designing/#create-designs-for-different-viewport-sizes)
-    -   [Ensure that form elements include clearly associated
-        labels](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
--   **Easy Check:**
-    -   [Forms, labels, and
-        errors](/test-evaluate/preliminary/#forms)
--   **User Story:**
-    -   [Yun, retiree with low vision, hand tremor, and mild
-        short-term memory
-        loss](/people-use-web/user-stories/#retiree)
--   **Web Content Accessibility Guidelines ([WCAG
-    Overview](/standards-guidelines/wcag/)):**
-    -   [Success Criteria relating to
-        "labels"](https://www.w3.org/WAI/WCAG21/quickref/?tags=labels)
+- **Accessibility Principle:**
+    - [Users can easily navigate, find content, and determine where they are](/fundamentals/accessibility-principles/#navigable)
+- **Getting Started:**
+    - [Create designs for different viewport sizes](/tips/designing/#create-designs-for-different-viewport-sizes)
+    - [Ensure that form elements include clearly associated labels](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
+- **Easy Check:**
+    - [Forms, labels, and errors](/test-evaluate/preliminary/#forms)
+- **User Story:**
+    - [[Elias, retiree with low vision, hand tremor, and mild short-term memory loss]](/people-use-web/user-stories/story-nine/)
+- **Web Content Accessibility Guidelines ([WCAG Overview](/standards-guidelines/wcag/)):**
+    - [Success Criteria relating to "labels"](https://www.w3.org/WAI/WCAG21/quickref/?tags=labels)
 
 ## Text Transcript with Description of Visuals {#transcript}
 

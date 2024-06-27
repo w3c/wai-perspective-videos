@@ -100,25 +100,19 @@ often also remote services.
 Learn more {#resources}
 ----------
 
--   **Accessibility Principle:**
-    -   [Captions and other alternatives for
-        multimedia](/fundamentals/accessibility-principles/#captions)
--   **Getting Started:**
-    -   [Create transcripts and captions for
-        multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
--   **Easy Check:**
-    -   [Multimedia (video, audio)
-        alternatives](/test-evaluate/preliminary/#media)
--   **User Story:**
-    -   [Martine, online student who is hard of
-        hearing](/people-use-web/user-stories/#onlinestudent)
--   **Web Content Accessibility Guidelines ([WCAG
-    Overview](/standards-guidelines/wcag/)):**
-    -   [Success Criteria relating to
-        "captions"](https://www.w3.org/WAI/WCAG21/quickref/?tags=captions)
--   **Mobile Applicability:**
-    -   [Multimedia with no
-        captions](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
+- **Accessibility Principle:**
+    - [Captions and other alternatives for multimedia](/fundamentals/accessibility-principles/#captions)
+- **Getting Started:**
+    - [Create transcripts and captions for multimedia](/tips/writing/#create-transcripts-and-captions-for-multimedia)
+- **Easy Check:**
+    - [Multimedia (video, audio) alternatives](/test-evaluate/preliminary/#media)
+- **User Story:**
+    - [[Dhruv, older adult student who is deaf]](/people-use-web/user-stories/story-six/)
+    - [[Marta, marketing assistant who is deaf and blind]](/people-use-web/user-stories/story-seven/)
+- **Web Content Accessibility Guidelines ([WCAG Overview](/standards-guidelines/wcag/)):**
+    - [Success Criteria relating to "captions"](https://www.w3.org/WAI/WCAG21/quickref/?tags=captions)
+- **Mobile Applicability:**
+    - [Multimedia with no captions](https://www.w3.org/WAI/mobile/experiences.html#multimedia)
 
 ## Text Transcript with Description of Visuals {#transcript}
 

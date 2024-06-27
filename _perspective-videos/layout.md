@@ -88,39 +88,22 @@ across a website.
 
 ## Learn more {#resources}
 
--   **Accessibility Principle:**
-    -   [Users can easily navigate, find content, and determine where
-        they
-        are](/fundamentals/accessibility-principles/#navigable)
-    -   [Content appears and operates in predictable
-        ways](/fundamentals/accessibility-principles/#predictable)
--   **Getting Started:**
-    -   [Provide clear and consistent navigation
-        options](/tips/designing/#provide-clear-and-consistent-navigation-options)
-    -   [Ensure that interactive elements are easy to
-        identify](/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
-    -   [Ensure that form elements include clearly associated
-        labels](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
--   **Easy Check:**
-    -   [Forms, labels, and
-        errors](/test-evaluate/preliminary/#forms)
--   **User Story:**
-    -   [Preety, classroom student with attention deficit
-        hyperactivity disorder (ADHD) and
-        dyslexia](/people-use-web/user-stories/#classroomstudent)
-    -   [Yun, retiree with low vision, hand tremor, and mild
-        short-term memory
-        loss](/people-use-web/user-stories/#retiree)
-    -   [Luis, supermarket assistant with Down
-        syndrome](/people-use-web/user-stories/#supermarketassistant)
--   **Web Content Accessibility Guidelines ([WCAG
+- **Accessibility Principle:**
+    - [Users can easily navigate, find content, and determine where they are](/fundamentals/accessibility-principles/#navigable)
+    - [Content appears and operates in predictable ways](/fundamentals/accessibility-principles/#predictable)
+- **Getting Started:**
+    - [Provide clear and consistent navigation options](/tips/designing/#provide-clear-and-consistent-navigation-options)
+    - [Ensure that interactive elements are easy to identify](/tips/designing/#ensure-that-interactive-elements-are-easy-to-identify)
+    - [Ensure that form elements include clearly associated labels](/tips/designing/#ensure-that-form-elements-include-clearly-associated-labels)
+- **Easy Check:**
+    - [Forms, labels, and errors](/test-evaluate/preliminary/#forms)
+- **User Story:**
+    - [[Stefan, student with attention deficit hyperactivity disorder and dyslexia]](/people-use-web/user-stories/story-eight/)
+- **Web Content Accessibility Guidelines ([WCAG
     Overview](/standards-guidelines/wcag/)):**
-    -   [Success Criteria relating to
-        "layout"](https://www.w3.org/WAI/WCAG21/quickref/?tags=layout)
--   **Tutorial:**
-    -   [Page Structure - Web Accessibility
-        Tutorials](/tutorials/page-structure/)
-        (draft)
+    - [Success Criteria relating to "layout"](https://www.w3.org/WAI/WCAG21/quickref/?tags=layout)
+- **Tutorial:**
+    - [Page Structure - Web Accessibility Tutorials](/tutorials/page-structure/) (draft)
 
 ## Text Transcript with Description of Visuals {#transcript}
 

@@ -84,29 +84,19 @@ sensitive to brightness and need to [change the colors](/perspective-videos/cust
 {:#resources}
 
 -   **Accessibility Principle:**
-    -   [Content is easier to see and
-        hear](/fundamentals/accessibility-principles/#distinguishable)
+    -   [Content is easier to see and hear](/fundamentals/accessibility-principles/#distinguishable)
 -   **Getting Started:**
-    -   [Provide sufficient contrast between foreground and
-        background](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
+    -   [Provide sufficient contrast between foreground and background](/tips/designing/#provide-sufficient-contrast-between-foreground-and-background)
 -   **Easy Check:**
-    -   [Contrast ratio ("color
-        contrast")](/test-evaluate/preliminary/#contrast)
+    -   [Contrast ratio ("color contrast")](/test-evaluate/preliminary/#contrast)
 -   **User Story:**
-    -   [Lee, online shopper who cannot distinguish between certain colors (color blindness)](/people-use-web/user-stories/#shopper)
-    -   [Yun, retiree with low vision, hand tremor, and mild
-        short-term memory
-        loss](/people-use-web/user-stories/#retiree)
+    -  [[Lexie, online shopper who cannot distinguish between certain colors (color blindness)]](/people-use-web/user-stories/story-four/)
 -   **User Needs:**
-    -   [Accessibility Requirements for People with Low
-        Vision](http://www.w3.org/TR/low-vision-needs/)
--   **Web Content Accessibility Guidelines ([WCAG
-    Overview](/standards-guidelines/wcag/)):**
-    -   [Success Criteria relating to
-        "contrast"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast)
+    -   [Accessibility Requirements for People with Low Vision](http://www.w3.org/TR/low-vision-needs/)
+-   **Web Content Accessibility Guidelines ([WCAG Overview](/standards-guidelines/wcag/)):**
+    -   [Success Criteria relating to "contrast"](https://www.w3.org/WAI/WCAG21/quickref/?tags=contrast)
 -   **Mobile Applicability:**
-    -   [Information conveyed solely with
-        color](/standards-guidelines/shared-experiences/#color)
+    -   [Information conveyed solely with color](/standards-guidelines/shared-experiences/#color)
 
 ## Text Transcript with Description of Visuals {#transcript}
 

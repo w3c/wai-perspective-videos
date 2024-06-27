@@ -94,35 +94,22 @@ Learn more {#resources}
 ----------
 
 -   **Accessibility Principle:**
-    -   [Content can be presented in different
-        ways](/fundamentals/accessibility-principles/#adaptable)
+    -   [Content can be presented in different ways](/fundamentals/accessibility-principles/#adaptable)
 -   **Getting Started:**
-    -   [Write code that adapts to the user's
-        technology](/tips/developing/#write-code-that-adapts-to-the-users-technology)
+    -   [Write code that adapts to the user's technology](/tips/developing/#write-code-that-adapts-to-the-users-technology)
 -   **Easy Check:**
     -   [Resize text](/test-evaluate/preliminary/#resize)
 -   **User Story:**
-    -   [Yun, retiree with low vision, hand tremor, and mild
-        short-term memory
-        loss](/people-use-web/user-stories/#retiree)
-    -   [Preety, middle school student with attention deficit
-        hyperactivity disorder and
-        dyslexia](/people-use-web/user-stories/#classroomstudent)
--   **Web Content Accessibility Guidelines ([WCAG
-    Overview](/standards-guidelines/wcag/)):**
-    -   [Success Criteria relating to
-        "text"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
--   **User Agent Accessibility Guidelines ([UAAG
-    Overview](/standards-guidelines/uaag/)):**
-    -   [Provide text
-        configuration](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/#gl-text-config)
-    -   [Multi-Column Text
-        Reflow](https://www.w3.org/TR/UAAG20/#sc_1813)
+    -  [[Lexie, online shopper who cannot distinguish between certain colors (color blindness)]](/people-use-web/user-stories/story-four/)
+-   **Web Content Accessibility Guidelines ([WCAG Overview](/standards-guidelines/wcag/)):**
+    -   [Success Criteria relating to "text"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
+-   **User Agent Accessibility Guidelines ([UAAG Overview](/standards-guidelines/uaag/)):**
+    -   [Provide text configuration](https://www.w3.org/TR/2015/NOTE-UAAG20-20151215/#gl-text-config)
+    -   [Multi-Column Text Reflow](https://www.w3.org/TR/UAAG20/#sc_1813)
     -   [Linearize Content](https://www.w3.org/TR/UAAG20/#sc_1815)
 -   **User Needs:**
-    -   [Accessibility Requirements for People with Low
-        Vision](http://www.w3.org/TR/low-vision-needs/)
-        
+    -   [Accessibility Requirements for People with Low Vision](http://www.w3.org/TR/low-vision-needs/)
+
 ## Text Transcript with Description of Visuals {#transcript}
 <table>
   <thead>
