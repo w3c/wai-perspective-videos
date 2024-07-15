@@ -5,7 +5,7 @@
 title: "Colors with Good Contrast"
 nav_title: "Colors with Good Contrast"
 lang: en    # Change "en" to the translated-language shortcode
-last_updated: 2021-11-29    # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-07-15    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 2
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -32,7 +32,7 @@ image: /perspective-videos/img/contrast.jpg
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Status:</strong> Updated 29 November 2021. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
+  <p><strong>Status:</strong> Updated 15 July 2024. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
@@ -55,7 +55,7 @@ This video information is available as a [Text Transcript with Description of Vi
 ## What is "Colors with Good Contrast"?
 {:#what}
 
-Colors must have sufficient contrast, for example, between the text color and the background color (technically called <em>luminance contrast ratio</em>). This includes text on images, icons, and buttons. Also colors used to convey information on diagrams, maps, and other types of images must be distinguishable.
+Colors must have sufficient contrast, for example, between the text color and the background color (technically called <em>luminance contrast ratio</em>). This includes text on images, icons, and buttons. Also colors used to convey information on interactive elements, diagrams, maps, and other types of content must be distinguishable.
 
 ## Who depends on this feature?
 {:#who}
@@ -74,11 +74,7 @@ Colors must have sufficient contrast, for example, between the text color and th
 ## What needs to happen for this to work?
 {:#action}
 
-Select text and background colors that provide sufficient contrast.
-There are tools to help check and select appropriate color combinations.
-This is ideally done during the early design stage and the selection of
-color palettes. While some people need high contrast, some people are
-sensitive to brightness and need to [change the colors](/perspective-videos/customizable/).
+Select colors that provide sufficient contrast. There are tools to help check and select appropriate color combinations. This is ideally done during the early design stage and the selection of color palettes. While some people need high contrast, some people are sensitive to brightness and need to [change the colors](/perspective-videos/customizable/).
 
 ## Learn more
 {:#resources}
