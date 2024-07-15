@@ -92,37 +92,22 @@ Learn more {#resources}
 ----------
 
 -   **Accessibility Principle:**
-    -   [Understandable information and user
-        interface](/fundamentals/accessibility-principles/#understandable)
+    -   [Understandable information and user interface](/fundamentals/accessibility-principles/#understandable)
 -   **Getting Started:**
-    -   [Keep content clear and
-        concise](/tips/writing/#keep-content-clear-and-concise)
-    -   [Provide clear
-        instructions](/tips/writing/#provide-clear-instructions)
-    -   [Use headings to convey meaning and
-        structure](/tips/writing/#use-headings-to-convey-meaning-and-structure)
+    -   [Keep content clear and concise](/tips/writing/#keep-content-clear-and-concise)
+    -   [Provide clear instructions](/tips/writing/#provide-clear-instructions)
+    -   [Use headings to convey meaning and structure](/tips/writing/#use-headings-to-convey-meaning-and-structure)
 -   **Easy Check:**
     -   [Headings](/test-evaluate/preliminary/#headings)
 -   **User Story:**
-    -   [Preety, middle school student with attention deficit
-        hyperactivity disorder and
-        dyslexia](/people-use-web/user-stories/#classroomstudent)
-    -   [Yun, retiree with low vision, hand tremor, and mild
-        short-term memory
-        loss](/people-use-web/user-stories/#retiree)
-    -   [Luis, supermarket assistant with Down
-        syndrome](/people-use-web/user-stories/#supermarketassistant)
--   **Web Content Accessibility Guidelines ([WCAG
-    Overview](/standards-guidelines/wcag/)):**
-    -   [Success Criteria relating to
-        "text"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
+    -  [[Ian, data entry clerk with autism]](/people-use-web/user-stories/story-two/)
+    -  [[Sophie, basketball fan with Down syndrome]](/people-use-web/user-stories/story-five/)
+-   **Web Content Accessibility Guidelines ([WCAG Overview](/standards-guidelines/wcag/)):**
+    -   [Success Criteria relating to "text"](https://www.w3.org/WAI/WCAG21/quickref/?tags=text)
 -   **Mobile Applicability:**
-    -   [Long words, long and complex sentences,
-        jargon](/standards-guidelines/shared-experiences/#complex)
-    -   [Content spawning new windows without warning
-        user](/standards-guidelines/shared-experiences/#popups)
-    -   [Blinking, moving, scrolling or auto-updating
-        content](/standards-guidelines/shared-experiences/#dynamic)
+    -   [Long words, long and complex sentences, jargon](/standards-guidelines/shared-experiences/#complex)
+    -   [Content spawning new windows without warning user](/standards-guidelines/shared-experiences/#popups)
+    -   [Blinking, moving, scrolling or auto-updating content](/standards-guidelines/shared-experiences/#dynamic)
 
 ## Text Transcript with Description of Visuals {#transcript}
 

@@ -91,34 +91,17 @@ Learn more {#resources}
 ----------
 
 -   **Accessibility Principle:**
-    -   [Content appears and operates in predictable
-        ways](/fundamentals/accessibility-principles/#predictable)
-    -   [Users are helped to avoid and correct
-        mistakes](/fundamentals/accessibility-principles/#tolerant)
+    -   [Content appears and operates in predictable ways](/fundamentals/accessibility-principles/#predictable)
+    -   [Users are helped to avoid and correct mistakes](/fundamentals/accessibility-principles/#tolerant)
 -   **Getting Started:**
-    -   [Provide clear
-        instructions](/tips/writing/#provide-clear-instructions)
-    -   [Help users avoid and correct
-        mistakes](/tips/developing/#help-users-avoid-and-correct-mistakes)
+    -   [Provide clear instructions](/tips/writing/#provide-clear-instructions)
+    -   [Help users avoid and correct mistakes](/tips/developing/#help-users-avoid-and-correct-mistakes)
 -   **Easy Check:**
-    -   [Forms, labels, and errors (including Search
-        fields)](/test-evaluate/preliminary/#forms)
--   **User Story:**
-    -   [Preety, middle school student with attention deficit
-        hyperactivity disorder (ADHD) and
-        dyslexia](/people-use-web/user-stories/#classroomstudent)
-    -   [Yun, retiree with low vision, hand tremor, and mild
-        short-term memory
-        loss](/people-use-web/user-stories/#retiree)
-    -   [Luis, supermarket assistant with Down
-        syndrome](/people-use-web/user-stories/#supermarketassistant)
--   **Web Content Accessibility Guidelines ([WCAG
-    Overview](/standards-guidelines/wcag/)):**
-    -   [Success Criteria relating to
-        "errors"](https://www.w3.org/WAI/WCAG21/quickref/?tags=errors)
+    -   [Forms, labels, and errors (including Search fields)](/test-evaluate/preliminary/#forms)
+-   **Web Content Accessibility Guidelines ([WCAG Overview](/standards-guidelines/wcag/)):**
+    -   [Success Criteria relating to "errors"](https://www.w3.org/WAI/WCAG21/quickref/?tags=errors)
 -   **Tutorial:**
-    -   [Forms - Web Accessibility
-        Tutorials](/tutorials/)
+    -   [Forms - Web Accessibility Tutorials](/tutorials/)
 
 ## Text Transcript with Description of Visuals {#transcript}
 

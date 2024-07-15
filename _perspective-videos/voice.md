@@ -91,37 +91,24 @@ Learn more {#resources}
 ----------
 
 -   **Accessibility Principle:**
-    -   [Functionality is available from a
-        keyboard](/fundamentals/accessibility-principles/#keyboard)
-    -   [Content appears and operates in predictable
-        ways](/fundamentals/accessibility-principles/#predictable)
+    -   [Functionality is available from a keyboard](/fundamentals/accessibility-principles/#keyboard)
+    -   [Content appears and operates in predictable ways](/fundamentals/accessibility-principles/#predictable)
 -   **Getting Started:**
-    -   [Ensure that all interactive elements are keyboard
-        accessible](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
-    -   [Provide meaning for non-standard interactive
-        elements](/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
-    -   [Provide alternative text for
-        images](/tips/designing/#include-image-and-media-alternatives-in-your-design)
+    -   [Ensure that all interactive elements are keyboard accessible](/tips/developing/#ensure-that-all-interactive-elements-are-keyboard-accessible)
+    -   [Provide meaning for non-standard interactive elements](/tips/developing/#provide-meaning-for-non-standard-interactive-elements)
+    -   [Provide alternative text for images](/tips/designing/#include-image-and-media-alternatives-in-your-design)
 -   **Easy Check:**
-    -   [Keyboard access and visual
-        focus](/test-evaluate/preliminary/#interaction)
-    -   [Forms, labels, and
-        errors](/test-evaluate/preliminary/#forms)
+    -   [Keyboard access and visual focus](/test-evaluate/preliminary/#interaction)
+    -   [Forms, labels, and errors](/test-evaluate/preliminary/#forms)
 -   **User Story:**
-    -   [Alex, reporter with repetitive stress
-        injury](/people-use-web/user-stories/#reporter)
--   **Web Content Accessibility Guidelines ([WCAG
-    Overview](/standards-guidelines/wcag/)):**
-    -   [Success Criteria relating to "keyboard" and
-        "controls"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols)
+    -  [[Ade, reporter with limited use of his arms]](/people-use-web/user-stories/story-one/)
+-   **Web Content Accessibility Guidelines ([WCAG Overview](/standards-guidelines/wcag/)):**
+    -   [Success Criteria relating to "keyboard" and "controls"](https://www.w3.org/WAI/WCAG21/quickref/?tags=keyboard%2Ccontrols)
 -   **Mobile Applicability:**
-    -   [Mouse required for interaction and
-        navigation](/standards-guidelines/shared-experiences/#mouse)
-    -   [Non descriptive link
-        label](/standards-guidelines/shared-experiences/#link-label)
+    -   [Mouse required for interaction and navigation](/standards-guidelines/shared-experiences/#mouse)
+    -   [Non descriptive link label](/standards-guidelines/shared-experiences/#link-label)
 -   **Tutorial:**
-    -   [Web Accessibility Tutorials](/tutorials/)
-        (several related topics)
+    -   [Web Accessibility Tutorials](/tutorials/) (several related topics)
 
 ## Text Transcript with Description of Visuals {#transcript}
 
