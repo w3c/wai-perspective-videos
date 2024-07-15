@@ -5,7 +5,7 @@
 title: "Keyboard Compatibility"
 nav_title: "Keyboard Compatibility"
 lang: en    # Change "en" to the translated-language shortcode
-last_updated: 2019-01-23    # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2024-07-15    # Put the date of this translation YYYY-MM-DD (with month in the middle)
 order: 1
 
 # translators: # remove from the beginning of this line and the lines below: "# " (the hash sign and the space)
@@ -33,7 +33,7 @@ teaser_text: All functionality must be usable with the keyboard. That is, users 
 # Translate the other words below.
 # Translate the Working Group name. Leave the Working Group acronym in English.
 footer: >
-  <p><strong>Status:</strong> Updated 23 January 2019. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
+  <p><strong>Status:</strong> Updated 15 July 2024. <br><strong>Editor and project lead:</strong> <a href="https://www.w3.org/People/shadi">Shadi Abou-Zahra</a>. Developed by the <a href="https://www.w3.org/WAI/EO/">Education and Outreach Working Group (EOWG)</a> with support from the <a href="https://www.w3.org/WAI/DEV/">WAI-DEV project</a>, co-funded by the European Commission. Updated with support from the Ford Foundation. ACKNOWLEDGEMENTS.</p>
 
 # Read Translations Notes for this resource at https://github.com/w3c/wai-perspective-videos#readme
 ---
@@ -73,7 +73,7 @@ All functionality must be usable with the keyboard. That is, users can access an
 ## What needs to happen for this to work?
 {:#action}
 
-Native HTML controls, like links, buttons, and form elements, work with the keyboard by default and should be used where possible. Custom-made controls, CSS styles, and scripts that control interaction may need additional coding for keyboard compatibility. Ensure that the tab order is logical, to allow keyboard navigation around the content and controls. Provide a way for users to jump between blocks of content and controls. Keyboard issues occur particularly in forms, menus, and applications with many controls.
+Native HTML controls, like links, buttons, and form elements, work with the keyboard by default and should be used where possible. Custom-made controls, CSS styles, and scripts that control interaction may need additional coding for keyboard compatibility. Ensure that the tab order is logical, to allow keyboard navigation around the content and controls. Provide a way for users to jump between blocks of content and controls, and to close pop-up boxes and menus using the keyboard. Keyboard issues occur particularly in forms, menus, and applications with many controls.
 
 ## Learn more
 {:#resources}
